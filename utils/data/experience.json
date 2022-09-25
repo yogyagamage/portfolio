@@ -1,0 +1,56 @@
+{
+    "pageTitle": "Experiences",
+    "subTitles": [
+        "Organization’s Activities",
+        "My Responsibilities",
+        "My Accomplishments",
+        "Challenges Faced"
+    ],
+    "experiences": [
+        {
+            "place": "WSO2",
+            "position": "Software Engineer",
+            "duration": "May 2022 - Present",
+            "OA": "",
+            "MR": "",
+            "MA": "",
+            "CF": ""
+        },
+        {
+            "place": "University of Moratuwa, Sri Lanka",
+            "position": "Visting Instructor",
+            "duration": "Feb 2022 - Apr 2022",
+            "OA": "",
+            "MR": "",
+            "MA": "",
+            "CF": ""
+        },
+        {
+            "place": "Fcode Labs",
+            "position": "Software Engineer - Intern",
+            "duration": "Oct 2020 - Apr 2021",
+            "OA": "",
+            "MR": "",
+            "MA": "",
+            "CF": ""
+        },
+        {
+            "place": "Sieve - Privacy Wherever You Go",
+            "position": "User Interface and User Experience Designer",
+            "duration": "Jul 2020 - Oct 2020",
+            "OA": "",
+            "MR": "",
+            "MA": "",
+            "CF": ""
+        },
+        {
+            "place": "University of Kelaniya, Sri Lanka",
+            "position": "Technical Support Intern",
+            "duration": "Sep 2016 - Apr 2017",
+            "OA": "",
+            "MR": "",
+            "MA": "",
+            "CF": ""
+        }
+    ]
+}

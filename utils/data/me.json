@@ -1,0 +1,44 @@
+{
+    "pageTitle": "Who am I ?",
+    "subTitles": [
+        "Education",
+        "My Hobbies",
+        "My Interests"
+    ],
+    "firstPara": "",
+    "education": [
+        {
+            "place": "Google (through Coursera)",
+            "course": "Google UX Design Professional Certificate",
+            "duration": "May 2022 - Present",
+            "desc": ""
+        },
+        {
+            "place": "Department of Computer Science and Engineering, Faculty of Engineering, University of Moratuwa",
+            "course":  "Bachelor of the Science of Engineering, Specialisation: Computer Science & Engineering",
+            "duration": "Aug 2017 - Dec 2022",
+            "desc": ""
+        },
+        {
+            "place": "California Institute of the Art (through Coursera)",
+            "course": "UI/UX Specialization",
+            "duration": "2020-2021",
+            "desc": ""
+        }
+    ],
+    "hobbies":[
+        {
+            "hobby": "Playing Football",
+            "desc": ""
+        },
+        {
+            "hobby": "Social Service",
+            "desc": ""
+        },
+        {
+            "hobby": "Cooking",
+            "desc": ""
+        }
+    ]
+   
+}

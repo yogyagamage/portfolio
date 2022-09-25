@@ -1,0 +1,31 @@
+{
+    "pageTitle": "Projects",
+    "projects": [
+        {
+            "name": "FabVis",
+            "duration": "04/2022 - Present",
+            "sector": "Textile",
+            "My Role": "UI/UX Designer",
+            "sub1": {
+                "title": "Overview",
+                "desc":""
+            },
+            "sub2": {
+                "title": "Process",
+                "desc":""
+            },
+            "sub3":{
+                "title": "Challenges Faced",
+                "desc":""
+            },
+            "sub4": {
+                "title": "Accomplishments",
+                "desc":""
+            },
+            "sub5": {
+                "title": "Conclusion",
+                "desc":""
+            }
+        }
+    ]
+}
