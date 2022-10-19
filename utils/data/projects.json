@@ -3,8 +3,86 @@
     "projects": [
         {
             "name": "FabVis",
-            "duration": "04/2022 - Present",
+            "duration": "2021 Jun – 2021 Sep",
             "sector": "Textile",
+            "My Role": "UI/UX Designer",
+            "sub1": {
+                "title": "Overview",
+                "desc":""
+            },
+            "sub2": {
+                "title": "Process",
+                "desc":""
+            },
+            "sub3":{
+                "title": "Challenges Faced",
+                "desc":""
+            },
+            "sub4": {
+                "title": "Accomplishments",
+                "desc":""
+            },
+            "sub5": {
+                "title": "Conclusion",
+                "desc":""
+            }
+        },
+        {
+            "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
+            "duration": "2021 Apr – 2022 Mar",
+            "sector": "Urban Development",
+            "My Role": "UI/UX Designer",
+            "sub1": {
+                "title": "Overview",
+                "desc":""
+            },
+            "sub2": {
+                "title": "Process",
+                "desc":""
+            },
+            "sub3":{
+                "title": "Challenges Faced",
+                "desc":""
+            },
+            "sub4": {
+                "title": "Accomplishments",
+                "desc":""
+            },
+            "sub5": {
+                "title": "Conclusion",
+                "desc":""
+            }
+        },
+        {
+            "name": "Organic Chemistry Conversions",
+            "duration": "2021 Feb",
+            "sector": "Education",
+            "My Role": "UI/UX Designer",
+            "sub1": {
+                "title": "Overview",
+                "desc":""
+            },
+            "sub2": {
+                "title": "Process",
+                "desc":""
+            },
+            "sub3":{
+                "title": "Challenges Faced",
+                "desc":""
+            },
+            "sub4": {
+                "title": "Accomplishments",
+                "desc":""
+            },
+            "sub5": {
+                "title": "Conclusion",
+                "desc":""
+            }
+        },
+        {
+            "name": "Automated Categorization of Privacy Policies Based on User Perspective",
+            "duration": "2021 Jun - 2021 Nov",
+            "sector": "Data Privacy",
             "My Role": "UI/UX Designer",
             "sub1": {
                 "title": "Overview",
