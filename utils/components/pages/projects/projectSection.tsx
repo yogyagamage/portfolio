@@ -1,14 +1,5 @@
-import * as React from 'react';
 import ImageList from '@mui/material/ImageList';
-import ImageListItem from '@mui/material/ImageListItem';
-
-function srcset(image: string, size: number, rows = 1, cols = 1) {
-    return {
-        src: `${image}?w=${size * cols}&h=${size * rows}&fit=crop&auto=format`,
-        srcSet: `${image}?w=${size * cols}&h=${size * rows
-            }&fit=crop&auto=format&dpr=2 2x`,
-    };
-}
+import ProjectCard from './projectCard';
 
 export default function ProjectSection() {
     return (
@@ -17,9 +8,7 @@ export default function ProjectSection() {
             cols={4}
         >
             {itemData.map((item) => (
-                <ImageListItem key={item.img} cols={item.cols || 1} rows={item.rows || 1}>
-                    {projectCard(item)}
-                </ImageListItem>
+                <ProjectCard item={item} />
             ))}
         </ImageList>
     );
@@ -55,11 +44,3 @@ const itemData = [
         rows: 4,
     }
 ];
-
-function projectCard(item: { img: string; title: string; rows: number; cols: number; }
-    | { img: string; title: string; cols: number; rows?: undefined; }) {
-    return <img
-        {...srcset(item.img, 121, item.rows, item.cols)}
-        alt={item.title}
-        loading="lazy" />;
-}
