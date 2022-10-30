@@ -7,7 +7,7 @@ export default function MainGrid(prop) {
 
     return (
         <div>
-            <Grid container spacing={2} sx={{
+            <Grid container sx={{
                 '--Grid-borderWidth': '1px',
                 borderTop: 'var(--Grid-borderWidth) solid',
                 borderLeft: 'var(--Grid-borderWidth) solid',
