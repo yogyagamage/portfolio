@@ -9,7 +9,7 @@ export default function Projects() {
         <>
             <NavBar />
             <MainGrid>
-                <Title />
+                <Title title="projects"/>
                 <ProjectSection />
             </MainGrid>
         </>

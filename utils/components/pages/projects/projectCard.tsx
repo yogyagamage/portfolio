@@ -28,7 +28,8 @@ export default function ProjectCard(prop) {
                 }}
                 title={item.title}
                 position="top"
-            />
+            >
+                </ImageListItemBar>
         </ImageListItem>
     );
 }
