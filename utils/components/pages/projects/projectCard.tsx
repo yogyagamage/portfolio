@@ -1,5 +1,7 @@
-import { ImageListItemBar } from '@mui/material';
+import { Grid, IconButton, ImageListItemBar, Popover } from '@mui/material';
 import ImageListItem from '@mui/material/ImageListItem';
+import { useState } from 'react';
+import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
 
 function srcset(image: string, size: number, rows = 1, cols = 1) {
     return {
@@ -13,23 +15,31 @@ export default function ProjectCard(prop) {
 
     const { item } = prop;
 
+    const [showTitle, setShowTitle] = useState(false)
+
+
     return (
         <ImageListItem key={item.img} cols={item.cols} rows={item.rows}>
             <img
                 {...srcset(item.img, 121, item.rows, item.cols)}
                 alt={item.title}
                 loading="lazy"
+                onMouseOver={() => setShowTitle(true)}
+                onMouseOut={() => setShowTitle(false)}
             />
-            <ImageListItemBar
-                sx={{
-                    background:
-                        'linear-gradient(to bottom, rgba(0,0,0,1) 30%, ' +
-                        'rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%)',
-                }}
-                title={item.title}
-                position="top"
-            >
-                </ImageListItemBar>
+            {
+                showTitle
+                    ? <ImageListItemBar
+                        title={item.title}
+                        actionIcon={
+                            <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
+                                <ArrowCircleRightIcon />
+                            </IconButton>
+                        }
+                    />
+                    : null
+            }
+
         </ImageListItem>
     );
 }
