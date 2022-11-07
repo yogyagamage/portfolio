@@ -10,8 +10,8 @@ export default function Experiences() {
     return (
         <>
             <NavBar />
+            <Title title="experiences" />
             <MainGrid>
-                <Title title="experiences" />
                 <ExperienceSection />
             </MainGrid>
         </>

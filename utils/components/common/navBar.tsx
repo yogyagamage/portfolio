@@ -30,9 +30,6 @@ export default function NavBar(props: Props) {
 
     const drawer = (
         <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
-            <Typography variant="h6" sx={{ my: 2 }}>
-                MUI
-            </Typography>
             <Divider />
             <List>
                 {navItems.map((item) => (
@@ -50,18 +47,21 @@ export default function NavBar(props: Props) {
 
     return (
         <Box sx={{ display: "flex" }}>
-            <AppBar component="nav" elevation={0}>
+            <AppBar component="nav" elevation={0} sx={{
+                '--AppBar-borderWidth': '1px',
+                borderBottom: 'var(--AppBar-borderWidth) solid',
+                borderColor: 'divider'
+            }}>
                 <Toolbar>
                     <Typography
                         variant="h6"
                         component="div"
                         sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
                     >
-                        MUI
                     </Typography>
                     <Box sx={{ display: { xs: "none", sm: "block" } }}>
                         {navItems.map((item) => (
-                            <Button key={item} sx={{ color: "#fff" }}>
+                            <Button key={item} sx={{ color: "#242424" }}>
                                 {item}
                             </Button>
                         ))}

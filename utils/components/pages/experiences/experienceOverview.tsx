@@ -20,7 +20,7 @@ function SingleDetail(prop) {
         <ListItem disablePadding>
             {
                 company
-                    ? <Typography variant="h6" color="text.primary">
+                    ? <Typography variant="h5" color="text.primary">
                         {company}
                     </Typography>
                     : null

@@ -11,13 +11,13 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: #f5eee4;        /* color of the tracking area */
+  background: #F6EEE3;        /* color of the tracking area */
 }
 
 body::-webkit-scrollbar-thumb {
   background-color: #6670804f;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
-  border: 3px solid #f5eee4;  /* creates padding around scroll thumb */
+  border: 3px solid #F6EEE3;  /* creates padding around scroll thumb */
 }
 
 a {
@@ -35,6 +35,24 @@ a {
   }
   body {
     color: #667080;
-    background: #f5eee4;
+    background: #F6EEE3;
   }
+}
+
+@font-face {
+  font-family: 'Minipax-Regular';
+  src: url("/fonts/Minipax-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Minipax-SemiBold';
+  src: url("/fonts/Minipax-SemiBold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SpaceGrotesk-Regular';
+  src: url("/fonts/SpaceGrotesk-Regular.ttf");
+  font-display: swap;
 }

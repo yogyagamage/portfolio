@@ -8,8 +8,8 @@ export default function Projects() {
     return (
         <>
             <NavBar />
+            <Title title="projects" />
             <MainGrid>
-                <Title title="projects" />
                 <ProjectSection />
             </MainGrid>
         </>

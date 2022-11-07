@@ -1,6 +1,8 @@
+import { CssBaseline, ThemeProvider } from "@mui/material";
 import Head from "next/head";
 import React from "react";
 import "../styles/globals.css";
+import { appTheme } from "../utils/theme/appTheme";
 
 function MyApp(prop) {
 
@@ -12,7 +14,11 @@ function MyApp(prop) {
                 <title>Achintha Isuru</title>
                 <link rel="shortcut icon" href="/favicon.png" />
             </Head>
-            <Component { ...pageProps } />
+            <ThemeProvider theme={appTheme}>
+                <CssBaseline enableColorScheme />
+                <Component {...pageProps} />
+            </ThemeProvider>
+
         </>
 
     );

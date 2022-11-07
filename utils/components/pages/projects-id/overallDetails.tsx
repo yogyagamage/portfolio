@@ -13,11 +13,11 @@ export default function OverallDetails() {
 
 function OverallDetailsItem() {
     return (
-        <ListItem >
+        <ListItem disablePadding>
             <ListItemText primary={
                 <Grid container justifyContent="flex-start" spacing={{ xs: 2, md: 1 }} >
                     <Grid item xs={3} sm={1} md={1.5} lg={1}>
-                        <Typography variant="body2" color="text.">
+                        <Typography variant="body2" color="text.secondary">
                             Duration
                         </Typography>
                     </Grid>

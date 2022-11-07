@@ -20,8 +20,8 @@ export default function SingleProject() {
     return (
         <>
             <NavBar />
+            <Title title="projects" />
             <MainGrid>
-                <Title title="projects" />
                 <OverallDetails />
                 <br />
                 <DescriptionList />
