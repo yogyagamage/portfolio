@@ -13,7 +13,7 @@ export default function OverallDetails() {
 
 function OverallDetailsItem() {
     return (
-        <ListItem disablePadding>
+        <ListItem >
             <ListItemText primary={
                 <Grid container justifyContent="flex-start" spacing={{ xs: 2, md: 1 }} >
                     <Grid item xs={3} sm={1} md={1.5} lg={1}>
