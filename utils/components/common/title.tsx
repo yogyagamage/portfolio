@@ -1,5 +1,4 @@
-import { Divider, Stack } from '@mui/material';
-import React from 'react'
+import { Stack, Typography } from '@mui/material';
 
 export default function Title(prop) {
 
@@ -14,7 +13,10 @@ export default function Title(prop) {
                     height: "100%",
                     textTransform: "capitalize"
                 }}>
-                <h1>{title}</h1>
+
+                <Typography variant="h4" color="text.secondary">
+                    {title}
+                </Typography>
             </Stack>
 
         </div>

@@ -1,5 +1,8 @@
+import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
+import { IconButton, ImageListItemBar } from '@mui/material';
 import ImageList from '@mui/material/ImageList';
-import ProjectCard from './projectCard';
+import ImageListItem from '@mui/material/ImageListItem';
+import { useState } from 'react';
 
 export default function ProjectSection() {
     return (
@@ -44,3 +47,43 @@ const itemData = [
         rows: 4,
     }
 ];
+
+function ProjectCard(prop) {
+
+    const { item } = prop;
+
+    const [showTitle, setShowTitle] = useState(false)
+
+    const srcset = (image: string, size: number, rows = 1, cols = 1) => {
+        return {
+            src: `${image}?w=${size * cols}&h=${size * rows}&fit=crop&auto=format`,
+            srcSet: `${image}?w=${size * cols}&h=${size * rows
+                }&fit=crop&auto=format&dpr=2 2x`,
+        };
+    }
+
+    return (
+        <ImageListItem key={item.img} cols={item.cols} rows={item.rows}>
+            <img
+                {...srcset(item.img, 121, item.rows, item.cols)}
+                alt={item.title}
+                loading="lazy"
+                onMouseOver={() => setShowTitle(true)}
+                onMouseOut={() => setShowTitle(false)}
+            />
+            {
+                showTitle
+                    ? <ImageListItemBar
+                        title={item.title}
+                        actionIcon={
+                            <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
+                                <ArrowCircleRightIcon />
+                            </IconButton>
+                        }
+                    />
+                    : null
+            }
+
+        </ImageListItem>
+    );
+}
