@@ -9,9 +9,6 @@ export default function ProjectSection() {
         <ImageList
             variant="quilted"
             cols={4}
-            sx={{
-                paddingTop: "40px"
-            }}
         >
             {itemData.map((item) => (
                 <ProjectCard item={item} />

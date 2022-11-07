@@ -17,8 +17,7 @@ export default function MainGrid(prop) {
                     borderLeft: 'var(--Grid-borderWidth) solid',
                     borderRight: 'var(--Grid-borderWidth) solid',
                     borderColor: 'divider',
-                    paddingLeft: "40px",
-                    paddingRight: "40px"
+                    padding: "20px 40px"
                 }}>
                     {children}
                 </Grid>

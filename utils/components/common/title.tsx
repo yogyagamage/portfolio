@@ -23,7 +23,7 @@ export default function Title(prop) {
                         borderRight: 'var(--Grid-borderWidth) solid',
                         borderColor: 'divider',
                         paddingLeft: "40px",
-                        paddingRight: "40px"
+                        paddingRight: "40px",
                     }}>
                         <Stack
                             direction="column"
