@@ -1,4 +1,3 @@
-import { List, ListItem, ListItemText, Stack, Typography } from "@mui/material";
 import DescriptionList from "../../utils/components/common/descriptionList";
 import MainGrid from "../../utils/components/common/mainGrid";
 import NavBar from "../../utils/components/common/navBar";

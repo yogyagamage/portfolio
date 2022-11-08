@@ -8,7 +8,7 @@ export default function MainGrid(prop) {
     return (
         <div>
             <Grid container sx={{
-                height: "100vh"
+                height: "100%"
             }}>
                 <Grid item xs={0} sm={1} md={2} sx={{ display: { xs: 'none', sm: 'block' } }}>
                 </Grid>

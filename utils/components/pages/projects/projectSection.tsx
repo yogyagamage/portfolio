@@ -4,14 +4,15 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import { useState } from 'react';
 
-export default function ProjectSection() {
+export default function ProjectSection({ projects }) {
+
     return (
         <ImageList
             variant="quilted"
             cols={4}
         >
-            {itemData.map((item) => (
-                <ProjectCard item={item} />
+            {projects.map((project) => (
+                <ProjectCard project={project} />
             ))}
         </ImageList>
     );
@@ -38,19 +39,17 @@ const itemData = [
         img: 'https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c',
         title: 'Coffee',
         cols: 2,
-        rows: 4,
+        rows: 2,
     },
     {
         img: 'https://images.unsplash.com/photo-1533827432537-70133748f5c8',
         title: 'Hats',
         cols: 2,
-        rows: 4,
+        rows: 2,
     }
 ];
 
-function ProjectCard(prop) {
-
-    const { item } = prop;
+function ProjectCard({ project }) {
 
     const [showTitle, setShowTitle] = useState(false)
 
@@ -63,10 +62,15 @@ function ProjectCard(prop) {
     }
 
     return (
-        <ImageListItem key={item.img} cols={item.cols} rows={item.rows}>
+        <ImageListItem
+            key={project.image}
+            cols={project.cols}
+            rows={project.rows}
+            onClick={()=>console.log("asdsa")}
+            style={{cursor: "pointer"}}>
             <img
-                {...srcset(item.img, 121, item.rows, item.cols)}
-                alt={item.title}
+                {...srcset(project.image, 1100, project.rows, project.cols)}
+                alt={project.name}
                 loading="lazy"
                 onMouseOver={() => setShowTitle(true)}
                 onMouseOut={() => setShowTitle(false)}
@@ -74,7 +78,8 @@ function ProjectCard(prop) {
             {
                 showTitle
                     ? <ImageListItemBar
-                        title={item.title}
+                        title={project.name}
+                        subtitle={project.role}
                         actionIcon={
                             <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
                                 <ArrowCircleRightIcon />

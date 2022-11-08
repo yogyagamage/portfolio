@@ -5,104 +5,143 @@
             "name": "FabVis",
             "duration": "2021 Jun – 2021 Sep",
             "sector": "Textile",
-            "My Role": "UI/UX Designer",
+            "role": "UI/UX Designer",
+            "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
+            "rows": 2,
+            "cols": 2,
             "sub1": {
                 "title": "Overview",
-                "desc":""
+                "desc": ""
             },
             "sub2": {
                 "title": "Process",
-                "desc":""
+                "desc": ""
             },
-            "sub3":{
+            "sub3": {
                 "title": "Challenges Faced",
-                "desc":""
+                "desc": ""
             },
             "sub4": {
                 "title": "Accomplishments",
-                "desc":""
+                "desc": ""
             },
             "sub5": {
                 "title": "Conclusion",
-                "desc":""
+                "desc": ""
             }
         },
         {
             "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
             "duration": "2021 Apr – 2022 Mar",
             "sector": "Urban Development",
-            "My Role": "UI/UX Designer",
+            "role": "UI/UX Designer",
+            "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+            "cols": 2,
             "sub1": {
                 "title": "Overview",
-                "desc":""
+                "desc": ""
             },
             "sub2": {
                 "title": "Process",
-                "desc":""
+                "desc": ""
             },
-            "sub3":{
+            "sub3": {
                 "title": "Challenges Faced",
-                "desc":""
+                "desc": ""
             },
             "sub4": {
                 "title": "Accomplishments",
-                "desc":""
+                "desc": ""
             },
             "sub5": {
                 "title": "Conclusion",
-                "desc":""
+                "desc": ""
             }
         },
         {
             "name": "Organic Chemistry Conversions",
             "duration": "2021 Feb",
             "sector": "Education",
-            "My Role": "UI/UX Designer",
+            "role": "UI/UX Designer",
+            "image": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80",
+            "cols": 2,
             "sub1": {
                 "title": "Overview",
-                "desc":""
+                "desc": ""
             },
             "sub2": {
                 "title": "Process",
-                "desc":""
+                "desc": ""
             },
-            "sub3":{
+            "sub3": {
                 "title": "Challenges Faced",
-                "desc":""
+                "desc": ""
             },
             "sub4": {
                 "title": "Accomplishments",
-                "desc":""
+                "desc": ""
             },
             "sub5": {
                 "title": "Conclusion",
-                "desc":""
+                "desc": ""
             }
         },
         {
             "name": "Automated Categorization of Privacy Policies Based on User Perspective",
             "duration": "2021 Jun - 2021 Nov",
             "sector": "Data Privacy",
-            "My Role": "UI/UX Designer",
+            "role": "UI/UX Designer",
+            "image": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3444&q=80",
+            "cols": 2,
+            "rows": 2,
             "sub1": {
                 "title": "Overview",
-                "desc":""
+                "desc": ""
             },
             "sub2": {
                 "title": "Process",
-                "desc":""
+                "desc": ""
             },
-            "sub3":{
+            "sub3": {
                 "title": "Challenges Faced",
-                "desc":""
+                "desc": ""
             },
             "sub4": {
                 "title": "Accomplishments",
-                "desc":""
+                "desc": ""
             },
             "sub5": {
                 "title": "Conclusion",
-                "desc":""
+                "desc": ""
+            }
+        },
+        {
+            "name": "Automated Categorization of Privacy Policies Based on User Perspective",
+            "duration": "2021 Jun - 2021 Nov",
+            "sector": "Data Privacy",
+            "role": "UI/UX Designer",
+            "image": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3444&q=80",
+            "cols": 2,
+            "rows": 2,
+            "sub1": {
+                "title": "Overview",
+                "desc": ""
+            },
+            "sub2": {
+                "title": "Process",
+                "desc": ""
+            },
+            "sub3": {
+                "title": "Challenges Faced",
+                "desc": ""
+            },
+            "sub4": {
+                "title": "Accomplishments",
+                "desc": ""
+            },
+            "sub5": {
+                "title": "Conclusion",
+                "desc": ""
             }
         }
     ]
