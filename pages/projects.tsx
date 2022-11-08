@@ -9,9 +9,9 @@ export default function Projects() {
     return (
         <>
             <NavBar />
-            <Title title={projectsConfig.pageTitle} />
+            <Title title={ projectsConfig.pageTitle } />
             <MainGrid>
-                <ProjectSection projects={projectsConfig.projects}/>
+                <ProjectSection projects={ projectsConfig.projects }/>
             </MainGrid>
         </>
 

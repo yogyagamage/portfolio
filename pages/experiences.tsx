@@ -8,9 +8,9 @@ export default function Experiences() {
     return (
         <>
             <NavBar />
-            <Title title={experienceConfig.pageTitle} />
+            <Title title={ experienceConfig.pageTitle } />
             <MainGrid>
-                <ExperienceSection experiences={experienceConfig.experiences}/>
+                <ExperienceSection experiences={ experienceConfig.experiences }/>
             </MainGrid>
         </>
 

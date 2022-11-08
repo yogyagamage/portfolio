@@ -14,9 +14,9 @@ function MyApp(prop) {
                 <title>Achintha Isuru</title>
                 <link rel="shortcut icon" href="/favicon.png" />
             </Head>
-            <ThemeProvider theme={appTheme}>
+            <ThemeProvider theme={ appTheme }>
                 <CssBaseline enableColorScheme />
-                <Component {...pageProps} />
+                <Component { ...pageProps } />
             </ThemeProvider>
 
         </>
