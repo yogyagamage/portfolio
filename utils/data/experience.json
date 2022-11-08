@@ -1,56 +1,97 @@
 {
     "pageTitle": "Experiences",
-    "subTitles": [
-        "Organization’s Activities",
-        "My Responsibilities",
-        "My Accomplishments",
-        "Challenges Faced"
-    ],
     "experiences": [
         {
             "place": "WSO2",
             "position": "Software Engineer",
             "duration": "May 2022 - Present",
-            "OA": "",
-            "MR": "",
-            "MA": "",
-            "CF": ""
+            "content": [
+                {
+                    "title": "Organization’s Activities",
+                    "body": "WSO2 is one of the biggest open-source technology providers in the world today. Their main products are Identity Server, Choreo and Ballerina."
+                },
+                {
+                    "title": "My Responsibilities",
+                    "body": "My primary tasks are to work on the managment and development of the Identity Server and Asgardeo's front-end features. For development, I mainly use React JS and Java"
+                },
+                {
+                    "title": "My Accomplishments",
+                    "body": "In just two weeks, I developed a complete website to demonstrate a newly developed feature, using a technology I had never used before. This is the applicaiton that is currently used by the company to demonstrate that new feature."
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "Being new to the field of Identity and Access Management, it was challenging to learn a lot of new concepts quickly."
+                }
+            ]
         },
         {
-            "place": "University of Moratuwa, Sri Lanka",
+            "place": "Department of Computer Science & Engineering, University of Moratuwa",
             "position": "Visting Instructor",
             "duration": "Feb 2022 - Apr 2022",
-            "OA": "",
-            "MR": "",
-            "MA": "",
-            "CF": ""
+            "content": [
+                {
+                    "title": "Organization’s Activities",
+                    "body": "I served as a teaching assistant for the CS 3042 Database Systems module, which explains the fundamentals of database operations."
+                },
+                {
+                    "title": "My Responsibilities",
+                    "body": "My main responsibilities were to help the students during the practical sessions and mark their assignments."
+                },
+                {
+                    "title": "My Accomplishments",
+                    "body": "In a hands-on lesson, I assisted a struggling student in comprehending how JOIN queries operate. It was one of my accomplishments during this brief period."
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "Learning how to help students was a little challenging at first, but as time passed, it became natural and enjoyable."
+                }
+            ]
         },
         {
             "place": "Fcode Labs",
             "position": "Software Engineer - Intern",
             "duration": "Oct 2020 - Apr 2021",
-            "OA": "",
-            "MR": "",
-            "MA": "",
-            "CF": ""
+            "content": [
+                {
+                    "title": "Organization’s Activities",
+                    "body": "Fcode Labs is one of the new up-and-coming software engineering companies, where its operations are based in Sri Lanka and Singapore."
+                },
+                {
+                    "title": "My Responsibilities",
+                    "body": "I was hired as a mobile developer and UI/UX designer. My responsibilities were to design and develop mobile applications developed by the company."
+                },
+                {
+                    "title": "My Accomplishments",
+                    "body": "During my brief tenure at the company, I focused primarily on their newest product, Workmate. This app's completion is my main accomplishment."
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "The main challenge I faced was adapting to the work-from-home environment, due to the covid pandemic situation."
+                }
+            ]
         },
         {
             "place": "Sieve - Privacy Wherever You Go",
             "position": "User Interface and User Experience Designer",
             "duration": "Jul 2020 - Oct 2020",
-            "OA": "",
-            "MR": "",
-            "MA": "",
-            "CF": ""
-        },
-        {
-            "place": "University of Kelaniya, Sri Lanka",
-            "position": "Technical Support Intern",
-            "duration": "Sep 2016 - Apr 2017",
-            "OA": "",
-            "MR": "",
-            "MA": "",
-            "CF": ""
+            "content": [
+                {
+                    "title": "Organization’s Activities",
+                    "body": "Sieve is a Singapore-based company where they empower consumers to make informed decisions on their digital privacy."
+                },
+                {
+                    "title": "My Responsibilities",
+                    "body": "My main duties included designing their data privacy chatbot mobile application and redesigning the company's main webpage."
+                },
+                {
+                    "title": "My Accomplishments",
+                    "body": "My achievements included learning and mastering Adobe XD and becoming aware of the importance of data privacy in today's technological world."
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "The main challenge I faced was learning how to work and communicate with people of diverse nationalities and different backgrounds."
+                }
+            ]
         }
     ]
 }

@@ -1,27 +1,29 @@
 import { List, ListItem, Typography } from "@mui/material";
 
 
-export default function ExperienceOverview() {
+export default function ExperienceOverview(prop) {
+
+    const { place, position, duration } = prop;
 
     return (
         <List dense={true} >
-            <SingleDetail company="WSO2" />
-            <SingleDetail position="Software Engineer" />
-            <SingleDetail duration=" 04/2022 - Present" />
+            <SingleDetail place={place} />
+            <SingleDetail position={position} />
+            <SingleDetail duration={duration} />
         </List>
     );
 }
 
 function SingleDetail(prop) {
 
-    const { company, position, duration } = prop;
+    const { place, position, duration } = prop;
 
     return (
         <ListItem disablePadding>
             {
-                company
+                place
                     ? <Typography variant="h5" color="text.primary">
-                        {company}
+                        {place}
                     </Typography>
                     : null
             }

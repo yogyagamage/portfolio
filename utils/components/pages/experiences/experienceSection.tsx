@@ -1,32 +1,40 @@
+import { Divider } from "@mui/material";
 import DescriptionList from "../../common/descriptionList";
-import MainGrid from "../../common/mainGrid";
-import NavBar from "../../common/navBar";
-import Title from "../../common/title";
-import { Grid, List, ListItem, ListItemText, Divider } from "@mui/material";
 import ExperienceOverview from "./experienceOverview";
+import PropTypes from "prop-types";
 
+function Experiences({ experiences }) {
 
-export default function Experiences() {
     return (
         <>
-            <SingleExperience />
-            <SingleExperience />
+            {
+                experiences.map((experience) => <SingleExperience experience={experience} />)
+            }
         </>
 
     );
 
 }
-function SingleExperience() {
+
+Experiences.propTypes = {
+    experiences: PropTypes.arrayOf(PropTypes.object)
+}
+
+function SingleExperience({ experience }) {
 
     return (
         <>
             <br />
-            <ExperienceOverview />
+            <ExperienceOverview
+                place={experience.place}
+                position={experience.position}
+                duration={experience.duration} />
             <br />
-            <DescriptionList />
+            <DescriptionList list={experience.content} />
             <br />
             <Divider />
         </>
     );
 }
 
+export default Experiences;
