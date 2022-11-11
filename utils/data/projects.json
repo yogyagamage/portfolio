@@ -3,6 +3,7 @@
     "projects": [
         {
             "name": "FabVis",
+            "role" : "UI/UX Designer",
             "overview" : [
                 {
                     "title" : "Duration",
@@ -45,6 +46,7 @@
         },
         {
             "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
+            "role" : "Mobile Application Developer and UI/UX Designer",
             "overview" : [
                 {
                     "title" : "Duration",
@@ -86,6 +88,7 @@
         },
         {
             "name": "Organic Chemistry Conversions",
+            "role" : "UI/UX Designer",
             "overview" : [
                 {
                     "title" : "Duration",
@@ -127,6 +130,7 @@
         },
         {
             "name": "Automated Categorization of Privacy Policies Based on User Perspective",
+            "role" : "Mobile Application Developer and UI/UX Designer",
             "overview" : [
                 {
                     "title" : "Duration",
