@@ -3,27 +3,31 @@ import MainGrid from "../../utils/components/common/mainGrid";
 import NavBar from "../../utils/components/common/navBar";
 import Title from "../../utils/components/common/title";
 import OverallDetails from "../../utils/components/pages/projects-id/overallDetails";
+import projectConfig from "../../utils/data/projects.json";
 
 export async function getServerSideProps(context) {
 
-    const routerQuery = context.query.id;
+    const projectName = context.query.id;
+    const projects = projectConfig.projects;
+
+    const project = projects.filter((project) => project.name === projectName)[0];
 
     return {
-        props: { routerQuery }
+        props: { project }
     };
 
 }
 
-export default function SingleProject() {
+export default function SingleProject({ project }) {
 
     return (
         <>
             <NavBar />
-            <Title title="projects" />
+            <Title title={project.name} />
             <MainGrid>
-                <OverallDetails />
+                <OverallDetails overview={project.overview} />
                 <br />
-                <DescriptionList />
+                <DescriptionList list={project.content}/>
 
             </MainGrid>
         </>

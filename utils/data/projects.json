@@ -3,146 +3,169 @@
     "projects": [
         {
             "name": "FabVis",
-            "duration": "2021 Jun – 2021 Sep",
-            "sector": "Textile",
-            "role": "UI/UX Designer",
+            "overview" : [
+                {
+                    "title" : "Duration",
+                    "body" :"2021 Jun – 2021 Sep"
+                },
+                {
+                    "title" : "Sector",
+                    "body" :"Textile"
+                },
+                {
+                    "title" : "My Role",
+                    "body" :"UI/UX Designer"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
             "rows": 2,
             "cols": 2,
-            "sub1": {
-                "title": "Overview",
-                "desc": ""
-            },
-            "sub2": {
-                "title": "Process",
-                "desc": ""
-            },
-            "sub3": {
-                "title": "Challenges Faced",
-                "desc": ""
-            },
-            "sub4": {
-                "title": "Accomplishments",
-                "desc": ""
-            },
-            "sub5": {
-                "title": "Conclusion",
-                "desc": ""
-            }
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Process",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Conclusion",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                }
+            ]
         },
         {
             "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
-            "duration": "2021 Apr – 2022 Mar",
-            "sector": "Urban Development",
-            "role": "UI/UX Designer",
+            "overview" : [
+                {
+                    "title" : "Duration",
+                    "body" :"2021 Apr – 2022 Mar"
+                },
+                {
+                    "title" : "Sector",
+                    "body" :"Urban Development"
+                },
+                {
+                    "title" : "My Role",
+                    "body" :"Mobile Application Developer and UI/UX Designer"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
             "cols": 2,
-            "sub1": {
-                "title": "Overview",
-                "desc": ""
-            },
-            "sub2": {
-                "title": "Process",
-                "desc": ""
-            },
-            "sub3": {
-                "title": "Challenges Faced",
-                "desc": ""
-            },
-            "sub4": {
-                "title": "Accomplishments",
-                "desc": ""
-            },
-            "sub5": {
-                "title": "Conclusion",
-                "desc": ""
-            }
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Process",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Conclusion",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                }
+            ]
         },
         {
             "name": "Organic Chemistry Conversions",
-            "duration": "2021 Feb",
-            "sector": "Education",
-            "role": "UI/UX Designer",
+            "overview" : [
+                {
+                    "title" : "Duration",
+                    "body" :"2021 Feb"
+                },
+                {
+                    "title" : "Sector",
+                    "body" :"Education"
+                },
+                {
+                    "title" : "My Role",
+                    "body" :"UI/UX Designer"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80",
             "cols": 2,
-            "sub1": {
-                "title": "Overview",
-                "desc": ""
-            },
-            "sub2": {
-                "title": "Process",
-                "desc": ""
-            },
-            "sub3": {
-                "title": "Challenges Faced",
-                "desc": ""
-            },
-            "sub4": {
-                "title": "Accomplishments",
-                "desc": ""
-            },
-            "sub5": {
-                "title": "Conclusion",
-                "desc": ""
-            }
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Process",
+                    "body": ""
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Conclusion",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                }
+            ]
         },
         {
             "name": "Automated Categorization of Privacy Policies Based on User Perspective",
-            "duration": "2021 Jun - 2021 Nov",
-            "sector": "Data Privacy",
-            "role": "UI/UX Designer",
+            "overview" : [
+                {
+                    "title" : "Duration",
+                    "body" :"2021 Jun - 2021 Nov"
+                },
+                {
+                    "title" : "Sector",
+                    "body" :"Data Privacy"
+                },
+                {
+                    "title" : "My Role",
+                    "body" :"Mobile Application Developer and UI/UX Designer"
+                }
+            ],
             "image": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3444&q=80",
             "cols": 2,
             "rows": 2,
-            "sub1": {
-                "title": "Overview",
-                "desc": ""
-            },
-            "sub2": {
-                "title": "Process",
-                "desc": ""
-            },
-            "sub3": {
-                "title": "Challenges Faced",
-                "desc": ""
-            },
-            "sub4": {
-                "title": "Accomplishments",
-                "desc": ""
-            },
-            "sub5": {
-                "title": "Conclusion",
-                "desc": ""
-            }
-        },
-        {
-            "name": "Automated Categorization of Privacy Policies Based on User Perspective",
-            "duration": "2021 Jun - 2021 Nov",
-            "sector": "Data Privacy",
-            "role": "UI/UX Designer",
-            "image": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3444&q=80",
-            "cols": 2,
-            "rows": 2,
-            "sub1": {
-                "title": "Overview",
-                "desc": ""
-            },
-            "sub2": {
-                "title": "Process",
-                "desc": ""
-            },
-            "sub3": {
-                "title": "Challenges Faced",
-                "desc": ""
-            },
-            "sub4": {
-                "title": "Accomplishments",
-                "desc": ""
-            },
-            "sub5": {
-                "title": "Conclusion",
-                "desc": ""
-            }
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Process",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Conclusion",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                }
+            ]
         }
     ]
 }

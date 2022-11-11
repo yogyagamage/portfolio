@@ -2,9 +2,14 @@ import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
 import { IconButton, ImageListItemBar } from '@mui/material';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
+import Link from 'next/link';
 import { useState } from 'react';
 
 export default function ProjectSection({ projects }) {
+
+    const navigateToProject = () => {
+
+    }
 
     return (
         <ImageList
@@ -31,33 +36,36 @@ function ProjectCard({ project }) {
     }
 
     return (
-        <ImageListItem
-            key={project.image}
-            cols={project.cols}
-            rows={project.rows}
-            onClick={()=>console.log("asdsa")}
-            style={{cursor: "pointer"}}>
-            <img
-                {...srcset(project.image, 1100, project.rows, project.cols)}
-                alt={project.name}
-                loading="lazy"
-                onMouseOver={() => setShowTitle(true)}
-                onMouseOut={() => setShowTitle(false)}
-            />
-            {
-                showTitle
-                    ? <ImageListItemBar
-                        title={project.name}
-                        subtitle={project.role}
-                        actionIcon={
-                            <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
-                                <ArrowCircleRightIcon />
-                            </IconButton>
-                        }
-                    />
-                    : null
-            }
+        <Link href={`/projects/${project.name}`}>
+            <ImageListItem
+                key={project.image}
+                cols={project.cols}
+                rows={project.rows}
+                onClick={() => console.log("asdsa")}
+                style={{ cursor: "pointer" }}>
+                <img
+                    {...srcset(project.image, 1100, project.rows, project.cols)}
+                    alt={project.name}
+                    loading="lazy"
+                    onMouseOver={() => setShowTitle(true)}
+                    onMouseOut={() => setShowTitle(false)}
+                />
+                {
+                    showTitle
+                        ? <ImageListItemBar
+                            title={project.name}
+                            subtitle={project.role}
+                            actionIcon={
+                                <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
+                                    <ArrowCircleRightIcon />
+                                </IconButton>
+                            }
+                        />
+                        : null
+                }
 
-        </ImageListItem>
+            </ImageListItem>
+        </Link>
+
     );
 }
