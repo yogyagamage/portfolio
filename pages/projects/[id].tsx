@@ -4,6 +4,7 @@ import NavBar from "../../utils/components/common/navBar";
 import Title from "../../utils/components/common/title";
 import OverallDetails from "../../utils/components/pages/projects-id/overallDetails";
 import projectConfig from "../../utils/data/projects.json";
+import Error from "next/error";
 
 export async function getServerSideProps(context) {
 
@@ -12,24 +13,32 @@ export async function getServerSideProps(context) {
 
     const project = projects.filter((project) => project.name === projectName)[0];
 
-    return {
-        props: { project }
-    };
+    if (project) {
+        return {
+            props: { project }
+        };
+    }
 
+    return {
+        props : {}
+    }
 }
 
 export default function SingleProject({ project }) {
 
     return (
-        <>
-            <NavBar />
-            <Title title={project.name} />
-            <MainGrid>
-                <OverallDetails overview={project.overview} />
-                <br />
-                <DescriptionList list={project.content}/>
+        project
+            ?
+            <>
+                <NavBar />
+                <Title title={project.name} />
+                <MainGrid>
+                    <OverallDetails overview={project.overview} />
+                    <br />
+                    <DescriptionList list={project.content} />
 
-            </MainGrid>
-        </>
+                </MainGrid>
+            </>
+            : <Error statusCode={404} />
     );
 }
