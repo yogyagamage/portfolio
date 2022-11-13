@@ -24,11 +24,11 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. This research aims to create a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
                 },
                 {
                     "title": "Process",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": ""
                 },
                 {
                     "title": "Challenges Faced",
@@ -66,11 +66,14 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. This research aims to create a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
                 },
                 {
                     "title": "Process",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above.",
+                    "links" : [
+                        "https://play.google.com/store/apps/details?id=codemo.iroads_mobile&hl=en&gl=US"
+                    ]
                 },
                 {
                     "title": "Challenges Faced",

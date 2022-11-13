@@ -1,4 +1,4 @@
-import { Stack, Typography } from "@mui/material";
+import { List, ListItem, Stack, Typography } from "@mui/material";
 import PropTypes from "prop-types";
 
 function DescriptionList({ list }) {
@@ -28,11 +28,18 @@ function DescriptionListItem({ title, body }) {
             <Typography variant="body2" color="text.secondary">
                 {body}
             </Typography>
+            <Typography variant="body2" color="text.secondary">
+                <List aria-labelledby="basic-list-demo">
+                    <ListItem><a href={""}>asd</a></ListItem>
+                    <ListItem>2 red peppers</ListItem>
+                    <ListItem>120g bacon</ListItem>
+                </List>
+            </Typography>
         </Stack>
     );
 }
 
 DescriptionListItem.propTypes = {
-    title : PropTypes.string,
+    title: PropTypes.string,
     body: PropTypes.string
 }
