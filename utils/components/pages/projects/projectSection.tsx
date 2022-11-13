@@ -41,7 +41,6 @@ function ProjectCard({ project }) {
                 key={project.image}
                 cols={project.cols}
                 rows={project.rows}
-                onClick={() => console.log("asdsa")}
                 style={{ cursor: "pointer" }}>
                 <img
                     {...srcset(project.image, 1100, project.rows, project.cols)}

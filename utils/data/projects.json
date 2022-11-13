@@ -70,10 +70,7 @@
                 },
                 {
                     "title": "Process",
-                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above.",
-                    "links" : [
-                        "https://play.google.com/store/apps/details?id=codemo.iroads_mobile&hl=en&gl=US"
-                    ]
+                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above."
                 },
                 {
                     "title": "Challenges Faced",
@@ -81,7 +78,13 @@
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. ",
+                    "links" : [
+                        {
+                            "title" : "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
+                            "link" : "https://link.springer.com/article/10.1007/s13177-022-00312-6"
+                        }
+                    ]
                 },
                 {
                     "title": "Conclusion",

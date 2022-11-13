@@ -36,7 +36,6 @@ export default function SingleProject({ project }) {
                     <OverallDetails overview={project.overview} />
                     <br />
                     <DescriptionList list={project.content} />
-
                 </MainGrid>
             </>
             : <Error statusCode={404} />
