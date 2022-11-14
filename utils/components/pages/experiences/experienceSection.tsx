@@ -26,9 +26,7 @@ function SingleExperience({ experience }) {
         <>
             <br />
             <ExperienceOverview
-                place={experience.place}
-                position={experience.position}
-                duration={experience.duration} />
+               title={experience.title} />
             <br />
             <DescriptionList list={experience.content} />
             <br />

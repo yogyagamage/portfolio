@@ -3,47 +3,47 @@ import { List, ListItem, Typography } from "@mui/material";
 
 export default function ExperienceOverview(prop) {
 
-    const { place, position, duration } = prop;
+    const { title } = prop;
 
     return (
         <List dense={true} >
-            <SingleDetail place={place} />
-            <SingleDetail position={position} />
-            <SingleDetail duration={duration} />
+            <SingleDetail one={title[0]} />
+            <SingleDetail two={title[1]} />
+            <SingleDetail three={title[2]} />
         </List>
     );
 }
 
 function SingleDetail(prop) {
 
-    const { place, position, duration } = prop;
+    const { one, two, three } = prop;
 
     return (
         <ListItem disablePadding>
             {
-                place
+                one
                     ? <Typography variant="h5" color="text.primary">
-                        {place}
+                        {one}
                     </Typography>
                     : null
             }
 
 
             {
-                position
+                two
                     ? <Typography variant="body1" color="text.primary">
-                        {position}
+                        {two}
                     </Typography>
                     : null
             }
 
 
             {
-                duration
+                three
                     ? <Typography variant="subtitle2" color="text.secondary" sx={{
                         fontWeight: "normal"
                     }}>
-                        {duration}
+                        {three}
                     </Typography>
                     : null
             }

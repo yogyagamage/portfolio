@@ -6,11 +6,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 
 export default function ProjectSection({ projects }) {
-
-    const navigateToProject = () => {
-
-    }
-
+    
     return (
         <ImageList
             variant="quilted"

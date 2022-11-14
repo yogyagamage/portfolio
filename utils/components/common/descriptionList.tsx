@@ -1,12 +1,17 @@
 import { List, ListItem, Stack, Typography } from "@mui/material";
 import PropTypes from "prop-types";
+import ImageListComponent from "./imageListComponent";
 
 function DescriptionList({ list }) {
 
     return (
         <Stack spacing={3}>
             {
-                list.map((item) => <DescriptionListItem title={item.title} body={item.body} links={item.links} />)
+                list.map((item) => <DescriptionListItem
+                    title={item.title}
+                    body={item.body}
+                    links={item.links}
+                    images={item.images} />)
             }
         </Stack>
     );
@@ -18,14 +23,17 @@ DescriptionList.propTypes = {
 
 export default DescriptionList;
 
-function DescriptionListItem({ title, body, links }) {
+function DescriptionListItem({ title, body, links, images }) {
 
     return (
         <Stack spacing={0.8}>
-            <Typography variant="h6" color="text.primary">
-                {title}
-            </Typography>
-            <Typography variant="body2" color="text.secondary">
+            {title
+                ? <Typography variant="h6" color="text.primary">
+                    {title}
+                </Typography>
+                : null
+            }
+            <Typography variant="body2" color="text.secondary" sx={title ? null : { marginTop: "-10px" }}>
                 {body}
             </Typography>
             {
@@ -42,6 +50,15 @@ function DescriptionListItem({ title, body, links }) {
                     </List>
                     : null
             }
+
+            {
+                images
+                    ? <div style={{ marginTop: "3px" }}>
+                        <ImageListComponent imageList={images} />
+                    </div>
+                    : null
+            }
+
 
         </Stack>
     );
