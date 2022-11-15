@@ -176,6 +176,49 @@
                     "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
                 }
             ]
+        },
+        {
+            "name": "A New User Interface Concept for ATM’s to Reduce Receipt Wastage",
+            "role" : "UI/UX Designer",
+            "overview" : [
+                {
+                    "title" : "Duration",
+                    "body" :"2021 Jan - 2021 Aug"
+                },
+                {
+                    "title" : "Sector",
+                    "body" :"Urban Development"
+                },
+                {
+                    "title" : "My Role",
+                    "body" :"UI/UX Designer"
+                }
+            ],
+            "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
+            "cols": 2,
+            "rows": 2,
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "We've all used ATMs at some point in our lives. Most of the time, we find that the garbage cans at ATM locations are overflowing with meaningless receipts that consumers have requested. That is what inspired me to work on this design project. As a result, I created a completely new user interface that would limit the amount of unnecessary receipts issued. An experiment was carried out to validate the design. This investigation concluded that by employing this design, we can cut receipt printing by roughly 50%. This is a significant benefit because we are merely altering the interface to lower this amount."
+                },
+                {
+                    "title": "Process",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                },
+                {
+                    "title": "Conclusion",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                }
+            ]
         }
     ]
 }
