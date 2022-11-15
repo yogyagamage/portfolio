@@ -204,19 +204,7 @@
                 },
                 {
                     "title": "Process",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                },
-                {
-                    "title": "Conclusion",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "The initial step in this project was to consider how I would change the current interface to make the `Continue` button more apparent, thus encouraging the user to skip the receipt unconsciously. Following that, I used Fitts' and von Restroff's laws to build the following design. Then I ran a little test to validate the design. This experiment involved 153 participants. According to the findings of this experiment, we can cut receipt printing by roughly half."
                 }
             ]
         }
