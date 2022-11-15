@@ -1,6 +1,8 @@
-import { List, ListItem, Stack, Typography } from "@mui/material";
+import { Container, Grid, List, ListItem, Stack, Typography } from "@mui/material";
 import PropTypes from "prop-types";
 import ImageListComponent from "./imageListComponent";
+import ReactGoogleSlides from "react-google-slides";
+import { useEffect, useState } from "react";
 
 function DescriptionList({ list }) {
 
@@ -11,7 +13,8 @@ function DescriptionList({ list }) {
                     title={item.title}
                     body={item.body}
                     links={item.links}
-                    images={item.images} />)
+                    images={item.images}
+                    presentations={item.presentations} />)
             }
         </Stack>
     );
@@ -23,7 +26,7 @@ DescriptionList.propTypes = {
 
 export default DescriptionList;
 
-function DescriptionListItem({ title, body, links, images }) {
+function DescriptionListItem({ title, body, links, images, presentations }) {
 
     return (
         <Stack spacing={0.8}>
@@ -39,11 +42,11 @@ function DescriptionListItem({ title, body, links, images }) {
             {
                 links
                     ?
-                    <List dense>
+                    <List dense disablePadding>
                         {
-                            links.map((item) => <ListItem>
+                            links.map((item) => <ListItem alignItems="flex-start" disableGutters>
                                 <Typography variant="body2" color="text.secondary">
-                                    <a href={item.link}><i>{item.title}</i></a>
+                                    <a href={item.link} target="_blank"><u><i>{item.title}</i></u></a>
                                 </Typography>
                             </ListItem>)
                         }
@@ -58,9 +61,22 @@ function DescriptionListItem({ title, body, links, images }) {
                     </div>
                     : null
             }
+            {
+                presentations
+                    ? <List dense disablePadding>
+                        {
+                            presentations.map((presentation) => <ListItem alignItems="center" disableGutters>
+                                <iframe loading="lazy" src={presentation.link} allowFullScreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" width="100%" style={{ height: "60vh" }} />
+                            </ListItem>)
+                        }
+                    </List>
 
 
-        </Stack>
+
+                    : null
+            }
+
+        </Stack >
     );
 }
 
