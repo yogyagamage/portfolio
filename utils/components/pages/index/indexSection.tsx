@@ -7,19 +7,23 @@ import CommonDivider from "../../common/commonDivider";
 import LittleBitAboutMe from "../index/littleBitAboutMe";
 import { useCallback } from "react";
 import MyWritings from "./myWritings";
+import Contact from "./contact";
 
 function IndexSection({ content }) {
 
     return (
-        <>  
+        <>
             {
-                content.map((singleContent)=>{
+                content.map((singleContent) => {
                     switch (singleContent.id) {
                         case 1:
                             return <LittleBitAboutMe data={singleContent} />
-                        
+
                         case 5:
                             return <MyWritings data={singleContent} />
+
+                        case 6:
+                            return <Contact data={singleContent} />
                         default:
                             break;
                     }

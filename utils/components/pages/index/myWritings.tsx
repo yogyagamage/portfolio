@@ -1,10 +1,10 @@
 import { ArrowCircleRight } from '@mui/icons-material';
-import { Grid, IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material'
+import { IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material';
 import Link from 'next/link';
-import { useCallback, useEffect, useState } from 'react'
-import mediumApiCall from '../../../controller/apiCall/mediumApiCall'
+import { useCallback, useEffect, useState } from 'react';
+import mediumApiCall from '../../../controller/apiCall/mediumApiCall';
 import { randomNumberGenerator } from '../../../functions/common';
-import CommonDivider from '../../common/commonDivider'
+import CommonDivider from '../../common/commonDivider';
 
 export default function MyWritings({ data }) {
 

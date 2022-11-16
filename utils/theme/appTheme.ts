@@ -16,7 +16,7 @@ export const appTheme = responsiveFontSizes(createTheme({
         background: {
             default: "#F6EEE3",
             paper: "#F6EEE3"
-            
+
         }
     },
     typography: {
@@ -44,5 +44,30 @@ export const appTheme = responsiveFontSizes(createTheme({
         h6: {
             fontFamily: "Minipax-SemiBold"
         },
+    },
+    components: {
+        MuiAvatar: {
+            defaultProps: {
+                variant: "circular"
+            },
+            styleOverrides: {
+                "root": {
+                    width: "6vw",
+                    height: "6vw"
+                }
+            }
+        },
+        MuiAvatarGroup: {
+            defaultProps: {
+                spacing: "small",
+                variant : "circular",
+            },
+            styleOverrides : {
+                root : {
+                    position : "relative",
+                    left : "0px"
+                }
+            }
+        }
     }
 }));

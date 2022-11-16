@@ -28,6 +28,33 @@
                         }
                     ]
                 }
+            ],
+            "icons" : [
+                {
+                    "image": "/images/contact-icons-svg/top-email.svg",
+                    "alt": "achintha isuru - 1",
+                    "link" : "mailto:achinthaisuru.17@cse.mrt.ac.lk"
+                },
+                {
+                    "image": "/images/contact-icons-svg/top-in.svg",
+                    "alt": "achintha isuru - 1",
+                    "link" : "http://linkedin.com/in/achintha-isuru"
+                },
+                {
+                    "image": "/images/contact-icons-svg/top-stack.svg",
+                    "alt": "achintha isuru - 1",
+                    "link" : "https://stackoverflow.com/users/10601286/achintha-isuru"
+                },
+                {
+                    "image": "/images/contact-icons-svg/top-medium.svg",
+                    "alt": "achintha isuru - 1",
+                    "link" : "https://medium.com/@achinthaisuru444"
+                },
+                {
+                    "image": "/images/contact-icons-svg/top-github.svg",
+                    "alt": "achintha isuru - 1",
+                    "link" : "https://github.com/Achintha444"
+                }
             ]
         }
     ]
