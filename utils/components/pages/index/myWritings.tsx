@@ -23,7 +23,6 @@ export default function MyWritings({ data }) {
 
     useEffect(() => {
         fetchMediumArticles();
-        console.log(mediumArticles);
     }, [fetchMediumArticles])
 
     const setGridSize = (mediumArticles) => {

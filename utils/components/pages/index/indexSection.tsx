@@ -9,6 +9,7 @@ import { useCallback } from "react";
 import MyWritings from "./myWritings";
 import Contact from "./contact";
 import Projects from "./projects";
+import MyInterests from "./myInterests";
 
 function IndexSection({ content }) {
 
@@ -19,11 +20,13 @@ function IndexSection({ content }) {
                     switch (singleContent.id) {
                         case 1:
                             return <LittleBitAboutMe data={singleContent} />
-                        case 4:
+                        case 2:
+                            return <MyInterests data={singleContent} />
+                        case 3:
                             return <Projects data={singleContent} />
-                        case 5:
+                        case 4:
                             return <MyWritings data={singleContent} />
-                        case 6:
+                        case 5:
                             return <Contact data={singleContent} />
                         default:
                             break;

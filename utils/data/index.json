@@ -14,16 +14,87 @@
             ]
         },
         {
-            "id": 4,
-            "title": "Recent Projects...",
-            "comments" : "This will make use of the projects.json data"
+            "id": 2,
+            "title": "My Interests...",
+            "interests": [
+                {
+                    "title": "Fields",
+                    "color": "success",
+                    "interests": [
+                        {
+                            "title": "UI/UX Designing"
+                        },
+                        {
+                            "title": "Front-end Development "
+                        }
+                    ]
+                },
+                {
+                    "title": "Development Tools and Techologies",
+                    "color": "default",
+                    "interests": [
+                        {
+                            "title": "Next.JS",
+                            "imageUrl": "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+                        },
+                        {
+                            "title": "React JS",
+                            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVF1dospej2VMDF0sb-TuNCYudETDT6UKVQ&usqp=CAU"
+                        },
+                        {
+                            "title": "Flutter",
+                            "imageUrl": "https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg"
+                        },
+                        {
+                            "title": "Android",
+                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png"
+                        },
+                        {
+                            "title": "Java",
+                            "imageUrl": "https://www.svgrepo.com/show/303388/java-4-logo.svg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Design Tools",
+                    "color": "default",
+                    "interests": [
+                        {
+                            "title": "Figma",
+                            "imageUrl": "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"
+                        },
+                        {
+                            "title": "Adobe XD",
+                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"
+                        },
+                        {
+                            "title": "Adobe Photoshop",
+                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+                        }
+                    ]
+                }
+            ],
+            "content": [
+                {
+                    "content": [
+                        {
+                            "body": "A highly motivated and hardworking individual with a keen interest in learning more about Computer Science especially in the area of Front End Development and UI/UX designing. Also has a passion for learning psychology as well. My life goal is to do something that my dad one day would be proud of."
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "id": 5,
+            "id": 3,
+            "title": "Recent Projects...",
+            "comments": "This will make use of the projects.json data"
+        },
+        {
+            "id": 4,
             "title": "My Writings..."
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Contact Me",
             "content": [
                 {
@@ -34,31 +105,31 @@
                     ]
                 }
             ],
-            "icons" : [
+            "icons": [
                 {
                     "image": "/images/contact-icons-svg/top-email.svg",
                     "alt": "achintha isuru - 1",
-                    "link" : "mailto:achinthaisuru.17@cse.mrt.ac.lk"
+                    "link": "mailto:achinthaisuru.17@cse.mrt.ac.lk"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-in.svg",
                     "alt": "achintha isuru - 1",
-                    "link" : "http://linkedin.com/in/achintha-isuru"
+                    "link": "http://linkedin.com/in/achintha-isuru"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-stack.svg",
                     "alt": "achintha isuru - 1",
-                    "link" : "https://stackoverflow.com/users/10601286/achintha-isuru"
+                    "link": "https://stackoverflow.com/users/10601286/achintha-isuru"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-medium.svg",
                     "alt": "achintha isuru - 1",
-                    "link" : "https://medium.com/@achinthaisuru444"
+                    "link": "https://medium.com/@achinthaisuru444"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-github.svg",
                     "alt": "achintha isuru - 1",
-                    "link" : "https://github.com/Achintha444"
+                    "link": "https://github.com/Achintha444"
                 }
             ]
         }

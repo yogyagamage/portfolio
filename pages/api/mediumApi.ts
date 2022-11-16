@@ -12,7 +12,7 @@ export default async function mediumApi(req, res) {
 
         res.status(200).json(data.items);
     } catch (err) {
-        console.log(err);
+
         res.status(404).json(mediumApiConfig.postError);
     }
 
