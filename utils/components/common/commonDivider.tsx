@@ -3,6 +3,10 @@ import React from 'react'
 
 export default function CommonDivider() {
     return (
-        <Divider style={{ position: "absolute", left: "0px", width: "100vw" }} />
+        <>
+            <br />
+            <Divider style={{ position: "absolute", left: "0px", width: "100vw" }} />
+            <br />
+        </>
     )
 }

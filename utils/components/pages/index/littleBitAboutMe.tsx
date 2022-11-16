@@ -21,7 +21,6 @@ export default function LittleBitAboutMe({ data }) {
             }
 
             <CommonDivider />
-            <br />
         </>
     );
 }

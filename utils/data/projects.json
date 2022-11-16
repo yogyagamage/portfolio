@@ -114,6 +114,74 @@
             ]
         },
         {
+            "name": "A New User Interface Concept for ATM’s to Reduce Receipt Wastage",
+            "role": "UI/UX Designer",
+            "overview": [
+                {
+                    "title": "Duration",
+                    "body": "2021 Jan - 2021 Aug"
+                },
+                {
+                    "title": "Sector",
+                    "body": "Urban Development"
+                },
+                {
+                    "title": "My Role",
+                    "body": "UI/UX Designer"
+                }
+            ],
+            "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
+            "cols": 2,
+            "rows": 2,
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "We've all used ATMs at some point in our lives. Most of the time, we find that the garbage cans at ATM locations are overflowing with meaningless receipts that consumers have requested. That is what inspired me to work on this design project. As a result, I created a completely new user interface that would limit the amount of unnecessary receipts issued. An experiment was carried out to validate the design. This investigation concluded that by employing this design, we can cut receipt printing by roughly 50%. This is a huge benefit because we are simply changing the interface to reduce this amount, which means there is no additional expense to execute this design, making this solution incredibly scalable, sustainable, and low risk."
+                },
+                {
+                    "title": "Process",
+                    "body": "The initial step in this project was to consider how I would change the current interface such that it would encourage the user to skip the receipt rather than priniting it. To achieve this I replaced the 'Yes/No' interface with an interface which makes use of Fitts' and von Restroff's laws. After that, I ran a little test to validate the design. This experiment involved 153 participants. According to the findings of this experiment, we can cut receipt printing by roughly half.",
+                    "images": [
+                        {
+                            "image": "/images/atm-org.png",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "/images/atm-prop.png",
+                            "alt": "achintha isuru - 1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "I competed in two contests: the 'Stanford Design Challenge' organised by Stanford University in the United States and the 'IET 150 & Beyond' hosted by the Sri Lankan IET Young Professionals chapter. Despite failing to reach the finals of the first competition, I was able to win the second by successfully utilizing the feedback I received.",
+                    "images": [
+                        {
+                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290742234_5707174975967888_4076713113991328108_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ImJwApgpz-oAX_rg-3l&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCrdO4Kdq5wUCCGaFX9Y4bEb-qnnJOOSDPAXr4d31ASQA&oe=63794021",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290868103_5707181882633864_2943064741914080647_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oYgADxy_YOMAX_9bq39&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCas2g_1HxPj7OO2BXQyYsapENR6xiAJpJPHSNe60hfcQ&oe=6378AC59",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290770094_5707180739300645_8816837198334088345_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Pl9UTcq5EOgAX_EhuWY&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfC1Aw2JtVHb7_a0OW999AygoXsYm5Lr0_LY9wFV9QooGw&oe=63788F91",
+                            "alt": "achintha isuru - 1"
+                        }
+                    ]
+                },
+                {
+                    "title": "View Presentation",
+                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
+                    "presentations": [
+                        {
+                            "link": "https://www.canva.com/design/DAEl9KetVkQ/view?embed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Organic Chemistry Conversions",
             "role": "UI/UX Designer",
             "overview": [
@@ -204,74 +272,6 @@
                 {
                     "title": "Conclusion",
                     "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                }
-            ]
-        },
-        {
-            "name": "A New User Interface Concept for ATM’s to Reduce Receipt Wastage",
-            "role": "UI/UX Designer",
-            "overview": [
-                {
-                    "title": "Duration",
-                    "body": "2021 Jan - 2021 Aug"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Urban Development"
-                },
-                {
-                    "title": "My Role",
-                    "body": "UI/UX Designer"
-                }
-            ],
-            "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
-            "cols": 2,
-            "rows": 2,
-            "content": [
-                {
-                    "title": "Overview",
-                    "body": "We've all used ATMs at some point in our lives. Most of the time, we find that the garbage cans at ATM locations are overflowing with meaningless receipts that consumers have requested. That is what inspired me to work on this design project. As a result, I created a completely new user interface that would limit the amount of unnecessary receipts issued. An experiment was carried out to validate the design. This investigation concluded that by employing this design, we can cut receipt printing by roughly 50%. This is a huge benefit because we are simply changing the interface to reduce this amount, which means there is no additional expense to execute this design, making this solution incredibly scalable, sustainable, and low risk."
-                },
-                {
-                    "title": "Process",
-                    "body": "The initial step in this project was to consider how I would change the current interface such that it would encourage the user to skip the receipt rather than priniting it. To achieve this I replaced the 'Yes/No' interface with an interface which makes use of Fitts' and von Restroff's laws. After that, I ran a little test to validate the design. This experiment involved 153 participants. According to the findings of this experiment, we can cut receipt printing by roughly half.",
-                    "images": [
-                        {
-                            "image": "/images/atm-org.png",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "/images/atm-prop.png",
-                            "alt": "achintha isuru - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "I competed in two contests: the 'Stanford Design Challenge' organised by Stanford University in the United States and the 'IET 150 & Beyond' hosted by the Sri Lankan IET Young Professionals chapter. Despite failing to reach the finals of the first competition, I was able to win the second by successfully utilizing the feedback I received.",
-                    "images": [
-                        {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290742234_5707174975967888_4076713113991328108_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ImJwApgpz-oAX_rg-3l&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCrdO4Kdq5wUCCGaFX9Y4bEb-qnnJOOSDPAXr4d31ASQA&oe=63794021",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290868103_5707181882633864_2943064741914080647_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oYgADxy_YOMAX_9bq39&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCas2g_1HxPj7OO2BXQyYsapENR6xiAJpJPHSNe60hfcQ&oe=6378AC59",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290770094_5707180739300645_8816837198334088345_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Pl9UTcq5EOgAX_EhuWY&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfC1Aw2JtVHb7_a0OW999AygoXsYm5Lr0_LY9wFV9QooGw&oe=63788F91",
-                            "alt": "achintha isuru - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "View Presentation",
-                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
-                    "presentations": [
-                        {
-                            "link": "https://www.canva.com/design/DAEl9KetVkQ/view?embed"
-                        }
-                    ]
                 }
             ]
         }

@@ -11,6 +11,7 @@ export default function Contact({ data }) {
                 {data.title}
             </Typography>
             <br />
+
             {
                 data.content.map((contentDesc) => (
                     <>
@@ -20,16 +21,13 @@ export default function Contact({ data }) {
                 ))
             }
 
-            <Stack direction="row" spacing={4} justifyContent="center">
+            <Stack direction="row" spacing={0} justifyContent="center">
                 {
                     data.icons.map((icon) => <SingleContact icon={icon} />)
                 }
             </Stack>
 
-
-            <br />
             <CommonDivider />
-            <br />
         </>
     );
 }

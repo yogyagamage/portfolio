@@ -30,7 +30,7 @@ function SingleExperience({ experience }) {
                title={experience.title} />
             <br />
             <DescriptionList list={experience.content} />
-            <br />
+
             <CommonDivider />
         </>
     );

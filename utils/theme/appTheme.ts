@@ -52,8 +52,8 @@ export const appTheme = responsiveFontSizes(createTheme({
             },
             styleOverrides: {
                 "root": {
-                    width: "6vw",
-                    height: "6vw"
+                    width: "4vw",
+                    height: "4vw"
                 }
             }
         },

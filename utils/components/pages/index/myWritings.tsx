@@ -45,8 +45,9 @@ export default function MyWritings({ data }) {
                         mediumArticles.map((article) => <SingleArticle article={article} />)
                     }
                 </ImageList>
+
                 <CommonDivider />
-                <br />
+
             </>
             : null
 
@@ -65,6 +66,7 @@ function SingleArticle({ article }) {
                     src={article.thumbnail}
                     alt={article.thumbnail}
                     loading="lazy"
+                    style={{mixBlendMode : "multiply"}}
                 />
                 <ImageListItemBar
                     title={article.title}

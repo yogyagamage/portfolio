@@ -14,8 +14,13 @@
             ]
         },
         {
+            "id": 4,
+            "title": "Recent Projects...",
+            "comments" : "This will make use of the projects.json data"
+        },
+        {
             "id": 5,
-            "title": "My Writings"
+            "title": "My Writings..."
         },
         {
             "id": 6,

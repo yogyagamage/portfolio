@@ -13,8 +13,6 @@ function AboutMeSection({ content }) {
 
             <ImageListComponent imageList={content.fistImages} />
 
-            <br />
-
             <CommonDivider />
 
             {
@@ -62,7 +60,6 @@ function SingleContent({ content }) {
             }
 
             <CommonDivider />
-            <br />
         </>
     );
 }

@@ -44,6 +44,7 @@ function ProjectCard({ project }) {
                     loading="lazy"
                     onMouseOver={() => setShowTitle(true)}
                     onMouseOut={() => setShowTitle(false)}
+                    style={{mixBlendMode : "multiply"}}
                 />
                 {
                     showTitle
