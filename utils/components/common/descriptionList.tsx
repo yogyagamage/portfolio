@@ -1,8 +1,6 @@
-import { Container, Grid, List, ListItem, Stack, Typography } from "@mui/material";
+import { List, ListItem, Stack, Typography } from "@mui/material";
 import PropTypes from "prop-types";
 import ImageListComponent from "./imageListComponent";
-import ReactGoogleSlides from "react-google-slides";
-import { useEffect, useState } from "react";
 
 function DescriptionList({ list }) {
 

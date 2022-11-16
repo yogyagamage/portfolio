@@ -8,7 +8,7 @@ import CommonDivider from "../../common/commonDivider";
 function AboutMeSection({ content }) {
 
     return (
-        <>
+        <>  
             <FirstPara para={content.firstPara} />
 
             <ImageListComponent imageList={content.fistImages} />
