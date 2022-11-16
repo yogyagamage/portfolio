@@ -3,6 +3,7 @@ import DescriptionList from "../../common/descriptionList";
 import ExperienceOverview from "../experiences/experienceOverview";
 import PropTypes from "prop-types";
 import ImageListComponent from "../../common/imageListComponent";
+import CommonDivider from "../../common/commonDivider";
 
 function AboutMeSection({ content }) {
 
@@ -14,7 +15,7 @@ function AboutMeSection({ content }) {
 
             <br />
 
-            <Divider />
+            <CommonDivider />
 
             {
                 content.contentDetails.map((singleContent) => <SingleContent content={singleContent} />)
@@ -60,7 +61,7 @@ function SingleContent({ content }) {
                 ))
             }
 
-            <Divider />
+            <CommonDivider />
             <br />
         </>
     );

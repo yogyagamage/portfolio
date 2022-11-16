@@ -2,6 +2,7 @@ import { Divider } from "@mui/material";
 import DescriptionList from "../../common/descriptionList";
 import ExperienceOverview from "./experienceOverview";
 import PropTypes from "prop-types";
+import CommonDivider from "../../common/commonDivider";
 
 function Experiences({ experiences }) {
 
@@ -30,7 +31,7 @@ function SingleExperience({ experience }) {
             <br />
             <DescriptionList list={experience.content} />
             <br />
-            <Divider />
+            <CommonDivider />
         </>
     );
 }
