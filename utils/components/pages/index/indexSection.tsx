@@ -10,6 +10,7 @@ import MyWritings from "./myWritings";
 import Contact from "./contact";
 import Projects from "./projects";
 import MyInterests from "./myInterests";
+import NameDetails from "./nameDetails";
 
 function IndexSection({ content }) {
 
@@ -18,6 +19,8 @@ function IndexSection({ content }) {
             {
                 content.map((singleContent) => {
                     switch (singleContent.id) {
+                        case 0:
+                            return <NameDetails data={singleContent} />
                         case 1:
                             return <LittleBitAboutMe data={singleContent} />
                         case 2:

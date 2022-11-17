@@ -33,6 +33,12 @@ export const appTheme = responsiveFontSizes(createTheme({
         subtitle2: {
             fontFamily: "Minipax-Regular"
         },
+        h2: {
+            fontFamily: "Minipax-Regular"
+        },
+        h3: {
+            fontFamily: "Minipax-Regular"
+        },
         h4: {
             fontFamily: "Minipax-Regular"
         },

@@ -1,8 +1,6 @@
-import { Avatar, Chip, Typography } from '@mui/material'
+import { Avatar, Chip, Typography } from '@mui/material';
 import { Stack } from '@mui/system';
-import React from 'react'
-import CommonDivider from '../../common/commonDivider'
-import DescriptionList from '../../common/descriptionList'
+import CommonDivider from '../../common/commonDivider';
 
 export default function MyInterests({ data }) {
     return (
