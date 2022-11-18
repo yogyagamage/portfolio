@@ -4,28 +4,27 @@ import { useEffect, useState } from 'react';
 import { getTime, Time } from '../../../functions/common';
 import CommonDivider from '../../common/commonDivider';
 import Typewriter from 'typewriter-effect';
+import styles from "../../../../styles/Home.module.css";
 
 export default function NameDetails({ data }) {
 
-    console.log(data.content[0]);
-
     return (
-        <div style={{ background: "radial-gradient(circle, rgba(239,219,94,1) 0%, rgba(239,219,94,1) 0%, rgba(239,219,94,0) 36%);" }}>
-            <br />
-            <br />
-            <Stack spacing={2} justifyContent="center" alignItems="center">
-                <Stack spacing={1} justifyContent="center" alignItems="center">
-                    <Salutation salutationData={data.content[0]} />
-                    <MyNameIs myNameIs={data.content[1]} />
+        <>
+            <div className={styles["nameContainer"]}>
+                <Stack className={styles["stack"]} spacing={3} justifyContent="center" alignItems="center">
+                    <Stack spacing={1} justifyContent="center" alignItems="center">
+                        <Salutation salutationData={data.content[0]} />
+                        <MyNameIs myNameIs={data.content[1]} />
+                    </Stack>
+                    <Name name={data.content[2]} />
+                    <Stack spacing={1} justifyContent="center" alignItems="center">
+                        <MyNameIs myNameIs={data.content[3]} />
+                        <Occupation occupation={data.content[4]} />
+                    </Stack>
                 </Stack>
-                <Name name={data.content[2]} />
-                <MyNameIs myNameIs={data.content[3]} />
-                <Occupation occupation={data.content[4]} />
-            </Stack>
-            <br />
-            <br />
+            </div>
             <CommonDivider />
-        </div>
+        </>
     );
 }
 

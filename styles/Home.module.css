@@ -127,3 +127,12 @@
     filter: invert(1);
   }
 }
+
+.nameContainer {
+    height: 60vh;
+    background: radial-gradient(circle, rgba(239,219,94,1) 0%, rgba(239,219,94,1) 10%, rgba(239,219,94,0) 50%);
+}
+
+.stack {
+    height: 100%;
+}
