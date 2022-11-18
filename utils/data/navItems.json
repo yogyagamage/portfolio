@@ -1,0 +1,24 @@
+{
+    "content": [
+        {
+            "title" : "Home",
+            "link" : "./"
+        },
+        {
+            "title" : "About",
+            "link" : "./aboutMe"
+        },
+        {
+            "title" : "Projects",
+            "link" : "./projects"
+        },
+        {
+            "title" : "Experience",
+            "link" : "./experiences"
+        },
+        {
+            "title" : "Download CV",
+            "link" : "./"
+        }
+    ]
+}

@@ -12,13 +12,14 @@ import ListItemText from "@mui/material/ListItemText";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import * as React from "react";
+import navItemsConfig from "../../../utils/data/navItems.json";
 
 interface Props {
     window?: () => Window;
 }
 
 const drawerWidth = 240;
-const navItems = ["About", "Projects", "Experience", "Download CV"];
+const navItems = ["Home","About", "Projects", "Experience", "Download CV"];
 
 export default function NavBar(props: Props) {
     const { window } = props;
@@ -60,9 +61,9 @@ export default function NavBar(props: Props) {
                     >
                     </Typography>
                     <Box sx={{ display: { xs: "none", sm: "block" } }}>
-                        {navItems.map((item) => (
-                            <Button key={item} sx={{ color: "#242424" }}>
-                                {item}
+                        {navItemsConfig.content.map((item) => (
+                            <Button key={item.title} sx={{ color: "#242424" }} href={item.link}>
+                                {item.title}
                             </Button>
                         ))}
                     </Box>
@@ -71,8 +72,7 @@ export default function NavBar(props: Props) {
                         aria-label="open drawer"
                         edge="end"
                         onClick={handleDrawerToggle}
-                        sx={{ mr: 2, display: { sm: "none" } }}
-                    >
+                        sx={{ mr: 2, display: { sm: "none" } }}>
                         <MenuIcon />
                     </IconButton>
                 </Toolbar>
