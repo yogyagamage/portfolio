@@ -19,7 +19,6 @@ interface Props {
 }
 
 const drawerWidth = 240;
-const navItems = ["Home","About", "Projects", "Experience", "Download CV"];
 
 export default function NavBar(props: Props) {
     const { window } = props;
@@ -33,10 +32,10 @@ export default function NavBar(props: Props) {
         <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
             <Divider />
             <List>
-                {navItems.map((item) => (
-                    <ListItem key={item} disablePadding>
-                        <ListItemButton sx={{ textAlign: "center" }}>
-                            <ListItemText primary={item} />
+                {navItemsConfig.content.map((item) => (
+                    <ListItem key={item.title} disablePadding>
+                        <ListItemButton sx={{ textAlign: "center" }} href={item.link} target={item.target ? item.target : "_self"}>
+                            <ListItemText primary={item.title} />
                         </ListItemButton>
                     </ListItem>
                 ))}
@@ -62,7 +61,7 @@ export default function NavBar(props: Props) {
                     </Typography>
                     <Box sx={{ display: { xs: "none", sm: "block" } }}>
                         {navItemsConfig.content.map((item) => (
-                            <Button key={item.title} sx={{ color: "#242424" }} href={item.link}>
+                            <Button key={item.title} sx={{ color: "#242424" }} href={item.link} target={item.target ? item.target : "_self"}>
                                 {item.title}
                             </Button>
                         ))}

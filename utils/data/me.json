@@ -4,15 +4,15 @@
         "firstPara": "A highly motivated and hardworking individual with a keen interest in learning more about Computer Science especially in the area of Front End Development and UI/UX designing. Also has a passion for learning psychology as well. My life goal is to do something that my dad one day would be proud of.",
         "fistImages": [
             {
-                "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/74240101_2754799591237545_5533781639651393536_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=BBvXIW9M_rAAX_tEwbu&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCb0C2aDJInRJJ39jpsObO13MDozD0c6CRP-8rAU8-aaQ&oe=6399BFC7",
+                "image": "/images/me/me-1.jpg",
                 "alt": "achintha isuru - 1"
             },
             {
-                "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/289604501_5524508850933258_7139959580640548996_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=KYVzbD_I2csAX-NIN5k&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfB6toIBKEnVAvRlm56nrB48Pd0HUaI67QiG_pYkaSDw3g&oe=6376EFF6",
+                "image": "/images/me/me-2.jpg",
                 "alt": "achintha isuru - 1"
             },
             {
-                "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/67470244_2403170633228853_153094512992845824_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=kuzD8YcCGZgAX-jxhN6&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfC_JpgvDb2qSQrP662RuRPsZkpoXao_kx6R-MHDwFgC-A&oe=639B659F",
+                "image": "/images/me/me-3.jpg",
                 "alt": "achintha isuru - 1"
             }
         ],
@@ -43,15 +43,15 @@
                                 "body": "My bachelor's degree was earned at the University of Moratuwa's Department of Computer Science and Engineering in Sri Lanka. During my university years, I was not just concerned with my schoolwork, but I also participated in extracurricular activities such as soccer and Rotaract. I played goalkeeper for my university's soccer team. I was also a member of the Rotaract Club of the University of Moratuwa's public relations team.",
                                 "images": [
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/74670767_2400472710167194_7763231830802694144_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=oLOE1h3Ek_8AX9TlVah&tn=FdTgf5rGwOWXedQD&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfD7TJ9Kfl4QUhOZrpb6PiezF8Mkd0L9CVC-ikuI2-uVzw&oe=639B4C03",
+                                        "image": "/images/me/uni-1.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/54416657_2346006888783486_1361961518568046592_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=6vWl3tv1uvQAX9Ew0F2&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfDTzBiy0Q4k7gGm1VnkwTfSnszmb-aJQD-iECDsSv0MkQ&oe=639B5D97",
+                                        "image": "/images/me/uni-2.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t1.6435-9/69986605_2647170342000471_7995969743431401472_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_aid=0&_nc_ohc=VreXdUt0uncAX9ofN1c&tn=dCXrQmcC6zUsDIoP&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfDqI4SI7Ii4p3d2-mjMClTD12fxCTxr5maM1mO0voW1nA&oe=6399CE94",
+                                        "image": "/images/me/uni-3.jpg",
                                         "alt": "achintha isuru - 1"
                                     }
                                 ]
@@ -84,15 +84,19 @@
                                 "body": "I've always been a big fan of soccer. However, for a variety of reasons, I was unable to play soccer at my school. So I was determined to play it in college and gain firsthand experience on the field. Simply put, it was about playing the game I love and enjoy. We were able to win the joint championship at Sri Lanka University Games 2019. Also, during my time with the team, I was able to improve my soft skills as well, like teamwork, commitment and dedication. These skills still help me in my professional work.",
                                 "images": [
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/275050574_5204181799632633_5006503283019902279_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=GlEIoVjOmYcAX9cRTXo&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfB2AMu4juwBiiSLGS5YsIh8M6HHjCDF9oOluT1Nkqq_DQ&oe=6377508E",
+                                        "image": "/images/me/soccer-1.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/274929416_5204177036299776_3732307091309640152_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=HOFUatvRkLsAX8VH4BT&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfBuQ31eveDdIpiQZzUo-b1FtX3MSNAuSRsbWdq5nrjUHg&oe=6378310A",
+                                        "image": "/images/me/soccer-2.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/275050131_5204176316299848_5212091025382859241_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=I2g_taRcxWUAX8ClpUn&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfBHnvIB3ojX2U6UB5mPOhKnmOAXZusCSbSVWN2s7pFckQ&oe=6377163C",
+                                        "image": "/images/me/soccer-3.jpg",
+                                        "alt": "achintha isuru - 1"
+                                    },
+                                    {
+                                        "image": "/images/me/soccer-4.jpg",
                                         "alt": "achintha isuru - 1"
                                     }
                                 ]
@@ -108,15 +112,15 @@
                                 "body": "I've always enjoyed assisting those in need. A pure joyous laugh from a child will instantly brighten my day. That is why I joined the University Rotaract Club. From there, I was able to participate in various projects and give back at least a little to the society that had given me so much. The main thing I accomplished was that I was able to give back to the society in which I grew up. Furthermore, by working on projects, I was able to improve my soft skills such as communication, leadership, and teamwork.",
                                 "images": [
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t31.18172-8/28161385_1581837268531995_3654121133091708450_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=YcNt0_gU1TMAX_wdvm8&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCucvgfs-CzlGfpeMJGi1inRjpJ0ytac68YSVgbRlljFA&oe=6399C2F1",
+                                        "image": "/images/me/rot-1.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/280294340_5061166613930834_5045776576034068874_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=KXVW8I_x4KUAX-K4LuW&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfAIiOC9F6PIQsGUZaLJTWnojTktls1W9lh493tMfXz0Ww&oe=6377CB1E",
+                                        "image": "/images/me/rot-2.jpg",
                                         "alt": "achintha isuru - 1"
                                     },
                                     {
-                                        "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t31.18172-8/27907875_1581836278532094_6193621411933815984_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=0bDKkb8-CpoAX9X7HC-&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCDgypKwGfgQc5NWNSMhmGczAjLXt9fvAxmuBxf6PRvQQ&oe=6399C5B8",
+                                        "image": "/images/me/rot-3.jpg",
                                         "alt": "achintha isuru - 1"
                                     }
                                 ]

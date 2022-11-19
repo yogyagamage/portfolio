@@ -28,7 +28,17 @@
                 },
                 {
                     "title": "Process",
-                    "body": "The first step of this project was to do a background search on how people in the textile industry use technology. For this I got help from my friends in the textile industry. Then I created a wireframe for the website. After getting the basic structure of the website approved by the stakeholders, I went to design the website. After designing the website the design went to the development phase."
+                    "body": "The first step of this project was to do a background search on how people in the textile industry use technology. For this I got help from my friends in the textile industry. Then I created a wireframe for the website. After getting the basic structure of the website approved by the stakeholders, I went to design the website. After designing the website the design went to the development phase.",
+                    "images": [
+                        {
+                            "image": "/images/projects/fabvis/fabvis-2.png",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "/images/projects/fabvis/fabvis-3.png",
+                            "alt": "achintha isuru - 1"
+                        }
+                    ]
                 },
                 {
                     "title": "Challenges Faced",
@@ -36,11 +46,11 @@
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "Our greatest accomplishment was that our project was highlighted on one of Sri Lanka's television programmes (the video of the programme is given below.)"
+                    "body": "The main accomplishment we recieved was that our project was highlighted on one of Sri Lanka's television programmes (the video of the programme is given below.)"
                 },
                 {
                     "title": "More Information",
-                    "body": "The following films go into great detail on the project. Please watch the videos for further details. Please kindely note that the second video is not in English (it is in Sinhala).",
+                    "body": "The following videos go into a great detail on the project. Please watch the videos for further details. Please kindely note that the second video is not in English (it is in Sinhala).",
                     "presentations": [
                         {
                             "link": "https://www.youtube.com/embed/bPJwYzVxxr4"
@@ -74,7 +84,7 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. This research aims to create a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
                 },
                 {
                     "title": "Process",
@@ -82,21 +92,17 @@
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "Several problems arose during the course of this endeavour. The lack of data to train the machine learning model was the first obstacle. We resolved this difficulty by employing proper pre-processing techniques and, when possible, applying fuzzy logic inference. Another issue was that the initial version of the mobile application quickly depleted the user's battery. We lowered the rate of data collection via the mobile application to accomplish this. There were numerous other difficulties. We overcome them, though, and completed the assignment on time."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. ",
+                    "body": "Based on this project, we successfully submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
                     "links": [
                         {
                             "title": "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
                             "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
                         }
                     ]
-                },
-                {
-                    "title": "Conclusion",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
                 },
                 {
                     "title": "View Presentation",
@@ -138,11 +144,11 @@
                     "body": "The initial step in this project was to consider how I would change the current interface such that it would encourage the user to skip the receipt rather than priniting it. To achieve this I replaced the 'Yes/No' interface with an interface which makes use of Fitts' and von Restroff's laws. After that, I ran a little test to validate the design. This experiment involved 153 participants. According to the findings of this experiment, we can cut receipt printing by roughly half.",
                     "images": [
                         {
-                            "image": "/images/atm-org.png",
+                            "image": "/images/projects/ATM/atm-org.png",
                             "alt": "achintha isuru - 1"
                         },
                         {
-                            "image": "/images/atm-prop.png",
+                            "image": "/images/projects/ATM/atm-prop.png",
                             "alt": "achintha isuru - 1"
                         }
                     ]
@@ -152,15 +158,15 @@
                     "body": "I competed in two contests: the 'Stanford Design Challenge' organised by Stanford University in the United States and the 'IET 150 & Beyond' hosted by the Sri Lankan IET Young Professionals chapter. Despite failing to reach the finals of the first competition, I was able to win the second by successfully utilizing the feedback I received.",
                     "images": [
                         {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290742234_5707174975967888_4076713113991328108_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=ImJwApgpz-oAX_rg-3l&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCrdO4Kdq5wUCCGaFX9Y4bEb-qnnJOOSDPAXr4d31ASQA&oe=63794021",
+                            "image": "/images/projects/ATM/accom-1.jpg",
                             "alt": "achintha isuru - 1"
                         },
                         {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290868103_5707181882633864_2943064741914080647_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=oYgADxy_YOMAX_9bq39&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfCas2g_1HxPj7OO2BXQyYsapENR6xiAJpJPHSNe60hfcQ&oe=6378AC59",
+                            "image": "/images/projects/ATM/accom-2.jpg",
                             "alt": "achintha isuru - 1"
                         },
                         {
-                            "image": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/290770094_5707180739300645_8816837198334088345_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Pl9UTcq5EOgAX_EhuWY&_nc_ht=scontent.fcmb2-2.fna&oh=00_AfC1Aw2JtVHb7_a0OW999AygoXsYm5Lr0_LY9wFV9QooGw&oe=63788F91",
+                            "image": "/images/projects/ATM/accom-3.jpg",
                             "alt": "achintha isuru - 1"
                         }
                     ]
@@ -199,23 +205,33 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "Organic Chemistry Conversions is a smartphone game that helps college students improve their organic chemistry skills. This conversion game has a total of 100 levels. At each stage, you must drag & drop the appropriate chemical into the appropriate slot. You will be advanced to the next level if your combination is correct. As a result, you can enjoy the game while sharpening your talents."
                 },
                 {
                     "title": "Process",
-                    "body": ""
+                    "body": "As the initial stage in this project, I looked at the UI and UX of popular level-based games like Angry Birds to get a sense of what I'm up against. Following a paper wireframe session, I transferred the design to the digital platform Figma. I chose yellow as the main colour because it represents inventiveness, which is an important tool for students to have when addressing organic chemistry problems. Following that, I presented the prototype to the stakeholders and advanced the application to development.",
+                    "images": [
+                        {
+                            "image": "/images/projects/organic/organic-1.png",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "/images/projects/organic/organic-2.png",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "/images/projects/organic/organic-3.png",
+                            "alt": "achintha isuru - 1"
+                        }
+                    ]
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "The primary problem I faced was that this was my first game, so it was a bit of a challenge. I was able to overcome this by conducting a  thorough preliminary study. I investigated how other games are developed and what factors a designer should consider while creating a game."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                },
-                {
-                    "title": "Conclusion",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "We were only able to launch the application to Android users due to several constraints. We received fantastic reviews from them. We received 4.6/5.0 reviews and over 1,000 downloads in the Google Play store in a short amount of time with little to no marketing."
                 },
                 {
                     "title": "View application",
@@ -251,23 +267,34 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "Data privacy deals with the sensitive information of individuals and has become a major topic in modern society. Although the practicability of mobile apps has become an essential part of the routines of many people, consumers are increasingly concerned about their data privacy. Most of the time, these privacy policies that are used to collect and share data are lengthy and complex to understand. Therefore, a common user finds it hard to understand before agreeing to the privacy policy terms. This project propose an approach to convey privacy policies in a way that a common user can comprehend."
                 },
                 {
                     "title": "Process",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "First, we conducted a few interviews with industry professionals to gain a better grasp of the problem at hand and to generate suggestions for categorising privacy policies so that users may better comprehend them better. Then, using the information gathered from the interviews and research papers, we developed the ten categories. Following that, we created a chat bot mobile application so that consumers could communicate with the bot about their privacy concerns. For example, if a user wants to know a company's data reservation policy, they may easily communicate with that bot and obtain such information."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "The main challenge we faced was holding the interview sessions because I was still in my third year of university at the time and the professionals who came to the interviews had vast knowledge and expertise in the industry. We overcame this obstacle by working together and correctly preparing the interview sessions. Personally this was a huge experience for me."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "Based on this study, we were able to successfully submit a research paper titled ‘Automated Categorization of Privacy Policies Based on User Perspective’ to the IEEE ICIAfS 2021: Information and Automation for Sustainability 2021.",
+                    "links": [
+                        {
+                            "title": "Automated Categorization of Privacy Policies Based on User Perspective - Research Paper",
+                            "link": "https://ieeexplore.ieee.org/document/9606158"
+                        }
+                    ]
                 },
                 {
-                    "title": "Conclusion",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "title": "View Presentation",
+                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
+                    "presentations": [
+                        {
+                            "link": "https://docs.google.com/presentation/d/e/2PACX-1vTYZcDDZMk_eAtqXuZvpGX4GP7-xAh-TmaO0jLsPb6U_TIsozRqezWq0FhMil68MNQr2DJaKJIspTha/embed?start=true&loop=false&delayms=30000"
+                        }
+                    ]
                 }
             ]
         }
