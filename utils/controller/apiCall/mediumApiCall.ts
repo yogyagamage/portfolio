@@ -12,7 +12,7 @@ export default async function mediumApiCall() {
 
     try {
         const res = await fetch(
-            `${getHostedUrl()}/api/mediumApi`, {
+            `/api/mediumApi`, {
                 method:  RequestMethod.POST
             }
         );
