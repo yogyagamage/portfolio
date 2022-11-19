@@ -1,10 +1,10 @@
-import { Avatar, Chip, Typography } from '@mui/material';
+import { Typography } from '@mui/material';
 import { Stack } from '@mui/system';
 import { useEffect, useState } from 'react';
+import { TypeAnimation } from 'react-type-animation';
+import styles from "../../../../styles/Home.module.css";
 import { getTime, Time } from '../../../functions/common';
 import CommonDivider from '../../common/commonDivider';
-import Typewriter from 'typewriter-effect';
-import styles from "../../../../styles/Home.module.css";
 
 export default function NameDetails({ data }) {
 
@@ -81,12 +81,12 @@ function Occupation({ occupation }) {
 
     return (
         <Typography variant="h3" color="text.primary" align="center">
-            <Typewriter
-                options={{
-                    strings: occupation.body,
-                    autoStart: true,
-                    loop: true,
-                }}
+            <TypeAnimation
+                 sequence={occupation.body}
+                  cursor={true}
+                  repeat={Infinity}
+                  speed={1}
+                  deletionSpeed={1}
             />
         </Typography>
     )
