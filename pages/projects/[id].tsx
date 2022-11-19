@@ -1,10 +1,11 @@
+import Error from "next/error";
+import React from "react";
 import DescriptionList from "../../utils/components/common/descriptionList";
 import MainGrid from "../../utils/components/common/mainGrid";
 import NavBar from "../../utils/components/common/navBar";
 import Title from "../../utils/components/common/title";
 import OverallDetails from "../../utils/components/pages/projects-id/overallDetails";
 import projectConfig from "../../utils/data/projects.json";
-import Error from "next/error";
 
 export async function getServerSideProps(context) {
 
@@ -21,7 +22,7 @@ export async function getServerSideProps(context) {
 
     return {
         props : {}
-    }
+    };
 }
 
 export default function SingleProject({ project }) {
@@ -29,15 +30,15 @@ export default function SingleProject({ project }) {
     return (
         project
             ?
-            <>
+            (<>
                 <NavBar />
-                <Title title={project.name} />
+                <Title title={ project.name } />
                 <MainGrid>
-                    <OverallDetails overview={project.overview} />
+                    <OverallDetails overview={ project.overview } />
                     <br />
-                    <DescriptionList list={project.content} />
+                    <DescriptionList list={ project.content } />
                 </MainGrid>
-            </>
-            : <Error statusCode={404} />
+            </>)
+            : <Error statusCode={ 404 } />
     );
 }
