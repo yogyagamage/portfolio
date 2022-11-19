@@ -24,23 +24,19 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. This research aims to create a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
+                    "body": "Vision based Fabric Defect Detection shorten for FABVIS is a system developed by the Intellisense Lab of Department of Computer Science and Engineering of University of Moratuwa, Sri Lanka. I was mainly responsible for designing the web dashboard to change and access the settings of the fabric detection system. "
                 },
                 {
                     "title": "Process",
-                    "body": ""
+                    "body": "The first step of this project was to do a background search on how people in the textile industry use technology. For this I got help from my friends in the textile industry. Then I created a wireframe for the website. After getting the basic structure of the website approved by the stakeholders, I went to design the website. After designing the website the design went to the development phase."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "The primary difficulty I encountered was the project's short timeframe. I overcome this difficulty by carefully organising the project's milestones and soliciting feedback from stakeholders on a regular basis. This ongoing communication with the stakeholders allowed me to reduce the amount of time I needed to adjust the design to accommodate their needs, allowing me to complete the project on schedule."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
-                },
-                {
-                    "title": "Conclusion",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. "
+                    "body": "Our greatest accomplishment was that our project was highlighted on one of Sri Lanka's television programmes (the video of the programme is given below.)"
                 },
                 {
                     "title": "More Information",

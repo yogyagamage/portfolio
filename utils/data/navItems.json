@@ -2,23 +2,23 @@
     "content": [
         {
             "title" : "Home",
-            "link" : "./"
+            "link" : "/"
         },
         {
             "title" : "About",
-            "link" : "./aboutMe"
+            "link" : "/aboutMe"
         },
         {
             "title" : "Projects",
-            "link" : "./projects"
+            "link" : "/projects"
         },
         {
             "title" : "Experience",
-            "link" : "./experiences"
+            "link" : "/experiences"
         },
         {
             "title" : "Download CV",
-            "link" : "./"
+            "link" : "/"
         }
     ]
 }
