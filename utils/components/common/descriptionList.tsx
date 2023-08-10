@@ -28,15 +28,35 @@ function DescriptionListItem({ title, body, links, images, presentations }) {
 
     return (
         <Stack spacing={0.8}>
-            {title
-                ? <Typography variant="h6" color="text.primary">
-                    {title}
-                </Typography>
+            {
+                title
+                    ? <Typography variant="h6" color="text.primary">
+                        {title}
+                    </Typography>
+                    : null
+            }
+            {
+                body 
+                ? 
+                    typeof body === "string"
+                    ? (
+                        <Typography variant="body2" color="text.secondary" sx={title ? null : { marginTop: "-10px" }}>
+                            {body}
+                        </Typography>
+                    )
+                    : (
+                        <Stack spacing={3}>
+                            {
+                                body.map((para) => (
+                                <Typography variant="body2" color="text.secondary" sx={title ? null : { marginTop: "-10px" }}>
+                                    {para.body}
+                                </Typography>
+                                ))
+                            }
+                        </Stack>
+                    )
                 : null
             }
-            <Typography variant="body2" color="text.secondary" sx={title ? null : { marginTop: "-10px" }}>
-                {body}
-            </Typography>
             {
                 links
                     ?

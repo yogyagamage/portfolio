@@ -1,4 +1,4 @@
-import { getHostedUrl, RequestMethod } from "../../functions/common";
+import { RequestMethod } from "../../functions/common";
 
 /**
  * call GET `roleUri`

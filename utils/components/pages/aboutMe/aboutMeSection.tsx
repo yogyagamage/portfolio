@@ -1,4 +1,4 @@
-import { Divider, Typography } from "@mui/material";
+import { Divider, Stack, Typography } from "@mui/material";
 import DescriptionList from "../../common/descriptionList";
 import ExperienceOverview from "../experiences/experienceOverview";
 import PropTypes from "prop-types";
@@ -9,7 +9,11 @@ function AboutMeSection({ content }) {
 
     return (
         <>  
-            <FirstPara para={content.firstPara} />
+            <Stack spacing={3}>
+                {
+                    content.firstPara.map((para) => <FirstPara para={para.body} /> )
+                }
+            </Stack>
 
             <ImageListComponent imageList={content.fistImages} />
 

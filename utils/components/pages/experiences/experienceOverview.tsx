@@ -1,6 +1,5 @@
 import { List, ListItem, Typography } from "@mui/material";
 
-
 export default function ExperienceOverview(prop) {
 
     const { title } = prop;

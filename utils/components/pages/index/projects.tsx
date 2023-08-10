@@ -1,10 +1,8 @@
-import { Avatar, AvatarGroup, Button, Grid, IconButton, ImageList, ImageListItem, ImageListItemBar, Stack, Typography } from '@mui/material'
-import React from 'react'
-import CommonDivider from '../../common/commonDivider'
-import DescriptionList from '../../common/descriptionList'
-import projectConfig from "../../../data/projects.json";
-import Link from 'next/link';
 import { ArrowCircleRight } from '@mui/icons-material';
+import { IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material';
+import Link from 'next/link';
+import projectConfig from "../../../data/projects.json";
+import CommonDivider from '../../common/commonDivider';
 
 export default function Projects({ data }) {
     return (

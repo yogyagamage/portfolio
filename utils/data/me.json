@@ -1,7 +1,20 @@
 {
     "pageTitle": "Who am I ?",
     "content": {
-        "firstPara": "A highly motivated and hardworking individual with a keen interest in learning more about Computer Science especially in the area of Front End Development and UI/UX designing. Also has a passion for learning psychology as well. My life goal is to do something that my dad one day would be proud of.",
+        "firstPara": [
+            {
+                "body": "Hello everyone! I am a highly motivated and hardworking individual with a strong passion for exploring the fascinating areas of Computer Science, particularly Front End Development and UI/UX Designing. I thrive on challenges and love to create intuitive and visually captivating user experiences."
+            },
+            {
+                "body": "Beyond technology, I have a deep curiosity for psychology and its profound impact on human behaviour and decision-making. This diverse interest drives me to approach problem-solving from a unique and empathetic perspective, understanding users' and development teams' needs and aspirations."
+            },
+            {
+                "body": "Throughout my journey, I strive to leave a lasting positive impact on my professional and personal pursuits. My life goal is to create something exceptional, that my father would one day be truly proud of."
+            },
+            {
+                "body": "Let's connect and embark on an exciting journey of knowledge, growth, and creativity. Together, let's contribute to shaping a brighter and more empathetic world through technology."
+            }
+        ],
         "fistImages": [
             {
                 "image": "/images/me/me-1.jpg",
@@ -81,7 +94,20 @@
                         ],
                         "content": [
                             {
-                                "body": "I've always been a big fan of soccer. However, for a variety of reasons, I was unable to play soccer at my school. So I was determined to play it in college and gain firsthand experience on the field. Simply put, it was about playing the game I love and enjoy. We were able to win the joint championship at Sri Lanka University Games 2019. Also, during my time with the team, I was able to improve my soft skills as well, like teamwork, commitment and dedication. These skills still help me in my professional work.",
+                                "body": [
+                                    {
+                                        "body": "I am deeply passionate about football, and my determination to play the sport led me to embrace the opportunity in university to gain firsthand experience on the field. It was all about pursuing my love for the game and enjoying every moment."
+                                    },
+                                    {
+                                        "body": "During my university journey, I had the privilege of being part of a dedicated team that achieved remarkable success. Together, we secured the joint championship at the prestigious Sri Lanka University Games in 2019, a moment that remains a source of pride for me."
+                                    },
+                                    {
+                                        "body": "Playing football honed my athletic abilities and proved to be a platform for personal growth. It was an environment where I developed essential soft skills, such as effective teamwork, unwavering commitment, and unyielding dedication. These qualities continue to serve as valuable assets in my professional endeavours, contributing to my success in the workplace."
+                                    },
+                                    {
+                                        "body": "Football has been more than just a sport for me; it has been a journey of self-discovery, resilience, and camaraderie that has shaped my personal and professional life."
+                                    }
+                                ],
                                 "images": [
                                     {
                                         "image": "/images/me/soccer-1.jpg",
@@ -109,7 +135,20 @@
                         ],
                         "content": [
                             {
-                                "body": "I've always enjoyed assisting those in need. A pure joyous laugh from a child will instantly brighten my day. That is why I joined the University Rotaract Club. From there, I was able to participate in various projects and give back at least a little to the society that had given me so much. The main thing I accomplished was that I was able to give back to the society in which I grew up. Furthermore, by working on projects, I was able to improve my soft skills such as communication, leadership, and teamwork.",
+                                "body": [
+                                    {
+                                        "body": "As an individual deeply committed to voluntary work, I have always sought ways to give back to my community, inspired by my mother's battle with cancer during my childhood. Joining the Rotaract Club of the University of Moratuwa provided me with the perfect platform to fulfil this commitment."
+                                    },
+                                    {
+                                        "body": "One of the most unforgettable experiences of my life was working on a project for the university's Rotaract Club. We spent a day at the Dharma Chakra Child Foundation, where I had the privilege of bringing smiles to the faces of children who face daily adversities. It was an immensely gratifying experience to offer them a day of joy and happiness."
+                                    },
+                                    {
+                                        "body": "Beyond that, I actively contributed to the success of various other club projects, including 'I am Ready', 'Manusath Handa', and 'Ceylon Safari 2018', serving as a member of the organizing committee. Additionally, I co-chaired the project 'First Round Workshop of Maestro'18', further enhancing my leadership and teamwork skills."
+                                    },
+                                    {
+                                        "body": "On a personal level, my involvement in Rotaract Club helped me nurture essential values like empathy and compassion, qualities that are invaluable for a designer. Through these experiences, I have grown both professionally and personally, reinforcing my belief in the power of volunteer work to create positive change."
+                                    }
+                                ],
                                 "images": [
                                     {
                                         "image": "/images/me/rot-1.jpg",

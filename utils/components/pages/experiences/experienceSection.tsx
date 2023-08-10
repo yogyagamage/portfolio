@@ -1,8 +1,7 @@
-import { Divider } from "@mui/material";
-import DescriptionList from "../../common/descriptionList";
-import ExperienceOverview from "./experienceOverview";
 import PropTypes from "prop-types";
 import CommonDivider from "../../common/commonDivider";
+import DescriptionList from "../../common/descriptionList";
+import ExperienceOverview from "./experienceOverview";
 
 function Experiences({ experiences }) {
 

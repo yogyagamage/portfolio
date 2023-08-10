@@ -2,120 +2,6 @@
     "pageTitle": "Projects",
     "projects": [
         {
-            "name": "FabVis",
-            "role": "UI/UX Designer",
-            "overview": [
-                {
-                    "title": "Duration",
-                    "body": "2021 Jun – 2021 Sep"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Textile"
-                },
-                {
-                    "title": "My Role",
-                    "body": "UI/UX Designer"
-                }
-            ],
-            "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
-            "rows": 2,
-            "cols": 2,
-            "content": [
-                {
-                    "title": "Overview",
-                    "body": "Vision based Fabric Defect Detection shorten for FABVIS is a system developed by the Intellisense Lab of Department of Computer Science and Engineering of University of Moratuwa, Sri Lanka. I was mainly responsible for designing the web dashboard to change and access the settings of the fabric detection system. "
-                },
-                {
-                    "title": "Process",
-                    "body": "The first step of this project was to do a background search on how people in the textile industry use technology. For this I got help from my friends in the textile industry. Then I created a wireframe for the website. After getting the basic structure of the website approved by the stakeholders, I went to design the website. After designing the website the design went to the development phase.",
-                    "images": [
-                        {
-                            "image": "/images/projects/fabvis/fabvis-2.png",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "/images/projects/fabvis/fabvis-3.png",
-                            "alt": "achintha isuru - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "The primary difficulty I encountered was the project's short timeframe. I overcome this difficulty by carefully organising the project's milestones and soliciting feedback from stakeholders on a regular basis. This ongoing communication with the stakeholders allowed me to reduce the amount of time I needed to adjust the design to accommodate their needs, allowing me to complete the project on schedule."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "The main accomplishment we recieved was that our project was highlighted on one of Sri Lanka's television programmes (the video of the programme is given below.)"
-                },
-                {
-                    "title": "More Information",
-                    "body": "The following videos go into a great detail on the project. Please watch the videos for further details. Please kindely note that the second video is not in English (it is in Sinhala).",
-                    "presentations": [
-                        {
-                            "link": "https://www.youtube.com/embed/bPJwYzVxxr4"
-                        },
-                        {
-                            "link": "https://www.youtube.com/embed/GwylMWO-FOI"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
-            "role": "Mobile Application Developer and UI/UX Designer",
-            "overview": [
-                {
-                    "title": "Duration",
-                    "body": "2021 Apr – 2022 Mar"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Urban Development"
-                },
-                {
-                    "title": "My Role",
-                    "body": "Mobile Application Developer and UI/UX Designer"
-                }
-            ],
-            "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-            "cols": 2,
-            "content": [
-                {
-                    "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
-                },
-                {
-                    "title": "Process",
-                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above."
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "Several problems arose during the course of this endeavour. The lack of data to train the machine learning model was the first obstacle. We resolved this difficulty by employing proper pre-processing techniques and, when possible, applying fuzzy logic inference. Another issue was that the initial version of the mobile application quickly depleted the user's battery. We lowered the rate of data collection via the mobile application to accomplish this. There were numerous other difficulties. We overcome them, though, and completed the assignment on time."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "Based on this project, we successfully submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
-                    "links": [
-                        {
-                            "title": "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
-                            "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
-                        }
-                    ]
-                },
-                {
-                    "title": "View Presentation",
-                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
-                    "presentations": [
-                        {
-                            "link": "https://www.canva.com/design/DAE6rPJ63x8/view?embed"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "A New User Interface Concept for ATM’s to Reduce Receipt Wastage",
             "role": "UI/UX Designer",
             "overview": [
@@ -183,6 +69,120 @@
             ]
         },
         {
+            "name": "FabVis",
+            "role": "UI/UX Designer",
+            "overview": [
+                {
+                    "title": "Duration",
+                    "body": "2021 Jun – 2021 Sep"
+                },
+                {
+                    "title": "Sector",
+                    "body": "Textile"
+                },
+                {
+                    "title": "My Role",
+                    "body": "UI/UX Designer"
+                }
+            ],
+            "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
+            "rows": 2,
+            "cols": 2,
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "The FABVIS (Vision-Based Fabric Defect Detection) project, a pioneering creation by the Intellisense Lab within the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka. My role focused on crafting a sophisticated web dashboard to streamline efficient configuration and provide access to the fabric detection system's settings."
+                },
+                {
+                    "title": "Process",
+                    "body": "This undertaking commenced with a thorough exploration of technology's role in the textile industry. Through collaboration with industry peers, I gained invaluable insights that guided subsequent phases. I methodically developed a comprehensive wireframe for the website, which, upon stakeholder approval, provided the foundation for design and development. After that I designed the website and gave the prototype to the development team.",
+                    "images": [
+                        {
+                            "image": "/images/projects/fabvis/fabvis-2.png",
+                            "alt": "achintha isuru - 1"
+                        },
+                        {
+                            "image": "/images/projects/fabvis/fabvis-3.png",
+                            "alt": "achintha isuru - 1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "A pivotal challenge was the project's stringent timeframe. To address this, I employed strategic milestone planning and consistent stakeholder engagement. Regular feedback loops ensured design iterations aligned seamlessly with evolving needs, leading to a punctual project completion."
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "A significant achievement was the recognition garnered from a distinguished Sri Lankan television program. This recognition underscored the project's significance and potential impact. A link to the program's video is provided below."
+                },
+                {
+                    "title": "More Information",
+                    "body": "For a comprehensive exploration of project intricacies, I encourage you to explore the videos below. The second video, while in Sinhala, offers detailed insights into the project's development and features.",
+                    "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/bPJwYzVxxr4"
+                        },
+                        {
+                            "link": "https://www.youtube.com/embed/GwylMWO-FOI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
+            "role": "Mobile Application Developer and UI/UX Designer",
+            "overview": [
+                {
+                    "title": "Duration",
+                    "body": "2021 Apr – 2022 Mar"
+                },
+                {
+                    "title": "Sector",
+                    "body": "Urban Development"
+                },
+                {
+                    "title": "My Role",
+                    "body": "Mobile Application Developer and UI/UX Designer"
+                }
+            ],
+            "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+            "cols": 2,
+            "content": [
+                {
+                    "title": "Overview",
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
+                },
+                {
+                    "title": "Process",
+                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above."
+                },
+                {
+                    "title": "Challenges Faced",
+                    "body": "Several problems arose during the course of this endeavour. The lack of data to train the machine learning model was the first obstacle. We resolved this difficulty by employing proper pre-processing techniques and, when possible, applying fuzzy logic inference. Another issue was that the initial version of the mobile application quickly depleted the user's battery. We lowered the rate of data collection via the mobile application to accomplish this. There were numerous other difficulties. We overcome them, though, and completed the assignment on time."
+                },
+                {
+                    "title": "Accomplishments",
+                    "body": "Based on this project, we successfully submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
+                    "links": [
+                        {
+                            "title": "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
+                            "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
+                        }
+                    ]
+                },
+                {
+                    "title": "View Presentation",
+                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
+                    "presentations": [
+                        {
+                            "link": "https://www.canva.com/design/DAE6rPJ63x8/view?embed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Organic Chemistry Conversions",
             "role": "UI/UX Designer",
             "overview": [
@@ -205,11 +205,11 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "Organic Chemistry Conversions is a smartphone game that helps college students improve their organic chemistry skills. This conversion game has a total of 100 levels. At each stage, you must drag & drop the appropriate chemical into the appropriate slot. You will be advanced to the next level if your combination is correct. As a result, you can enjoy the game while sharpening your talents."
+                    "body": "Organic Chemistry Conversions is a smartphone game designed to enhance the organic chemistry skills of college students. This engaging conversion game comprises 100 levels, each challenging players to drag and drop the appropriate chemicals into corresponding slots. Successful combinations unlock the next level, allowing players to enjoy the game while honing their talents."
                 },
                 {
                     "title": "Process",
-                    "body": "As the initial stage in this project, I looked at the UI and UX of popular level-based games like Angry Birds to get a sense of what I'm up against. Following a paper wireframe session, I transferred the design to the digital platform Figma. I chose yellow as the main colour because it represents inventiveness, which is an important tool for students to have when addressing organic chemistry problems. Following that, I presented the prototype to the stakeholders and advanced the application to development.",
+                    "body": "Embarking on this project, I began by analyzing the user interface (UI) and user experience (UX) of popular level-based games such as Angry Birds, gathering insights into the design landscape. A paper wireframe session paved the way for translating the design into the digital realm using Figma. The selection of yellow as the primary color stemmed from its representation of inventiveness, a crucial asset for students tackling organic chemistry problems. Following stakeholder presentations, the prototype transitioned to the development phase.",
                     "images": [
                         {
                             "image": "/images/projects/organic/organic-1.png",
@@ -227,11 +227,11 @@
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "The primary problem I faced was that this was my first game, so it was a bit of a challenge. I was able to overcome this by conducting a  thorough preliminary study. I investigated how other games are developed and what factors a designer should consider while creating a game."
+                    "body": "A central challenge I encountered was stepping into the realm of game development for the first time. This novel venture required a comprehensive preliminary study. I delved into the intricacies of game creation, examining development processes and the essential considerations a designer must weigh while shaping a game."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "We were only able to launch the application to Android users due to several constraints. We received fantastic reviews from them. We received 4.6/5.0 reviews and over 1,000 downloads in the Google Play store in a short amount of time with little to no marketing."
+                    "body": "While certain constraints limited our application's launch exclusively to Android users, the outcome was remarkable. The application garnered exceptional reviews, achieving a rating of 4.6/5.0 with over 1,000 downloads in the Google Play store in a relatively brief span. These accomplishments were attained with minimal marketing efforts, underscoring the application's appeal and impact."
                 },
                 {
                     "title": "View application",
