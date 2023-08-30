@@ -11,6 +11,7 @@ export default function ProjectSection({ projects }) {
         <ImageList
             variant="quilted"
             cols={4}
+            rowHeight={200}
         >
             {projects.map((project) => (
                 <ProjectCard project={project} />

@@ -34,7 +34,9 @@ export default function SingleProject({ project }) {
                 <NavBar />
                 <Title title={ project.name } />
                 <MainGrid>
-                    <OverallDetails overview={ project.overview } />
+                    {
+                        project.overview && <OverallDetails overview={ project.overview } />
+                    }
                     <br />
                     <DescriptionList list={ project.content } />
                 </MainGrid>

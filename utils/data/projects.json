@@ -20,6 +20,7 @@
             ],
             "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
             "cols": 2,
+            "rows": 2,
             "content": [
                 {
                     "title": "Overview",
@@ -148,6 +149,7 @@
             ],
             "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
             "cols": 2,
+            "rows": 2,
             "content": [
                 {
                     "title": "Overview",
@@ -201,7 +203,6 @@
             ],
             "image": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80",
             "cols": 2,
-            "rows": 2,
             "content": [
                 {
                     "title": "Overview",
@@ -293,6 +294,59 @@
                     "presentations": [
                         {
                             "link": "https://docs.google.com/presentation/d/e/2PACX-1vTYZcDDZMk_eAtqXuZvpGX4GP7-xAh-TmaO0jLsPb6U_TIsozRqezWq0FhMil68MNQr2DJaKJIspTha/embed?start=true&loop=false&delayms=30000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Other Projects",
+            "image": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3569&q=80",
+            "cols": 2,
+            "content": [
+                {
+                    "title": [
+                        "Bubble Detector Mobile Application",
+                        "CS 4472 Mobile Computing - Project",
+                        "Oct 2021 - Dec 2021"
+                    ],
+                    "body": "As part of the 'CS 4472 Mobile Computing' course, I contributed to the 'Bubble Detector Mobile Application' project, aimed at replacing less secure methods of store entry logging during the COVID-19 pandemic with a safer and more efficient solution. Through a mobile application, we introduced a modern approach to mitigate health risks, eliminating the need for manual entry or QR code scanning. Leveraging Figma for design, Flutter for development, and Firebase for data management, we successfully created a user-friendly and contactless system that not only enhances safety measures but also showcases the potential of technology to address real-world challenges effectively. This project not only advanced my technical proficiency but also deepened my understanding of technology's role in promoting public health in unprecedented circumstances.",
+                    "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/ZeWIGfQCypc"
+                        }
+                    ]
+                },
+                {
+                    "title": [
+                        "OBD Fuel",
+                        "Part of the Undergraduate Final Year Project",
+                        "Jun 2021 - Dec 2021"
+                    ],
+                    "body": "'OBD Fuel' is an Android mobile application designed to offer users a comprehensive and user-friendly dashboard for seamlessly connecting and accessing results from their On-Board Diagnostics (OBD) device. With a focus on simplicity and effectiveness, this application empowers users to effortlessly monitor and analyze crucial data from their OBD device, enhancing their driving experience and overall vehicle management.",
+                    "links": [
+                        {
+                            "title": "Download the application",
+                            "link": "https://play.google.com/store/apps/details?id=com.mtdaps.obdfuel"
+                        }
+                    ],
+                    "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/vHXmxZdZzCI"
+                        }
+                    ]
+                },
+                {
+                    "title": [
+                        "GPA Cal",
+                        "A Pet Project",
+                        "Oct 2020 - Dec 2020"
+                    ],
+                    "body": "'GPA Cal' marks a significant milestone as it is my first application published on the Google Play Store. This app offers users a convenient means to effortlessly monitor and compute their Grade Point Average (GPA). Seamlessly developed using Flutter, 'GPA Cal' streamlines GPA tracking, making academic performance assessment a user-friendly and efficient experience.",
+                    "links": [
+                        {
+                            "title": "Download the application",
+                            "link": "https://play.google.com/store/apps/details?id=ait.gpa_cal"
                         }
                     ]
                 }

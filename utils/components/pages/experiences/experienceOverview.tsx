@@ -1,8 +1,6 @@
 import { List, ListItem, Typography } from "@mui/material";
 
-export default function ExperienceOverview(prop) {
-
-    const { title } = prop;
+export default function ExperienceOverview({ title }) {
 
     return (
         <List dense={true} >

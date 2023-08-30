@@ -1,25 +1,21 @@
-import { Typography } from '@mui/material'
-import React from 'react'
-import CommonDivider from '../../common/commonDivider'
-import DescriptionList from '../../common/descriptionList'
+import CommonDivider from "../../common/commonDivider";
+import DescriptionList from "../../common/descriptionList";
+import SubSectionTitle from "../../common/subSectionTitle";
 
 export default function LittleBitAboutMe({ data }) {
     return (
         <>
             <br />
-            <Typography variant="h4" color="text.primary">
-                {data.title}
-            </Typography>
+            <SubSectionTitle data={ data } />
             <br />
             {
                 data.content.map((contentDesc) => (
                     <>
-                        <DescriptionList list={contentDesc.content} />
+                        <DescriptionList list={ contentDesc.content } />
                         <br />
                     </>
                 ))
             }
-
             <CommonDivider />
         </>
     );
