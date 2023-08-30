@@ -1,10 +1,10 @@
-import { ArrowCircleRight } from '@mui/icons-material';
-import { IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material';
-import Link from 'next/link';
-import { useCallback, useEffect, useState } from 'react';
-import mediumApiCall from '../../../controller/apiCall/mediumApiCall';
-import { randomNumberGenerator } from '../../../functions/common';
-import CommonDivider from '../../common/commonDivider';
+import { ArrowCircleRight } from "@mui/icons-material";
+import { IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from "@mui/material";
+import Link from "next/link";
+import { useCallback, useEffect, useState } from "react";
+import mediumApiCall from "../../../controller/apiCall/mediumApiCall";
+import { randomNumberGenerator } from "../../../functions/common";
+import CommonDivider from "../../common/commonDivider";
 
 export default function MyWritings({ data }) {
 
@@ -14,7 +14,7 @@ export default function MyWritings({ data }) {
 
         const res = await mediumApiCall();
 
-        const from = randomNumberGenerator(res.length - 3);
+        const from = randomNumberGenerator(res?.length - 3);
         const to = from + 3;
 
         setMediumArticles(res.slice(from, to));
@@ -57,7 +57,7 @@ export default function MyWritings({ data }) {
 function SingleArticle({ article }) {
 
     return (
-        <Link  href={article.link} target="_blank" rel="noopener">
+        <Link href={article.link} target="_blank" rel="noopener">
             <ImageListItem
                 key={article.thumbnail}
                 style={{ cursor: "pointer" }}>
@@ -70,7 +70,7 @@ function SingleArticle({ article }) {
                 <ImageListItemBar
                     title={article.title}
                     actionIcon={
-                        <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
+                        <IconButton sx={{ color: "rgba(255, 255, 255, 1)" }}>
                             <ArrowCircleRight />
                         </IconButton>
                     }
