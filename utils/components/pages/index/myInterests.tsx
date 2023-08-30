@@ -1,14 +1,13 @@
 import { Avatar, Chip, Typography } from "@mui/material";
 import { Stack } from "@mui/system";
 import CommonDivider from "../../common/commonDivider";
+import SubSectionTitle from "../../common/subSectionTitle";
 
 export default function MyInterests({ data }) {
     return (
         <>
             <br />
-            <Typography variant="h4" color="text.primary">
-                { data.title }
-            </Typography>
+            <SubSectionTitle data={ data } />
             <br />
             {
                 data.interests.map((interest) => (
