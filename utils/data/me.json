@@ -41,7 +41,7 @@
                         ],
                         "content": [
                             {
-                                "body": "I started following the Google UX Design Professional Certificate to get the first hand experience and knowledge about UX designing. Through Google UX Design Professional Certificate I was able to dive deep to learn what UX Design is. From this course I learn about the basics about the design process, empathise with users, define pain points, ideate solutions, create wireframes and prototypes, and also test and iterate on the design. I am currently following this course."
+                                "body": "I embarked on the Google UX Design Professional Certificate journey to gain firsthand experience and knowledge in UX designing. This comprehensive program has allowed me to immerse myself in the world of UX design, delving deeply into its nuances. Through the course, I've gained insights into the fundamental aspects of the design process, including user empathy, pain point definition, ideation of solutions, wireframing and prototyping, as well as testing and iterative design. I am currently following this course."
                             }
                         ]
                     },
@@ -53,7 +53,17 @@
                         ],
                         "content": [
                             {
-                                "body": "My bachelor's degree was earned at the University of Moratuwa's Department of Computer Science and Engineering in Sri Lanka. During my university years, I was not just concerned with my schoolwork, but I also participated in extracurricular activities such as soccer and Rotaract. I played goalkeeper for my university's soccer team. I was also a member of the Rotaract Club of the University of Moratuwa's public relations team.",
+                                "body": [
+                                    {
+                                        "body": "My academic journey culminated at the University of Moratuwa's Department of Computer Science and Engineering, Sri Lanka. This esteemed institution honed my skills and knowledge, granting me a Bachelor of Science in Engineering with a specialization in Computer Science & Engineering. While excelling in my studies, I concurrently engaged in enriching extracurricular pursuits."
+                                    },
+                                    {
+                                        "body": "During my time, I actively participated in extracurricular activities, enhancing my holistic learning experience. I represented my university as the goalkeeper for the soccer team, fostering teamwork and athletic prowess on the field. As a dedicated member of the Rotaract Club of the University of Moratuwa, I contributed to the public relations team, engaging in initiatives that nurtured community bonds and social responsibility."
+                                    },
+                                    {
+                                        "body": "This balance between academic excellence and active involvement enriched my university years, fostering a well-rounded skill set and a sense of camaraderie with my peers."
+                                    }
+                                ],
                                 "images": [
                                     {
                                         "image": "/images/me/uni-1.jpg",
@@ -79,7 +89,14 @@
                         ],
                         "content": [
                             {
-                                "body": "The California Institute of Arts' UI/UX specialism presented me with the opportunity to learn the fundamentals of UI/UX design. This course was quite beneficial because the material of my bachelor's degree did not touch this topic. I was able to secure some UI/UX freelancing work after finishing this course, which truly helped me to improve my skills."
+                                "body": [
+                                    {
+                                        "body": "I pursued the UI/UX Specialization offered by the California Institute of the Arts through Coursera, a transformative journey that acquainted me with the essential foundations of UI/UX design. This course held particular significance, as it provided insights and knowledge not covered within the curriculum of my bachelor's degree. The specialization proved immensely beneficial, equipping me with practical expertise that extended beyond my academic studies."
+                                    },
+                                    {
+                                        "body": "Moreover, the knowledge gained from this course facilitated the acquisition of UI/UX freelancing opportunities upon completion. These experiences proved instrumental in advancing my skill set, elevating both my proficiency and confidence in the field. This comprehensive specialization from a renowned institution greatly augmented my capabilities and prepared me for the dynamic realm of UI/UX design."
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -173,7 +190,25 @@
                         ],
                         "content": [
                             {
-                                "body": "I really enjoy cooking. In my free time I will follow online recieps. My favourite dishes are my parata and dhosi."
+                                "body": "Cooking is a passion of mine, and I find immense joy in creating culinary delights. During my leisure hours, I indulge in experimenting with diverse recipes sourced from online platforms. I take great pleasure in the art of crafting dishes that amaze the taste buds ( Not sure if they do all the time though! 😉 ). My favourite dishes are my waffles and dhosi.",
+                                "images": [
+                                    {
+                                        "image": "/images/me/cooking-1.jpeg",
+                                        "alt": "cooking - 1"
+                                    },
+                                    {
+                                        "image": "/images/me/cooking-2.jpeg",
+                                        "alt": "cooking - 2"
+                                    },
+                                    {
+                                        "image": "/images/me/cooking-3.jpeg",
+                                        "alt": "cooking - 3"
+                                    },
+                                    {
+                                        "image": "/images/me/cooking-4.jpeg",
+                                        "alt": "cooking - 4"
+                                    }
+                                ]
                             }
                         ]
                     }
