@@ -126,11 +126,20 @@
         {
             "id": 3,
             "title": "Recent Projects...",
+            "titleLink" : {
+                "text": "View All",
+                "link": "/projects"
+            },
             "comments": "This will make use of the projects.json data"
         },
         {
             "id": 4,
-            "title": "My Writings..."
+            "title": "My Writings...",
+            "titleLink" : {
+                "text": "Read More",
+                "link": "https://medium.com/@achinthaisuru444",
+                "target": "_blank"
+            }
         },
         {
             "id": 5,

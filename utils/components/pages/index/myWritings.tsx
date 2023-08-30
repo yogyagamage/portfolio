@@ -5,10 +5,11 @@ import { useCallback, useEffect, useState } from "react";
 import mediumApiCall from "../../../controller/apiCall/mediumApiCall";
 import { randomNumberGenerator } from "../../../functions/common";
 import CommonDivider from "../../common/commonDivider";
+import SubSectionTitle from "../../common/subSectionTitle";
 
 export default function MyWritings({ data }) {
 
-    const [mediumArticles, setMediumArticles] = useState(null);
+    const [ mediumArticles, setMediumArticles ] = useState(null);
 
     const fetchMediumArticles = useCallback(async () => {
 
@@ -19,35 +20,32 @@ export default function MyWritings({ data }) {
 
         setMediumArticles(res.slice(from, to));
 
-    }, [setMediumArticles]);
+    }, [ setMediumArticles ]);
 
     useEffect(() => {
         fetchMediumArticles();
-    }, [fetchMediumArticles])
+    }, [ fetchMediumArticles ] );
 
-    const setGridSize = (mediumArticles) => {
-
-        return mediumArticles.length;
-    }
+    const setGridSize = (mediumArticles) => mediumArticles.length;
 
     return (
 
         mediumArticles
-            ? <>
-                <br />
-                <Typography variant="h4" color="text.primary">
-                    {data.title}
-                </Typography>
-                <br />
-                <ImageList cols={setGridSize(mediumArticles)}>
-                    {
-                        mediumArticles.map((article) => <SingleArticle article={article} />)
-                    }
-                </ImageList>
+            ? (
+                <>
+                    <br />
+                    <SubSectionTitle data={ data } />
+                    <br />
 
-                <CommonDivider />
+                    <ImageList cols={ setGridSize(mediumArticles) }>
+                        {
+                            mediumArticles.map((article) => <SingleArticle key={ article.guid } article={ article } />)
+                        }
+                    </ImageList>
 
-            </>
+                    <CommonDivider />
+                </>
+            )
             : null
 
 
@@ -57,22 +55,22 @@ export default function MyWritings({ data }) {
 function SingleArticle({ article }) {
 
     return (
-        <Link href={article.link} target="_blank" rel="noopener">
+        <Link href={ article.link } target="_blank" rel="noopener">
             <ImageListItem
-                key={article.thumbnail}
-                style={{ cursor: "pointer" }}>
+                key={ article.thumbnail }
+                style={ { cursor: "pointer" } }>
                 <img
-                    src={article.thumbnail}
-                    alt={article.thumbnail}
+                    src={ article.thumbnail }
+                    alt={ article.thumbnail }
                     loading="lazy"
-                    style={{mixBlendMode : "multiply"}}
+                    style={ { mixBlendMode : "multiply" } }
                 />
                 <ImageListItemBar
-                    title={article.title}
+                    title={ article.title }
                     actionIcon={
-                        <IconButton sx={{ color: "rgba(255, 255, 255, 1)" }}>
+                        (<IconButton sx={ { color: "rgba(255, 255, 255, 1)" } }>
                             <ArrowCircleRight />
-                        </IconButton>
+                        </IconButton>)
                     }
                 />
             </ImageListItem>
