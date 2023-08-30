@@ -1,10 +1,10 @@
 import PropTypes from "prop-types";
-import LittleBitAboutMe from "../index/littleBitAboutMe";
 import Contact from "./contact";
 import MyInterests from "./myInterests";
 import MyWritings from "./myWritings";
 import NameDetails from "./nameDetails";
 import Projects from "./projects";
+import LittleBitAboutMe from "../index/littleBitAboutMe";
 
 function IndexSection({ content }) {
 
