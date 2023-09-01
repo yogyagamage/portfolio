@@ -27,8 +27,6 @@ export default DescriptionList;
 
 function DescriptionListItem({ title, body, links, images, presentations }) {
 
-    console.log(typeof title);
-
     return (
         <Stack spacing={ 0.8 }>
             {
