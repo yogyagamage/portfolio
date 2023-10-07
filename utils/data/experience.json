@@ -47,7 +47,12 @@
                 },
                 {
                     "title": "My Responsibilities",
-                    "body": "During the first tenure for the Database module, my primary responsibilities involved guiding and supporting students during practical sessions, grading their assignments, and later creating instructional videos to help students get started with web development, technologies, trends, and security concerns."
+                    "body": "During the first tenure for the Database module, my primary responsibilities involved guiding and supporting students during practical sessions, grading their assignments, and later creating instructional videos to help students get started with web development, technologies, trends, and security concerns.",
+                    "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/videoseries?si=zj_nuEvPPHxcnmVt&amp;list=PLrkEOVQA1S7JQbxOxq7yf3IjH9C5U5dSv"
+                        }
+                    ]
                 },
                 {
                     "title": "My Accomplishments",
