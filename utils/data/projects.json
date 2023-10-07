@@ -92,11 +92,11 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "The FABVIS (Vision-Based Fabric Defect Detection) project, a pioneering creation by the Intellisense Lab within the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka. My role focused on crafting a sophisticated web dashboard to streamline efficient configuration and provide access to the fabric detection system's settings."
+                    "body": "The FABVIS (Vision-Based Fabric Defect Detection) project, is a pioneering creation by the Intellisense Lab within the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka. My role focused on designing a web dashboard to streamline efficient configuration and provide access to the fabric detection system's settings to the textile engineers."
                 },
                 {
                     "title": "Process",
-                    "body": "This undertaking commenced with a thorough exploration of technology's role in the textile industry. Through collaboration with industry peers, I gained invaluable insights that guided subsequent phases. I methodically developed a comprehensive wireframe for the website, which, upon stakeholder approval, provided the foundation for design and development. After that I designed the website and gave the prototype to the development team.",
+                    "body": "This project started with a thorough exploration of the role of technology in the textile industry. Through collaboration with industry peers, I gained valuable insights that guided me to make design decisions. First of all, I developed a comprehensive wireframe for the website, which, upon stakeholder approval, provided the foundation for the design. After that, I designed a digital prototype of the website and gave the prototype to the development team.",
                     "images": [
                         {
                             "image": "/images/projects/fabvis/fabvis-2.png",
@@ -110,15 +110,15 @@
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A pivotal challenge was the project's stringent timeframe. To address this, I employed strategic milestone planning and consistent stakeholder engagement. Regular feedback loops ensured design iterations aligned seamlessly with evolving needs, leading to a punctual project completion."
+                    "body": "One of the main challenges I faced was the strict time frame of the project. To address this, I employed strategic milestone planning and consistent stakeholder engagement. Regular feedback loops ensured design iterations aligned seamlessly with evolving needs, leading to a punctual project completion."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "A significant achievement was the recognition garnered from a distinguished Sri Lankan television program. This recognition underscored the project's significance and potential impact. A link to the program's video is provided below."
+                    "body": "The main achievement that we received was the recognition given by a distinguished Sri Lankan television channel Sirasa TV. This recognition highlighted the project's significance and potential impact. A link to the program's video is provided below."
                 },
                 {
                     "title": "More Information",
-                    "body": "For a comprehensive exploration of project intricacies, I encourage you to explore the videos below. The second video, while in Sinhala, offers detailed insights into the project's development and features.",
+                    "body": "For a comprehensive exploration of project details, I encourage you to watch the videos below. The second video, while in Sinhala, offers detailed insights into the project's development and features.",
                     "presentations": [
                         {
                             "link": "https://www.youtube.com/embed/bPJwYzVxxr4"
@@ -153,23 +153,27 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system includes automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
+                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project, we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system include automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
                 },
                 {
                     "title": "Process",
-                    "body": "First, we had to create the mobile application that would be utilised to gather traffic data. To acquire ideas for this, we had to look at earlier map-based mobile applications. We then developed a prototype of the mobile application after drawing some wireframes. Following that, we used Android to construct the application. Then, up until the backend was created, we tested the mobile application and made adjustments based on the results. Since we lacked sufficient resources, we were only able to do a few basic user tests the application. Following that, we developed the web application and machine learning model to display the outcomes. While I constructed the most of the mobile application, my partner created the majority of the two portions mentioned above."
+                    "body": "As the first step, we had to design a mobile application for gathering traffic data. To generate ideas for this, we examined previous map-based mobile applications. Next, we created a prototype of the mobile application, starting with some wireframes. Afterwards, we utilized Android to develop the application. We conducted testing on the mobile application and made adjustments based on the results. Due to resource constraints, we were only able to perform a few basic user tests of the application. Following that phase, we developed the web application and the machine learning model to display the results. While I primarily focused on developing the mobile application, my partner took the lead in developing the majority of the web dashboard and the machine learning model."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "Several problems arose during the course of this endeavour. The lack of data to train the machine learning model was the first obstacle. We resolved this difficulty by employing proper pre-processing techniques and, when possible, applying fuzzy logic inference. Another issue was that the initial version of the mobile application quickly depleted the user's battery. We lowered the rate of data collection via the mobile application to accomplish this. There were numerous other difficulties. We overcome them, though, and completed the assignment on time."
+                    "body": "During the project, we encountered several challenges. The first hurdle was the insufficient amount of data available for training the machine learning model. To address this challenge, we employed appropriate pre-processing techniques and, when feasible, applied fuzzy logic inference. Another problem was that the initial version of the mobile application significantly drained the user's battery. To mitigate this, we reduced the rate of data collection through the mobile application. While there were numerous other challenges along the way, we effectively tackled them and managed to complete the project within the specified timeframe."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "Based on this project, we successfully submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
+                    "body": "Based on this project, we submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
                     "links": [
                         {
                             "title": "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
                             "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
+                        },
+                        {
+                            "title": "Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data - Research Paper",
+                            "link": "https://ieeexplore.ieee.org/document/10024097"
                         }
                     ]
                 },
@@ -206,11 +210,11 @@
             "content": [
                 {
                     "title": "Overview",
-                    "body": "Organic Chemistry Conversions is a smartphone game designed to enhance the organic chemistry skills of college students. This engaging conversion game comprises 100 levels, each challenging players to drag and drop the appropriate chemicals into corresponding slots. Successful combinations unlock the next level, allowing players to enjoy the game while honing their talents."
+                    "body": "Organic Chemistry Conversions is a smartphone game designed to improve the organic chemistry skills of college students. This engaging game comprises 100 levels, each challenging players to drag and drop the appropriate chemicals into corresponding slots. Successful combinations unlock the next level, allowing players to enjoy the game while improving their knowledge."
                 },
                 {
                     "title": "Process",
-                    "body": "Embarking on this project, I began by analyzing the user interface (UI) and user experience (UX) of popular level-based games such as Angry Birds, gathering insights into the design landscape. A paper wireframe session paved the way for translating the design into the digital realm using Figma. The selection of yellow as the primary color stemmed from its representation of inventiveness, a crucial asset for students tackling organic chemistry problems. Following stakeholder presentations, the prototype transitioned to the development phase.",
+                    "body": "Starting on this project, I began by analysing the user interface (UI) and user experience (UX) of popular level-based games such as Angry Birds, gathering insights into the design landscape. Subsequently, I created a paper wireframe as an initial conceptual representation of the game's interface. I then translated this wireframe into a digital prototype using Figma. Yellow was selected as the primary colour because of its representation of inventiveness, a crucial asset for students tackling organic chemistry problems. Following stakeholder presentations, the prototype transitioned to the development phase.",
                     "images": [
                         {
                             "image": "/images/projects/organic/organic-1.png",
@@ -228,11 +232,11 @@
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "A central challenge I encountered was stepping into the realm of game development for the first time. This novel venture required a comprehensive preliminary study. I delved into the intricacies of game creation, examining development processes and the essential considerations a designer must weigh while shaping a game."
+                    "body": "A main challenge I encountered was stepping into the realm of game development for the first time. This new experience required a comprehensive preliminary study. I delved into the intricacies of game creation, examining development processes and the essential considerations a designer must weigh while shaping a game."
                 },
                 {
                     "title": "Accomplishments",
-                    "body": "While certain constraints limited our application's launch exclusively to Android users, the outcome was remarkable. The application garnered exceptional reviews, achieving a rating of 4.6/5.0 with over 1,000 downloads in the Google Play store in a relatively brief span. These accomplishments were attained with minimal marketing efforts, underscoring the application's appeal and impact."
+                    "body": "While certain constraints limited our application's launch exclusively to Android users, the outcome was better than expected. The application got exceptional reviews, achieving a rating of 4.6/5.0 with over 1,000 downloads in the Google Play store in a relatively brief span. These accomplishments were attained with minimal marketing efforts, emphasising the application's appeal and impact."
                 },
                 {
                     "title": "View application",
@@ -342,7 +346,7 @@
                         "A Pet Project",
                         "Oct 2020 - Dec 2020"
                     ],
-                    "body": "'GPA Cal' marks a significant milestone as it is my first application published on the Google Play Store. This app offers users a convenient means to effortlessly monitor and compute their Grade Point Average (GPA). Seamlessly developed using Flutter, 'GPA Cal' streamlines GPA tracking, making academic performance assessment a user-friendly and efficient experience.",
+                    "body": "'GPA Cal' marks a significant milestone as it is my first application published on the Google Play Store. This app offers users a convenient means to effortlessly monitor and compute their Grade Point Average (GPA). Developed using Flutter, 'GPA Cal' streamlines GPA tracking, making academic performance assessment a user-friendly and efficient experience.",
                     "links": [
                         {
                             "title": "Download the application",

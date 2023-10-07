@@ -4,25 +4,30 @@
         {   
             "title": [
                 "WSO2",
-                "Software Engineer",
+                "Software Engineer (UI/UX, Front-end)",
                 "May 2022 - Present"
             ],
             "content": [
                 {
                     "title": "Organization’s Activities",
-                    "body": "WSO2 is one of the biggest open-source technology providers in the world today. Their main products are Identity Server, Choreo and Ballerina."
+                    "body": "WSO2 is an open-source technology provider founded in 2005. It delivers software and cloud solutions that provide foundational technologies for application development and identity and access management. Their main products are Identity Server, Choreo and Ballerina."
                 },
                 {
                     "title": "My Responsibilities",
-                    "body": "My primary tasks are to work on the managment and development of the Identity Server and Asgardeo's front-end features. For development, I mainly use React JS and Java"
+                    "body": "At WSO2, I am working with the identity access management team. My primary responsibilities include front-end development and UI/UX design for the company's products, namely Identity Server and Asgardeo. Additionally, I provide assistance to the team on Flutter-related matters and actively engage in discussions. For development and design tasks, I primarily utilize React JS, Next JS, Flutter, and Figma.",
+                    "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/0GZfKLJE85U?si=1DgOm099bewnYwQz"
+                        }
+                    ]
                 },
                 {
                     "title": "My Accomplishments",
-                    "body": "In just two weeks, I developed a complete website to demonstrate a newly developed feature, using a technology I had never used before. This is the applicaiton that is currently used by the company to demonstrate that new feature."
+                    "body": "During my tenure, I have contributed significantly to enhancing the user experience of our two products, Identity Server and Asgardeo. Additionally, in the early stages of my employment, I successfully designed and developed a complete website to showcase a newly developed B2B feature. This project involved utilizing a technology that I had not previously worked with. The application I created for this purpose is currently employed by the company to demonstrate the B2B feature. I take pride in successfully completing this task."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "Being new to the field of Identity and Access Management, it was challenging to learn a lot of new concepts quickly."
+                    "body": "Entering the field of Identity and Access Management posed a substantial learning curve, exposing me to a plethora of new concepts and technologies. However, I eagerly embraced this challenge and adeptly adapted, demonstrating my capacity to swiftly acquire knowledge and apply it proficiently within a professional setting."
                 }
             ]
         },
@@ -30,19 +35,19 @@
             "title": [
                 "Department of Computer Science & Engineering, University of Moratuwa",
                 "Visting Instructor",
-                "Feb 2022 - Apr 2022"
+                "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022"
             ],
             "place": "Department of Computer Science & Engineering, University of Moratuwa",
             "position": "Visting Instructor",
-            "duration": "Feb 2022 - Apr 2022",
+            "duration": "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022",
             "content": [
                 {
                     "title": "Organization’s Activities",
-                    "body": "I had the privilege of serving as a Teaching Assistant for the CS 3042 Database Systems module at the Department of Computer Science & Engineering, University of Moratuwa. This module focused on the fundamentals of database design."
+                    "body": "I had the privilege of serving as a Visiting Instructor for two tenures for the CS 3042 Database Systems and CS 3203 Software Engineering Projects modules at the Department of Computer Science & Engineering, University of Moratuwa."
                 },
                 {
                     "title": "My Responsibilities",
-                    "body": "As a teaching assistant, my primary responsibilities involved guiding and supporting students during practical sessions and grading their assignments."
+                    "body": "During the first tenure for the Database module, my primary responsibilities involved guiding and supporting students during practical sessions, grading their assignments, and later creating instructional videos to help students get started with web development, technologies, trends, and security concerns."
                 },
                 {
                     "title": "My Accomplishments",
@@ -50,32 +55,32 @@
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "Throughout my time as a teaching assistant, I encountered the main challenge of determining the most effective ways to support and assist students. Initially, it was a daunting task, but as time passed, I developed a natural and enjoyable approach that encouraged students' growth and understanding. This experience as a teaching assistant improved my skills in communication, mentorship, and problem-solving, and I am grateful for the opportunity to contribute to the learning journey of aspiring computer science students."
+                    "body": "Throughout my time as a visiting instructor, I encountered the main challenge of determining the most effective ways to support and assist students. Initially, it was a daunting task, but as time passed, I developed a natural and enjoyable approach that encouraged students' growth and understanding. This experience has improved my skills in communication, mentorship, and problem-solving, and I am grateful for the opportunity to contribute to the learning journey of aspiring computer science students."
                 }
             ]
         },
         {   
             "title": [
                 "Fcode Labs",
-                "Software Engineer - Intern",
+                "Software Engineer - Intern (UI/UX, Front-end)",
                 "Oct 2020 - Apr 2021"
             ],
             "content": [
                 {
                     "title": "Organization’s Activities",
-                    "body": "During my time at Fcode Labs, an emerging software engineering organization based in Sri Lanka and Singapore, I held the role of a Mobile Developer and UI/UX Designer. My core responsibilities revolved around designing and developing mobile applications for the company."
+                    "body": "During my time at Fcode Labs, an emerging software engineering organization based in Sri Lanka and Singapore, I had the privilege of immersing myself in a dynamic work environment."
                 },
                 {
                     "title": "My Responsibilities",
-                    "body": "One of the highlights of my experience was leading the development of the company's product, 'Workmate' during my relatively brief tenure with the organization. Despite the challenges posed by the COVID-19 epidemic, which required a shift to a work-from-home setup, I successfully adapted with the support and collaboration of the team."
+                    "body": "In my role as a Mobile Developer and UI/UX Designer, my main responsibilities revolved around the creative and technical aspects of mobile application development for the company. A significant highlight of my tenure was taking the leadership in the development of Fcode Labs' flagship product, 'Workmate.'For development and design tasks, I primarily utilized Flutter, and Figma. "
                 },
                 {
                     "title": "My Accomplishments",
-                    "body": "As a Software Engineer - Intern, I was able to contribute my skills and knowledge to drive innovation and create user-centric solutions."
+                    "body": "Amidst the challenging COVID-19 pandemic, which forced the team a shift to remote work, I successfully completed the development of 'Workmate.' Additionally, my contributions as a Software Engineer - Intern fostered innovation and resulted in user-centric solutions. My time at Fcode Labs was a valuable learning experience for me."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "My time at Fcode Labs was not only a valuable learning experience but also a rewarding journey, and I am grateful for the opportunities it provided."
+                    "body": "The sudden transition to a work-from-home setup due to the pandemic presented a formidable challenge. However, with the help of the team, we were able to adapt quickly and effectively to continue our work."
                 }
             ]
         },
@@ -88,19 +93,19 @@
             "content": [
                 {
                     "title": "Organization’s Activities",
-                    "body": "Sieve is a Singapore-based company with a primary mission of empowering consumers to make informed decisions concerning their digital privacy. As a User Interface and User Experience Designer, I played a pivotal role in the design of a data privacy chatbot application and the revamp of the company website."
+                    "body": "I had the privilege of working part-time at Sieve, a Singapore-based company dedicated to empowering consumers to make informed choices regarding their digital privacy. During my tenure, I was able to fully immerse myself in their activities and contribute to their cause."
                 },
                 {
                     "title": "My Responsibilities",
-                    "body": "Throughout my time at Sieve, I encountered a significant challenge that involved adapting to collaborate with individuals from diverse ethnic and cultural backgrounds."
+                    "body": "In my role as a User Interface and User Experience Designer at Sieve, my primary responsibilities encompassed two main areas. First, I played a pivotal role in designing the design of a data privacy chatbot application. Second, I undertook the task of revamping and enhancing the company's website, aligning it with their overarching vision and goals."
                 },
                 {
                     "title": "My Accomplishments",
-                    "body": "Despite it being a challenging experience, the team provided valuable support, helping me to swiftly acclimate to this new work environment."
+                    "body": "While at Sieve, I achieved significant milestones that I take pride in leading the innovative design process of a data privacy chatbot application, contributing to its development and usability and successfully completing a comprehensive design overhaul of Sieve's website, transforming it into a powerful platform that effectively communicated the company's mission and objectives."
                 },
                 {
                     "title": "Challenges Faced",
-                    "body": "Working at Sieve was an enriching part-time opportunity that allowed me to contribute to an important cause while honing my design skills. I took great pride in being part of a team that advocates for digital privacy and empowers users to safeguard their information."
+                    "body": "One notable challenge during my time at Sieve was adapting to a collaborative environment with team members coming from diverse ethnic and cultural backgrounds. This presented a valuable learning experience that initially required adjustment. However, with the support of my colleagues, I swiftly asjusted to this enriching work environment."
                 }
             ]
         }
