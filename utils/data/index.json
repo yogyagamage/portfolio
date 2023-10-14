@@ -157,7 +157,7 @@
                 {
                     "image": "/images/contact-icons-svg/top-email.svg",
                     "alt": "achintha isuru - 1",
-                    "link": "mailto:achinthaisuru.17@cse.mrt.ac.lk"
+                    "link": "mailto:achinthaisuru97@gmail.com"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-in.svg",
@@ -168,6 +168,11 @@
                     "image": "/images/contact-icons-svg/top-stack.svg",
                     "alt": "achintha isuru - 1",
                     "link": "https://stackoverflow.com/users/10601286/achintha-isuru"
+                },
+                {
+                    "image": "/images/contact-icons-svg/top-youtube.svg",
+                    "alt": "achintha isuru - 1",
+                    "link": "https://www.youtube.com/channel/UCgoNBM-Ay-jVnzaZjUy9x_A"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-medium.svg",
