@@ -1,21 +1,21 @@
-import { pink } from "@mui/material/colors";
+import { blue, pink } from "@mui/material/colors";
 import { createTheme, responsiveFontSizes } from "@mui/material/styles";
 
 export const appTheme = responsiveFontSizes(createTheme({
     palette: {
         primary: {
-            main: "#FAFEFF",
+            main: "#F6EEE3",
             contrastText: "#242424"
         },
         secondary: pink,
         text: {
             primary: "#242424",
-            secondary: "#667080"
+            secondary: "#667080",
         },
-        divider: "#FAFEFF",
+        divider: "#000000",
         background: {
-            default: "#FAFEFF",
-            paper: "#FAFEFF"
+            default: "#F6EEE3",
+            paper: "#F6EEE3"
 
         }
     },
