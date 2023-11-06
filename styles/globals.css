@@ -12,13 +12,13 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: #F6EEE3;        /* color of the tracking area */
+  background: #FAFEFF;        /* color of the tracking area */
 }
 
 body::-webkit-scrollbar-thumb {
   background-color: #6670804f;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
-  border: 3px solid #F6EEE3;  /* creates padding around scroll thumb */
+  border: 3px solid #FAFEFF;  /* creates padding around scroll thumb */
 }
 
 a {
@@ -36,7 +36,7 @@ a {
   }
   body {
     color: #667080;
-    background: #F6EEE3;
+    background: #fafeff;
   }
 }
 
