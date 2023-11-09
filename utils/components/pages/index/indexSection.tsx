@@ -38,6 +38,6 @@ function IndexSection({ content }) {
 
 IndexSection.propTypes = {
     experiences: PropTypes.arrayOf(PropTypes.object)
-}
+};
 
 export default IndexSection;

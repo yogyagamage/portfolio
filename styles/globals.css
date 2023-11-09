@@ -41,19 +41,19 @@ a {
 }
 
 @font-face {
-  font-family: 'Minipax-Regular';
-  src: url("/fonts/Minipax-Regular.ttf");
+  font-family: "BioRhyme-Light";
+  src: url("/fonts/BioRhyme-Light.ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Minipax-SemiBold';
-  src: url("/fonts/Minipax-SemiBold.ttf");
+  font-family: "BioRhyme-Medium";
+  src: url("/fonts/BioRhyme-Medium.ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'SpaceGrotesk-Regular';
-  src: url("/fonts/SpaceGrotesk-Regular.ttf");
+  font-family: "Cabin-Regular";
+  src: url("/fonts/Cabin-Regular.ttf");
   font-display: swap;
 }

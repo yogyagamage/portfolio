@@ -21,35 +21,35 @@ export const appTheme = responsiveFontSizes(createTheme({
     },
     typography: {
         body1: {
-            fontFamily: "Minipax-Regular"
+            fontFamily: "BioRhyme-Light"
         },
         body2: {
-            fontFamily: "SpaceGrotesk-Regular"
+            fontFamily: "Cabin-Regular"
         },
         button: {
-            fontFamily: "SpaceGrotesk-Regular",
+            fontFamily: "Cabin-Regular",
             color: "#242424"
         },
         subtitle2: {
-            fontFamily: "Minipax-Regular"
+            fontFamily: "BioRhyme-Light"
         },
         h2: {
-            fontFamily: "Minipax-Regular"
+            fontFamily: "BioRhyme-Light"
         },
         h3: {
-            fontFamily: "Minipax-Regular"
+            fontFamily: "BioRhyme-Light"
         },
         h4: {
-            fontFamily: "Minipax-Regular"
+            fontFamily: "BioRhyme-Light"
         },
 
         h5: {
-            fontFamily: "Minipax-SemiBold"
+            fontFamily: "BioRhyme-Medium"
         },
 
         h6: {
-            fontFamily: "Minipax-SemiBold"
-        },
+            fontFamily: "BioRhyme-Medium"
+        }
     },
     components: {
         MuiAvatar: {
