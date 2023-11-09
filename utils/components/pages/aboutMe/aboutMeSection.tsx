@@ -9,13 +9,11 @@ function AboutMeSection({ content }) {
 
     return (
         <>  
-            <Stack spacing={ 3 }>
+        <Stack spacing={ 3 }>
                 {
                     content.firstPara.map((para) => <FirstPara key={ para.key } para={ para.body } /> )
                 }
             </Stack>
-
-            <ImageListComponent imageList={ content.fistImages } />
 
             <CommonDivider />
 

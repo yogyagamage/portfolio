@@ -5,7 +5,7 @@ import MainGrid from "../../utils/components/common/mainGrid";
 import NavBar from "../../utils/components/common/navBar";
 import Title from "../../utils/components/common/title";
 import OverallDetails from "../../utils/components/pages/projects-id/overallDetails";
-import projectConfig from "../../utils/data/projects.json";
+import projectConfig from "../../utils/data/research.json";
 
 export async function getServerSideProps(context) {
 

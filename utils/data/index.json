@@ -4,7 +4,7 @@
             "id": 0,
             "content": [
                 {
-                    "body": "Hello ",
+                    "body": "Hey ",
                     "morningSalute": "Good Morning",
                     "afternoonSalute": "Good Afternoon",
                     "eveningSalute": "Good Evening"
@@ -13,41 +13,16 @@
                     "body": "My name is"
                 },
                 {
-                    "body": "Achintha Isuru"
+                    "body": "yogya gamage"
                 },
                 {
                     "body": "I am a "
                 },
                 {
                     "body": [
-                        "Front-end Developer",
+                        "Software Researcher",
                         2000,
-                        "UI/UX Desginer",
-                        2000,
-                        "Mobile Application Developer",
-                        2000
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1,
-            "title": "Little bit about me...",
-            "content": [
-                {
-                    "content": [
-                        {
-                            "body": "Hello everyone! I am a highly motivated and hardworking individual with a strong passion for exploring the fascinating areas of Computer Science, particularly Front End Development and UI/UX Designing. I thrive on challenges and love to create intuitive and visually captivating user experiences."
-                        },
-                        {
-                            "body": "Beyond technology, I have a deep curiosity for psychology and its profound impact on human behaviour and decision-making. This diverse interest drives me to approach problem-solving from a unique and empathetic perspective, understanding users' and development teams' needs and aspirations."
-                        },
-                        {
-                            "body": "Throughout my journey, I strive to leave a lasting positive impact on my professional and personal pursuits. My life goal is to create something exceptional, that my father would one day be truly proud of."
-                        },
-                        {
-                            "body": "Let's connect and embark on an exciting journey of knowledge, growth, and creativity. Together, let's contribute to shaping a brighter and more empathetic world through technology."
-                        }
+                        "Software Developer"
                     ]
                 }
             ]
@@ -61,54 +36,39 @@
                     "color": "success",
                     "interests": [
                         {
-                            "title": "UI/UX Designing"
+                            "title": "Software engineering "
                         },
                         {
-                            "title": "Front-end Development "
+                            "title": "Software security "
+                        },
+                        {
+                            "title": "Programming languages "
                         }
                     ]
                 },
                 {
-                    "title": "Development Tools and Techologies",
+                    "title": "Programming Languages",
                     "color": "default",
                     "interests": [
                         {
-                            "title": "Next.JS",
-                            "imageUrl": "https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
+                            "title": "Java",
+                            "imageUrl": "https://seeklogo.com/images/N/java-logo-8FCFF51DD2-seeklogo.com.png"
                         },
                         {
-                            "title": "React JS",
+                            "title": "Python",
                             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVF1dospej2VMDF0sb-TuNCYudETDT6UKVQ&usqp=CAU"
                         },
                         {
-                            "title": "Flutter",
+                            "title": "Javascript",
                             "imageUrl": "https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg"
                         },
                         {
-                            "title": "Android",
+                            "title": "SQL",
                             "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png"
                         },
                         {
-                            "title": "Java",
+                            "title": "NoSQL",
                             "imageUrl": "https://www.svgrepo.com/show/303388/java-4-logo.svg"
-                        }
-                    ]
-                },
-                {
-                    "title": "Design Tools",
-                    "color": "default",
-                    "interests": [
-                        {
-                            "title": "Figma",
-                            "imageUrl": "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"
-                        },
-                        {
-                            "title": "Adobe XD",
-                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"
-                        },
-                        {
-                            "title": "Adobe Photoshop",
-                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
                         }
                     ]
                 }
@@ -117,7 +77,7 @@
                 {
                     "content": [
                         {
-                            "body": "A highly motivated and hardworking individual with a keen interest in learning more about Computer Science especially in the area of Front End Development and UI/UX designing. Also has a passion for learning psychology as well. My life goal is to do something that my dad one day would be proud of."
+                            "body": "I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project."
                         }
                     ]
                 }
@@ -125,21 +85,12 @@
         },
         {
             "id": 3,
-            "title": "Recent Projects...",
+            "title": "Research...",
             "titleLink" : {
                 "text": "View All",
-                "link": "/projects"
+                "link": "/research"
             },
-            "comments": "This will make use of the projects.json data"
-        },
-        {
-            "id": 4,
-            "title": "My Writings...",
-            "titleLink" : {
-                "text": "Read More",
-                "link": "https://medium.com/@achinthaisuru444",
-                "target": "_blank"
-            }
+            "comments": "This will make use of the research.json data"
         },
         {
             "id": 5,
@@ -156,33 +107,23 @@
             "icons": [
                 {
                     "image": "/images/contact-icons-svg/top-email.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "mailto:achinthaisuru97@gmail.com"
+                    "alt": "yogya gamage - 1",
+                    "link": "mailto:tulipgamage@gmail.com"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-in.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "http://linkedin.com/in/achintha-isuru"
-                },
-                {
-                    "image": "/images/contact-icons-svg/top-stack.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "https://stackoverflow.com/users/10601286/achintha-isuru"
-                },
-                {
-                    "image": "/images/contact-icons-svg/top-youtube.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "https://www.youtube.com/channel/UCgoNBM-Ay-jVnzaZjUy9x_A"
+                    "alt": "yogya gamage - 1",
+                    "link": "http://linkedin.com/in/yogya-gamage"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-medium.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "https://medium.com/@achinthaisuru444"
+                    "alt": "yogya gamage - 1",
+                    "link": "https://medium.com/@yogya.gamage"
                 },
                 {
                     "image": "/images/contact-icons-svg/top-github.svg",
-                    "alt": "achintha isuru - 1",
-                    "link": "https://github.com/Achintha444"
+                    "alt": "yogya gamage - 1",
+                    "link": "https://github.com/yogyagamage"
                 }
             ]
         }
