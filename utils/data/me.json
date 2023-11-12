@@ -4,7 +4,7 @@
         "firstPara": [
             {
                 "key": "me-1",
-                "body": "Hello everyone! I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project."
+                "body": "Hello everyone! I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project. I am interested in research in the broad areas of software engineering, software security, and machine learning for software engineering."
             }
         ],
         "contentDetails": [
@@ -21,10 +21,7 @@
                             {
                                 "body": [
                                     {
-                                        "body": "CGPA – 3.87 out of 4.2. (4.04 out of 4.2 in the final 2 years)"
-                                    },
-                                    {
-                                        "body": "Selected for the Dean’s list in semesters 1, 4, 5, 6, 7, and 8 for achieving an SGPA of 3.8 or higher in each semester."
+                                        "body": "I maintained a CGPA of 3.87 out of 4.2 during my Bachelor's degree, and in the final 2 years, I achieved a GPA of 4.04 out of 4.2. I was also selected for the Dean’s list in semesters 1, 4, 5, 6, 7, and 8 for achieving an SGPA of 3.8 or higher in each semester."
                                     }
                                 ]
                             }
@@ -40,8 +37,7 @@
                             {
                                 "body": [
                                     {
-                                        "title": "GCE Advanced Level Examination (2016)",
-                                        "body": "4A passes, Z-score – 2.416"
+                                        "body": "I received my primary and secondary education from Southlands college, Galle. In the GCE Advanced Level Examination (2016) I achieved 4A passes (For Combined Mathematics, Physics, Chemistry, and General English) with an Z-score of 2.416 in the Physical science stream while being ranked among the first 1% of the country."
                                     }
                                 ]
                             }
@@ -56,6 +52,9 @@
                         "title": [
                             "A non-exhaustive list of my Table Tennis achievements"
                         ],
+                        "body": [
+                            "I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the sport, but my parents' enthusiasm to see me play kept me going. I learned a lot from all these years of playing, but the best part was making awesome friends with my incredible teammates. As Mary Lou Retton said, 'A trophy carries dust. Memories last forever.'"
+                        ],
                         "content": [
                             {
                                 "title": "Representing the Table Tennis team of WSO2 LLC",
@@ -63,15 +62,15 @@
                                     {
                                         "title": "2023",
                                         "body": [
-                                            "",
-                                            ""
+                                            "Inter IT Club Knockout Tournament Women's Doubles - Champion",
+                                            "Inter IT Club Knockout Tournament Mixed Doubles - Champion"
                                         ]
                                     },
                                     {
                                         "title": "2022",
                                         "body": [
-                                            "",
-                                            ""
+                                            "63rd Mercantile Inter Club League Championship Women's C Division - Runner-up",
+                                            "66th MTTA Individual Open Championship Novices Women's - Champion"
                                         ]
                                     }
                                 ],
@@ -81,11 +80,11 @@
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/images/me/tt-wso2-2.jpeg",
+                                        "image": "/images/me/tt-wso2-3.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/images/me/tt-wso2-3.jpg",
+                                        "image": "/images/me/tt-wso2-4.jpg",
                                         "alt": "yogya gamage - 1"
                                     }
                                 ]
@@ -94,20 +93,28 @@
                                 "title": "Representing the Table Tennis team of the University of Moratuwa",
                                 "body": [
                                     {
-                                        "title": "",
+                                        "title": "2019",
                                         "body": [
-                                            "",
-                                            ""
+                                            "Sri Lanka University Games - Champion",
+                                            "University of Moratuwa Colors Award",
+                                            "Wayo Spins Inter University tournament - Champion",
+                                            "SIEG Inter University tournament - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2018",
+                                        "body": [
+                                            "Inter University Games - Champion",
+                                            "University of Moratuwa Colors Award",
+                                            "Mora Smashes Inter University tournament - Champion",
+                                            "Wayo Spins Inter University tournament - Champion",
+                                            "KDU Leaders' Trophy Inter University tournament - Champion"
                                         ]
                                     }
                                 ],
                                 "images": [
                                     {
                                         "image": "/images/me/tt-mora-1.jpg",
-                                        "alt": "yogya gamage - 1"
-                                    },
-                                    {
-                                        "image": "/images/me/tt-mora-2.png",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
@@ -124,24 +131,78 @@
                                 "title": "Representing the Table Tennis team of Southland College",
                                 "body": [
                                     {
-                                        "title": "",
+                                        "title": "2013",
                                         "body": [
-                                            "",
-                                            ""
+                                            "All Island School Games - Silver Medal",
+                                            "Southern Province Sports Colors"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2012",
+                                        "body": [
+                                            "All Island School Games - Silver Medal",
+                                            "All Island Inter-School Under 19 Girls C-Division - Champion",
+                                            "All Island Inter-School Under 18 Girls B-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2011",
+                                        "body": [
+                                            "All Island School Games - Bronze Medal",
+                                            "All Island Inter-School Under 16 Girls B-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2010",
+                                        "body": [
+                                            "All Island Inter-School Under 14 Girls B-Division - Champion",
+                                            "All Island Inter-School Under 18 Girls C-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2009",
+                                        "body": [
+                                            "All Island Inter-School Under 12 Girls A-Division - Runner-Up",
+                                            "All Island Inter-School Under 16 Girls C-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2008",
+                                        "body": [
+                                            "All Island Inter-School Under 12 Girls C-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2007",
+                                        "body": [
+                                            "Sri Lanka Table Tennis Colors - Merit Award",
+                                            "All Island Inter-School Under 10 Girls A-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2005",
+                                        "body": [
+                                            "All Island Inter-School Under 10 Girls A-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "title": "2004",
+                                        "body": [
+                                            "All Island Inter-School Under 10 Girls B-Division - Runner-Up"
                                         ]
                                     }
                                 ],
                                 "images": [
                                     {
-                                        "image": "/images/me/soccer-1.jpg",
+                                        "image": "/images/me/tt-scg-1.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/images/me/soccer-2.jpg",
+                                        "image": "/images/me/tt-scg-2.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/images/me/soccer-3.jpg",
+                                        "image": "/images/me/tt-scg-3.jpg",
                                         "alt": "yogya gamage - 1"
                                     }
                                 ]
@@ -152,9 +213,10 @@
             },
             {
                 "title": "Random",
+                "body": "I love to read books—e-books, paperbacks, and audiobooks alike. Specifically, I like to read fantasy, historical romance, and philosophy.",
                 "content": [
                     {
-                        "title": [ "10 favorite quotes" ],
+                        "title": [ "10 favorite quotes (Last updated: 12 Nov 2023)" ],
                         "content": [
                             {
                                 "body": [
@@ -213,58 +275,59 @@
                         ]
                     },
                     {
-                        "title": [ "10 favorite quotes" ],
+                        "title": [ "10 favorite songs (Last updated: 12 Nov 2023)" ],
+                        "body": "I have a very specific taste in music. Though it is difficult to describe what my exact preference is, my playlists mostly include grunge, britpop, indie, classic-rock, and nu-metal songs. I am particularly a big fan of '90s alternative music.",
                         "content": [
                             {
                                 "body": [
                                     {
                                         "body": [
-                                            "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                            "Hunger Strike - Temple of the Dog"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
+                                            "High and Dry - Radiohead"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
+                                            "Patience - Chris Cornell (Cover)"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "The only normal people are the ones you don't know very well. - Alfred Adler"
+                                            "Sithija Reka - Kasun Kalhara, Indrachapa Liyanage"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "Follow your heart but take your brain with you. - Alfred Adler"
+                                            "Ordinary World - Duran Duran"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "So, if you are too tired to speak, sit next to me for I, too, am fluent in silence. - R. Arnold"
+                                            "Would - Alice in Chains"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness. - Philosopher (The courage to be disliked - Fumitake Koga and Ichiro Kishimi)"
+                                            "Green Eyes - Coldplay"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "Between the lines of every story there is another story, and that is one that is never heard and can only be guessed at by the people who are good at guessing. - Frances Hodgson Burnett"
+                                            "Dumb - Nirvana"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
+                                            "Driftwood - Travis"
                                         ]
                                     },
                                     {
                                         "body": [
-                                            "If you gaze for long into an abyss, the abyss gazes also into you. - Friedrich Nietzsche"
+                                            "Sandawathiye - Ridma Weerawardena, Charitha Attalage"
                                         ]
                                     }
                                 ]
