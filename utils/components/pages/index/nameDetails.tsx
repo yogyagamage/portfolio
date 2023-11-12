@@ -5,6 +5,7 @@ import styles from "../../../../styles/Home.module.css";
 import { Time, getTime } from "../../../functions/common";
 import CommonDivider from "../../common/commonDivider";
 import { TypeAnimation } from "react-type-animation";
+import ImageListComponent from "../../common/imageListComponent";
 
 export default function NameDetails({ data }) {
 

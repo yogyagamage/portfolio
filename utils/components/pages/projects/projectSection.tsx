@@ -4,65 +4,30 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import Link from 'next/link';
 import { useState } from 'react';
+import CommonDivider from '../../common/commonDivider';
+import ProjectOverview from './proejctOverview';
+import DescriptionList from '../../common/descriptionList';
 
-export default function ProjectSection({ projects }) {
+export default function ProjectSection({ researches }) {
     
     return (
-        <ImageList
-            variant="quilted"
-            cols={4}
-            rowHeight={200}
-        >
-            {projects.map((project) => (
-                <ProjectCard project={project} />
-            ))}
-        </ImageList>
+        <>
+            {
+                researches.map((research) => <SingleResearch research={research} />)
+            }
+        </>
     );
 }
 
-function ProjectCard({ project }) {
-
-    const [showTitle, setShowTitle] = useState(false)
-
-    const srcset = (image: string, size: number, rows = 1, cols = 1) => {
-        return {
-            src: `${image}?w=${size * cols}&h=${size * rows}&fit=crop&auto=format`,
-            srcSet: `${image}?w=${size * cols}&h=${size * rows
-                }&fit=crop&auto=format&dpr=2 2x`,
-        };
-    }
+function SingleResearch({ research }) {
 
     return (
-        <Link href={`/projects/${project.name}`}>
-            <ImageListItem
-                key={project.image}
-                cols={project.cols}
-                rows={project.rows}
-                style={{ cursor: "pointer" }}>
-                <img
-                    {...srcset(project.image, 1100, project.rows, project.cols)}
-                    alt={project.name}
-                    loading="lazy"
-                    onMouseOver={() => setShowTitle(true)}
-                    onMouseOut={() => setShowTitle(false)}
-                    style={{mixBlendMode : "multiply"}}
-                />
-                {
-                    showTitle
-                        ? <ImageListItemBar
-                            title={project.name}
-                            subtitle={project.role}
-                            actionIcon={
-                                <IconButton sx={{ color: 'rgba(255, 255, 255, 1)' }}>
-                                    <ArrowCircleRightIcon />
-                                </IconButton>
-                            }
-                        />
-                        : null
-                }
+        <>
+            <ProjectOverview project={research} />
+            <br />
+            <DescriptionList list={research.content} />
 
-            </ImageListItem>
-        </Link>
-
+            <CommonDivider />
+        </>
     );
 }

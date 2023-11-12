@@ -35,7 +35,7 @@ function FirstPara({ para }) {
 
     return (
         <Typography
-            variant="body2"
+            variant="body1"
             color="text.secondary"
             sx={ {
                 fontWeight: "normal"
