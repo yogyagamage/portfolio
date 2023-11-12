@@ -3,76 +3,108 @@
     "experiences": [
         {   
             "title": [
-                "WSO2",
+                "WSO2 LLC",
                 "Software Engineer (Research and Development)",
                 "May 2022 - May 2023"
             ],
             "content": [
                 {
-                    "title": "Organization’s Activities",
-                    "body": "WSO2 is an open-source technology provider founded in 2005. It delivers software and cloud solutions that provide foundational technologies for application development and identity and access management. Their main products are Identity Server, Choreo and Ballerina."
+                    "body": "WSO2 is the world's #1 open-source integration vendor, helping digitally driven organizations become integration agile. The company’s hybrid platform for developing, reusing, running, and managing integrations prevents lock-in through open-source software that runs on-premises or in the cloud."
                 },
                 {
-                    "title": "My Responsibilities",
-                    "body": "At WSO2, I am working with the identity access management team. My primary responsibilities include front-end development and UI/UX design for the company's products, namely Identity Server and Asgardeo. Additionally, I provide assistance to the team on Flutter-related matters and actively engage in discussions. For development and design tasks, I primarily utilize React JS, Figma, Next JS and Flutter."
+                    "title": "Adding compilation support for java 11 and java 17 WSO2 IS repositories",
+                    "body": "Worked on testing the WSO2 Identity Server for the next major release (6.0) and updating WSO2 Identity and Access Management repositories to support compilation in JDK 11 and JDK 17."
+                },
+                {
+                    "title": "Asgardeo v1 Maintenance",
+                    "body": "Worked in the Asgardeo V1 maintenance team, fixing the front-end issues in the Asgardeo product."
+                },
+                {
+                    "title": "Product Maintenance team",
+                    "body": "Worked in the product maintenance team, adding security updates to product IS previous releases."
+                },
+                {
+                    "title": "Updating email sending features in the Asgardeo resource monitor",
+                    "body": "Asgardeo resource monitor is where the resources (Monthly Active Users, Applications, Remote User Stores, etc,) used by the tenants in the product Asgardeo are monitored."
+                },
+                {
+                    "title": "Updating email sending features in the Asgardeo resource monitor",
+                    "content": [
+                        {
+                            "body": "Asgardeo resource monitor is where the resources (Monthly Active Users, Applications, Remote User Stores, etc,) used by the tenants in the product Asgardeo are monitored."
+                        },
+                        {
+                            "body": "Implemented the feature to send emails when tenants reach a specific threshold of their subscribed resource limit."
+                        },
+                        {
+                            "body": "Worked on implementing a solution to prevent sending repeated notification emails to tenant owners."
+                        }
+                    ] 
+                },
+                {
+                    "title": "Revamping the Asgardeo resource monitor architecture",
+                    "content": [
+                        {
+                            "body": "Worked on removing the schedulers from the resource monitor and invoking them as Kubernetes cron jobs to improve the performance of the resource monitor."
+                        },
+                        {
+                            "body": "Worked on providing resource throttling support for the EU region by adding a data layer."
+                        }
+                    ]
                 }
             ]
         },
         {   
             "title": [
-                "Fcode Labs",
-                "Software Engineer - Intern (UI/UX, Front-end)",
+                "IronOne Technologies LLC",
+                "Software Engineer - Intern",
                 "Oct 2020 - Apr 2021"
             ],
             "content": [
                 {
                     "title": "Organization’s Activities",
-                    "body": "During my time at Fcode Labs, an emerging software engineering organization based in Sri Lanka and Singapore, I had the privilege of immersing myself in a dynamic work environment."
+                    "body": "IronOne Technologies is an innovative technology company with global presence across many key regions operating on cutting edge technological solutions. Ironone Operates three key business units; ATrad a comprehensive capital markets & trading platform, IroOne AI Labs which is a provider of highly skilled AI talent to solve complex business problems and the bespoke module solutions and services unit."
                 },
                 {
-                    "title": "My Responsibilities",
-                    "body": "In my role as a Mobile Developer and UI/UX Designer, my main responsibilities revolved around the creative and technical aspects of mobile application development for the company. A significant highlight of my tenure was taking the leadership in the development of Fcode Labs' flagship product, 'Workmate.'For development and design tasks, I primarily utilized Flutter, and Figma. "
+                    "title": "TheXchange Project",
+                    "body": "Worked in the frontend of the admin site of the theXchange website. Developed various features such as dashboard, closed sales details, promo codes, events, seller payouts, charities, and admin users. Assisted in bug fixing in the content and FAQ pages. The technologies and platforms used were Angular, TypeScript, HTML, SCSS, Invision, BitBucket, Azure DevOps, AWS Auth."
                 },
                 {
-                    "title": "My Accomplishments",
-                    "body": "Amidst the challenging COVID-19 pandemic, which forced the team a shift to remote work, I successfully completed the development of 'Workmate.' Additionally, my contributions as a Software Engineer - Intern fostered innovation and resulted in user-centric solutions. My time at Fcode Labs was a valuable learning experience for me."
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "The sudden transition to a work-from-home setup due to the pandemic presented a formidable challenge. However, with the help of the team, we were able to adapt quickly and effectively to continue our work."
+                    "title": "PinkCampusRep project",
+                    "body": "Involved in updating the User Interfaces of the campus rep application process (Login and Upload a Moodboard, Schedule an Interview, Add Skype Information, Interview Review and Confirmation and Answer Questions Pages). The technologies and platforms used were Angular, Icons8 Lunacy and Sifterapp."
                 }
             ]
         },
         {   
             "title": [
                 "Department of Computer Science & Engineering, University of Moratuwa",
-                "Visting Instructor",
-                "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022"
+                "Visting Instructor - Database Systems",
+                "Feb 2022 - Apr 2022"
             ],
             "place": "Department of Computer Science & Engineering, University of Moratuwa",
             "position": "Visting Instructor",
-            "duration": "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022",
+            "duration": "Feb 2022 - Apr 2022",
             "content": [
                 {
-                    "title": "My Responsibilities",
-                    "body": "During the first tenure for the Database module, my primary responsibilities involved guiding and supporting students during practical sessions, grading their assignments, and later creating instructional videos to help students get started with web development, technologies, trends, and security concerns."
+                    "body": "Assisted students with lab sessions and graded student assignments."
                 }
             ]
         },
         {   
             "title": [
-                "Department of Computer Science & Engineering, University of Moratuwa",
-                "Visting Instructor",
-                "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022"
+                "Visting Instructor - Software Engineering Project",
+                "Jul 2023 - Nov 2023"
             ],
             "place": "Department of Computer Science & Engineering, University of Moratuwa",
             "position": "Visting Instructor",
-            "duration": "Jul 2023 - Nov 2023 & Feb 2022 - Apr 2022",
+            "duration": "Jul 2023 - Nov 2023",
             "content": [
                 {
-                    "title": "My Responsibilities",
-                    "body": "During the first tenure for the Database module, my primary responsibilities involved guiding and supporting students during practical sessions, grading their assignments, and later creating instructional videos to help students get started with web development, technologies, trends, and security concerns.",
+                    "body": "Presented online sessions on web development, security best practices, and version control systems.",
                     "presentations": [
+                        {
+                            "link": "https://www.youtube.com/embed/videoseries?si=zj_nuEvPPHxcnmVt&amp;list=PLrkEOVQA1S7JQbxOxq7yf3IjH9C5U5dSv"
+                        },
                         {
                             "link": "https://www.youtube.com/embed/videoseries?si=zj_nuEvPPHxcnmVt&amp;list=PLrkEOVQA1S7JQbxOxq7yf3IjH9C5U5dSv"
                         },

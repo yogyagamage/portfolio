@@ -20,9 +20,9 @@
                 },
                 {
                     "body": [
-                        "Software Researcher",
+                        "Researcher",
                         2000,
-                        "Software Developer"
+                        "Full-Stack Developer"
                     ]
                 }
             ]
@@ -43,6 +43,9 @@
                         },
                         {
                             "title": "Programming languages "
+                        },
+                        {
+                            "title": "Machine learning "
                         }
                     ]
                 },
