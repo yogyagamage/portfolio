@@ -112,32 +112,32 @@
             ],
             "icons": [
                 {
-                    "image": "/images/contact-icons-svg/top-email.svg",
+                    "image": "/static/images/contact-icons-svg/top-email.svg",
                     "alt": "yogya gamage - 1",
                     "link": "mailto:tulipgamage@gmail.com"
                 },
                 {
-                    "image": "/images/contact-icons-svg/top-in.svg",
+                    "image": "/static/images/contact-icons-svg/top-in.svg",
                     "alt": "yogya gamage - 1",
                     "link": "http://linkedin.com/in/yogya-gamage"
                 },
                 {
-                    "image": "/images/contact-icons-svg/top-medium.svg",
+                    "image": "/static/images/contact-icons-svg/top-medium.svg",
                     "alt": "yogya gamage - 1",
                     "link": "https://medium.com/@yogya.gamage"
                 },
                 {
-                    "image": "/images/contact-icons-svg/top-github.svg",
+                    "image": "/static/images/contact-icons-svg/top-github.svg",
                     "alt": "yogya gamage - 1",
                     "link": "https://github.com/yogyagamage"
                 },
                 {
-                    "image": "/images/contact-icons-svg/top-research-gate.svg",
+                    "image": "/static/images/contact-icons-svg/top-research-gate.svg",
                     "alt": "yogya gamage - 1",
                     "link": "https://www.researchgate.net/profile/Yogya_Gamage"
                 },
                 {
-                    "image": "/images/contact-icons-svg/top-google-scholar.svg",
+                    "image": "/static/images/contact-icons-svg/top-google-scholar.svg",
                     "alt": "yogya gamage - 1",
                     "link": "https://scholar.google.com/citations?user=m_67-NAAAAAJ&hl=en"
                 }
