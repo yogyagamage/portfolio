@@ -32,7 +32,7 @@ function DescriptionListItem({ title, body, links, images, presentations }) {
             {
                 title
                     ? (typeof title === "string") 
-                        ? <Typography variant="h6" color="text.primary"> { title } </Typography>
+                        ? <Typography variant="body2" color="text.primary"> { title } </Typography>
                         : <ExperienceOverview title={ title } />
                     : null
             }

@@ -12,7 +12,7 @@ function ImageListComponent({ imageList }) {
                         srcSet={imageObject.image}
                         alt={imageObject.alt}
                         loading="lazy"
-                        style={{mixBlendMode : "multiply"}}
+                        style={{mixBlendMode : "difference"}}
                     />
                 </ImageListItem>
             ))}

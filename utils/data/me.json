@@ -147,81 +147,127 @@
                                 ]
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "title": "Random",
+                "content": [
                     {
-                        "title": [
-                            "Random"
-                        ],
+                        "title": [ "10 favorite quotes" ],
                         "content": [
                             {
-                                "title": "10 favorite quotes",
                                 "body": [
                                     {
-                                        "body": "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                        "body": [
+                                            "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                        ]
                                     },
                                     {
-                                        "body": "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
+                                        "body": [
+                                            "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
+                                        ]
                                     },
                                     {
-                                        "body": "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
+                                        "body": [
+                                            "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
+                                        ]
                                     },
                                     {
-                                        "body": "The only normal people are the ones you don't know very well. - Alfred Adler"
+                                        "body": [
+                                            "The only normal people are the ones you don't know very well. - Alfred Adler"
+                                        ]
                                     },
                                     {
-                                        "body": "Follow your heart but take your brain with you. - Alfred Adler"
+                                        "body": [
+                                            "Follow your heart but take your brain with you. - Alfred Adler"
+                                        ]
                                     },
                                     {
-                                        "body": "So, if you are too tired to speak, sit next to me for I, too, am fluent in silence. - R. Arnold"
+                                        "body": [
+                                            "So, if you are too tired to speak, sit next to me for I, too, am fluent in silence. - R. Arnold"
+                                        ]
                                     },
                                     {
-                                        "body": "The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness. - Philosopher (The courage to be disliked - Fumitake Koga and Ichiro Kishimi)"
+                                        "body": [
+                                            "The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness. - Philosopher (The courage to be disliked - Fumitake Koga and Ichiro Kishimi)"
+                                        ]
                                     },
                                     {
-                                        "body": "Between the lines of every story there is another story, and that is one that is never heard and can only be guessed at by the people who are good at guessing. - Frances Hodgson Burnett"
+                                        "body": [
+                                            "Between the lines of every story there is another story, and that is one that is never heard and can only be guessed at by the people who are good at guessing. - Frances Hodgson Burnett"
+                                        ]
                                     },
                                     {
-                                        "body": "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
+                                        "body": [
+                                            "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
+                                        ]
                                     },
                                     {
-                                        "body": "If you gaze for long into an abyss, the abyss gazes also into you. - Friedrich Nietzsche"
+                                        "body": [
+                                            "If you gaze for long into an abyss, the abyss gazes also into you. - Friedrich Nietzsche"
+                                        ]
                                     }
-                                ] 
-                            },
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [ "10 favorite quotes" ],
+                        "content": [
                             {
-                                "title": "10 favorite songs",
                                 "body": [
                                     {
-                                        "body": "Hunger Strike - Temple of the Dog"
+                                        "body": [
+                                            "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                        ]
                                     },
                                     {
-                                        "body": "High and Dry - Radiohead"
+                                        "body": [
+                                            "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
+                                        ]
                                     },
                                     {
-                                        "body": "Patience - Chris Cornell (Cover)"
+                                        "body": [
+                                            "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
+                                        ]
                                     },
                                     {
-                                        "body": "Sithija Reka - Kasun Kalhara, Indrachapa Liyanage"
+                                        "body": [
+                                            "The only normal people are the ones you don't know very well. - Alfred Adler"
+                                        ]
                                     },
                                     {
-                                        "body": "Ordinary World - Duran Duran"
+                                        "body": [
+                                            "Follow your heart but take your brain with you. - Alfred Adler"
+                                        ]
                                     },
                                     {
-                                        "body": "Would - Alice in Chains"
+                                        "body": [
+                                            "So, if you are too tired to speak, sit next to me for I, too, am fluent in silence. - R. Arnold"
+                                        ]
                                     },
                                     {
-                                        "body": "Green Eyes - Coldplay"
+                                        "body": [
+                                            "The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness. - Philosopher (The courage to be disliked - Fumitake Koga and Ichiro Kishimi)"
+                                        ]
                                     },
                                     {
-                                        "body": "Dumb - Nirvana"
+                                        "body": [
+                                            "Between the lines of every story there is another story, and that is one that is never heard and can only be guessed at by the people who are good at guessing. - Frances Hodgson Burnett"
+                                        ]
                                     },
                                     {
-                                        "body": "Driftwood - Travis"
+                                        "body": [
+                                            "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
+                                        ]
                                     },
                                     {
-                                        "body": "Sandawathiye - Ridma Weerawardena, Charitha Attalage"
+                                        "body": [
+                                            "If you gaze for long into an abyss, the abyss gazes also into you. - Friedrich Nietzsche"
+                                        ]
                                     }
-                                ] 
+                                ]
                             }
                         ]
                     }
@@ -230,3 +276,4 @@
         ]
     }
 }
+
