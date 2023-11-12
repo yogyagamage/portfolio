@@ -2,221 +2,43 @@
     "pageTitle": "Research Projects",
     "projects": [
         {
-            "name": "Extending SBOMs with Runtime Resource Access Information",
+            "name": "Creating a Benchmark of Breaking Dependency Updates",
             "overview": [
                 {
                     "title": "Duration",
-                    "body": "2023 Oct"
+                    "body": "2023 May - 2023 Oct"
                 }
             ],
-            "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
-            "cols": 2,
-            "rows": 2,
             "content": [
                 {
-                    "title": "Overview",
-                    "body": "We've all used ATMs at some point in our lives. Most of the time, we find that the garbage cans at ATM locations are overflowing with meaningless receipts that consumers have requested. That is what inspired me to work on this design project. As a result, I created a completely new user interface that would limit the amount of unnecessary receipts issued. An experiment was carried out to validate the design. This investigation concluded that by employing this design, we can cut receipt printing by roughly 50%. This is a huge benefit because we are simply changing the interface to reduce this amount, which means there is no additional expense to execute this design, making this solution incredibly scalable, sustainable, and low risk."
-                },
-                {
-                    "title": "Process",
-                    "body": "The initial step in this project was to consider how I would change the current interface such that it would encourage the user to skip the receipt rather than priniting it. To achieve this I replaced the 'Yes/No' interface with an interface which makes use of Fitts' and von Restroff's laws. After that, I ran a little test to validate the design. This experiment involved 153 participants. According to the findings of this experiment, we can cut receipt printing by roughly half.",
-                    "images": [
-                        {
-                            "image": "/images/projects/ATM/atm-org.png",
-                            "alt": "yogya gamage - 1"
-                        },
-                        {
-                            "image": "/images/projects/ATM/atm-prop.png",
-                            "alt": "yogya gamage - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "View Presentation",
-                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
-                    "presentations": [
-                        {
-                            "link": "https://youtu.be/embed/Kdg_HHW5kvE"
-                        }
-                    ]
+                    "body": "In this research, we created a new benchmark called BUMP that contains reproducible breaking dependency updates in Java projects built with the Maven build system. BUMP ensures long-term reproducibility of dependency updates on different platforms, guaranteeing consistent build failures to support future research. We also researched on the different causes of build breakage, discovering novel insights on breaking updates."
                 }
             ]
         },
         {
-            "name": "FabVis",
-            "role": "UI/UX Designer",
+            "name": "Monitoring Road Quality Using Crowdsourced Smartphone Sensor Data",
             "overview": [
                 {
                     "title": "Duration",
-                    "body": "2021 Jun – 2021 Sep"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Textile"
-                },
-                {
-                    "title": "My Role",
-                    "body": "UI/UX Designer"
+                    "body": "2021 April - 2022 April"
                 }
             ],
-            "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1288&q=80",
-            "rows": 2,
-            "cols": 2,
             "content": [
                 {
-                    "title": "Overview",
-                    "body": "The FABVIS (Vision-Based Fabric Defect Detection) project, is a pioneering creation by the Intellisense Lab within the Department of Computer Science and Engineering at the University of Moratuwa, Sri Lanka. My role focused on designing a web dashboard to streamline efficient configuration and provide access to the fabric detection system's settings to the textile engineers."
+                    "body": "This study is an attempt to develop a road roughness monitoring platform using passenger cars that can produce accurate results while reducing the effect of these conditions such as the car type, smartphone model, or its placement. The developed system consists of several features including automatic journey detection, freedom to use any smartphone in any position with or without an active internet connection when collecting data, converging values collected from different sources, and visualizing them in a virtual map. This project was carried out in collaboration with the Road Development Authority, Sri Lanka, under the supervision of Dr. Adeesha Wijayasiri."
                 },
                 {
-                    "title": "Process",
-                    "body": "This project started with a thorough exploration of the role of technology in the textile industry. Through collaboration with industry peers, I gained valuable insights that guided me to make design decisions. First of all, I developed a comprehensive wireframe for the website, which, upon stakeholder approval, provided the foundation for the design. After that, I designed a digital prototype of the website and gave the prototype to the development team.",
-                    "images": [
-                        {
-                            "image": "/images/projects/fabvis/fabvis-2.png",
-                            "alt": "yogya gamage - 1"
-                        },
-                        {
-                            "image": "/images/projects/fabvis/fabvis-3.png",
-                            "alt": "yogya gamage - 1"
-                        }
+                    "title": "Publications",
+                    "body": [
+                        "Y. T. Gamage, T. A. I. Thotawaththa, and A. Wijayasiri, 'Measuring road roughness through crowdsourcing while minimizing the conditional effects,' International journal of intelligent transportation systems research, vol. 20, no. 2, p. 581–601, 2022. doi: 10.1007/s13177-022-00312-6. [Link]",
+                        "Y. T. Gamage, T. A. I. Thotawaththa and A. Wijayasiri, 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' 2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer, 2022, pp. 118-123, doi: 10.1109/ICTer58063.2022.10024097. [Link]"
                     ]
                 },
                 {
-                    "title": "Challenges Faced",
-                    "body": "One of the main challenges I faced was the strict time frame of the project. To address this, I employed strategic milestone planning and consistent stakeholder engagement. Regular feedback loops ensured design iterations aligned seamlessly with evolving needs, leading to a punctual project completion."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "The main achievement that we received was the recognition given by a distinguished Sri Lankan television channel Sirasa TV. This recognition highlighted the project's significance and potential impact. A link to the program's video is provided below."
-                },
-                {
-                    "title": "More Information",
-                    "body": "For a comprehensive exploration of project details, I encourage you to watch the videos below. The second video, while in Sinhala, offers detailed insights into the project's development and features.",
+                    "title": "Presentation of the paper 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' at ICTer, 2022.",
                     "presentations": [
                         {
-                            "link": "https://www.youtube.com/embed/bPJwYzVxxr4"
-                        },
-                        {
-                            "link": "https://www.youtube.com/embed/GwylMWO-FOI"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "International Roughness Index (IRI) Calculation of Sri Lankan Roads Using Crowdsourcing Techniques",
-            "role": "Mobile Application Developer and UI/UX Designer",
-            "overview": [
-                {
-                    "title": "Duration",
-                    "body": "2021 Apr – 2022 Mar"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Urban Development"
-                },
-                {
-                    "title": "My Role",
-                    "body": "Mobile Application Developer and UI/UX Designer"
-                }
-            ],
-            "image": "https://images.unsplash.com/photo-1515445702422-3a80ccfdb236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
-            "cols": 2,
-            "rows": 2,
-            "content": [
-                {
-                    "title": "Overview",
-                    "body": "A well-maintained road network is an important component of long-term urban development. Researchers have proposed smartphone-based crowdsourced applications as a low-cost effective approach to obtaining frequent road surface quality updates over the last few years. The values show large fluctuations over the conditions under which the road data was collected, which is one of the key drawbacks of these applications. Through this project, we created a road roughness monitoring platform based on passenger cars that can generate reliable findings while minimizing the impact of variables such as car type, smartphone model, or location. Among the features of the created system include automatic travel detection, the ability to use any smartphone in any location with or without an active internet connection, combining information from various sources, and viewing them on a virtual map. This study also proposes a complete system to identify and classify road anomalies from crowd-sensed smartphone data adjusting to different vehicle speeds and other characteristics. A set of field tests were carried out to evaluate the proposed system and the results show that the proposed solution is effective in predicting accurate International Roughness Index (IRI) values and road anomalies after reducing the effect of these varying factors."
-                },
-                {
-                    "title": "Process",
-                    "body": "As the first step, we had to design a mobile application for gathering traffic data. To generate ideas for this, we examined previous map-based mobile applications. Next, we created a prototype of the mobile application, starting with some wireframes. Afterwards, we utilized Android to develop the application. We conducted testing on the mobile application and made adjustments based on the results. Due to resource constraints, we were only able to perform a few basic user tests of the application. Following that phase, we developed the web application and the machine learning model to display the results. While I primarily focused on developing the mobile application, my partner took the lead in developing the majority of the web dashboard and the machine learning model."
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "During the project, we encountered several challenges. The first hurdle was the insufficient amount of data available for training the machine learning model. To address this challenge, we employed appropriate pre-processing techniques and, when feasible, applied fuzzy logic inference. Another problem was that the initial version of the mobile application significantly drained the user's battery. To mitigate this, we reduced the rate of data collection through the mobile application. While there were numerous other challenges along the way, we effectively tackled them and managed to complete the project within the specified timeframe."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "Based on this project, we submitted two research papers. The first is to the International Journal of Intelligent Transportation System Research, with the title 'Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects' The other is titled 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' and will be presented at ICTer 2022. We also took part in the Stanford University, USA, Longevity Design Challenge.",
-                    "links": [
-                        {
-                            "title": "Measuring Road Roughness through Crowdsourcing while Minimizing the Conditional Effects - Research Paper",
-                            "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
-                        },
-                        {
-                            "title": "Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data - Research Paper",
-                            "link": "https://ieeexplore.ieee.org/document/10024097"
-                        }
-                    ]
-                },
-                {
-                    "title": "View Presentation",
-                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
-                    "presentations": [
-                        {
-                            "link": "https://www.canva.com/design/DAE6rPJ63x8/view?embed"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Organic Chemistry Conversions",
-            "role": "UI/UX Designer",
-            "overview": [
-                {
-                    "title": "Duration",
-                    "body": "2021 Feb"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Education"
-                },
-                {
-                    "title": "My Role",
-                    "body": "UI/UX Designer"
-                }
-            ],
-            "image": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80",
-            "cols": 2,
-            "content": [
-                {
-                    "title": "Overview",
-                    "body": "Organic Chemistry Conversions is a smartphone game designed to improve the organic chemistry skills of college students. This engaging game comprises 100 levels, each challenging players to drag and drop the appropriate chemicals into corresponding slots. Successful combinations unlock the next level, allowing players to enjoy the game while improving their knowledge."
-                },
-                {
-                    "title": "Process",
-                    "body": "Starting on this project, I began by analysing the user interface (UI) and user experience (UX) of popular level-based games such as Angry Birds, gathering insights into the design landscape. Subsequently, I created a paper wireframe as an initial conceptual representation of the game's interface. I then translated this wireframe into a digital prototype using Figma. Yellow was selected as the primary colour because of its representation of inventiveness, a crucial asset for students tackling organic chemistry problems. Following stakeholder presentations, the prototype transitioned to the development phase.",
-                    "images": [
-                        {
-                            "image": "/images/projects/organic/organic-1.png",
-                            "alt": "yogya gamage - 1"
-                        },
-                        {
-                            "image": "/images/projects/organic/organic-2.png",
-                            "alt": "yogya gamage - 1"
-                        },
-                        {
-                            "image": "/images/projects/organic/organic-3.png",
-                            "alt": "yogya gamage - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "A main challenge I encountered was stepping into the realm of game development for the first time. This new experience required a comprehensive preliminary study. I delved into the intricacies of game creation, examining development processes and the essential considerations a designer must weigh while shaping a game."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "While certain constraints limited our application's launch exclusively to Android users, the outcome was better than expected. The application got exceptional reviews, achieving a rating of 4.6/5.0 with over 1,000 downloads in the Google Play store in a relatively brief span. These accomplishments were attained with minimal marketing efforts, emphasising the application's appeal and impact."
-                },
-                {
-                    "title": "View application",
-                    "links": [
-                        {
-                            "title": "Click on this link to view the `Organic Chemistry Conversions` application",
-                            "link": "https://play.google.com/store/apps/details?id=com.RioraInnovations.OrganicChemistryTranslations"
+                            "link": "https://youtu.be/O7FjlFIGfUM"
                         }
                     ]
                 }
@@ -224,106 +46,27 @@
         },
         {
             "name": "Automated Categorization of Privacy Policies Based on User Perspective",
-            "role": "Mobile Application Developer and UI/UX Designer",
             "overview": [
                 {
                     "title": "Duration",
-                    "body": "2021 Jun - 2021 Nov"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Data Privacy"
-                },
-                {
-                    "title": "My Role",
-                    "body": "Mobile Application Developer and UI/UX Designer"
+                    "body": "2020 May - 2021 May"
                 }
             ],
-            "image": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3444&q=80",
-            "cols": 2,
-            "rows": 2,
             "content": [
                 {
-                    "title": "Overview",
-                    "body": "Data privacy deals with the sensitive information of individuals and has become a major topic in modern society. Although the practicability of mobile apps has become an essential part of the routines of many people, consumers are increasingly concerned about their data privacy. Most of the time, these privacy policies that are used to collect and share data are lengthy and complex to understand. Therefore, a common user finds it hard to understand before agreeing to the privacy policy terms. This project propose an approach to convey privacy policies in a way that a common user can comprehend."
+                    "body": "This study aims to propose an approach to convey privacy policies in a way that a common user can comprehend. We identified 10 categories to classify headers and sections of privacy policies, selected after considering both the users' and domain experts' views. We also experimented on creating automated privacy policy classification models using BERT, SVM, Naive Bayes, and BiLSTM. This project was done in collaboration with Sieve Singapore under the supervision of Prof. Dulani Meedeniya."
                 },
                 {
-                    "title": "Process",
-                    "body": "First, we conducted a few interviews with industry professionals to gain a better grasp of the problem at hand and to generate suggestions for categorising privacy policies so that users may better comprehend them better. Then, using the information gathered from the interviews and research papers, we developed the ten categories. Following that, we created a chat bot mobile application so that consumers could communicate with the bot about their privacy concerns. For example, if a user wants to know a company's data reservation policy, they may easily communicate with that bot and obtain such information."
-                },
-                {
-                    "title": "Challenges Faced",
-                    "body": "The main challenge we faced was holding the interview sessions because I was still in my third year of university at the time and the professionals who came to the interviews had vast knowledge and expertise in the industry. We overcame this obstacle by working together and correctly preparing the interview sessions. Personally this was a huge experience for me."
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "Based on this study, we were able to successfully submit a research paper titled ‘Automated Categorization of Privacy Policies Based on User Perspective’ to the IEEE ICIAfS 2021: Information and Automation for Sustainability 2021.",
-                    "links": [
-                        {
-                            "title": "Automated Categorization of Privacy Policies Based on User Perspective - Research Paper",
-                            "link": "https://ieeexplore.ieee.org/document/9606158"
-                        }
+                    "title": "Publications",
+                    "body": [
+                        "T. A. I. Thotawaththa, Y. T. Gamage, D. Gamlath, W. Chee and D. Meedeniya, 'Automated Categorization of Privacy Policies Based on User Perspective' 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), 2021, pp. 54-59, doi: 10.1109/ICIAfS52090.2021.9606158. [Link]"
                     ]
                 },
                 {
-                    "title": "View Presentation",
-                    "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
+                    "title": "Presentation of the paper 'Automated Categorization of Privacy Policies Based on User Perspective' at ICIAFS, 2021.",
                     "presentations": [
                         {
-                            "link": "https://docs.google.com/presentation/d/e/2PACX-1vTYZcDDZMk_eAtqXuZvpGX4GP7-xAh-TmaO0jLsPb6U_TIsozRqezWq0FhMil68MNQr2DJaKJIspTha/embed?start=true&loop=false&delayms=30000"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Other Projects",
-            "image": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3569&q=80",
-            "cols": 2,
-            "content": [
-                {
-                    "title": [
-                        "Bubble Detector Mobile Application",
-                        "CS 4472 Mobile Computing - Project",
-                        "Oct 2021 - Dec 2021"
-                    ],
-                    "body": "As part of the 'CS 4472 Mobile Computing' course, I contributed to the 'Bubble Detector Mobile Application' project, aimed at replacing less secure methods of store entry logging during the COVID-19 pandemic with a safer and more efficient solution. Through a mobile application, we introduced a modern approach to mitigate health risks, eliminating the need for manual entry or QR code scanning. Leveraging Figma for design, Flutter for development, and Firebase for data management, we successfully created a user-friendly and contactless system that not only enhances safety measures but also showcases the potential of technology to address real-world challenges effectively. This project not only advanced my technical proficiency but also deepened my understanding of technology's role in promoting public health in unprecedented circumstances.",
-                    "presentations": [
-                        {
-                            "link": "https://www.youtube.com/embed/ZeWIGfQCypc"
-                        }
-                    ]
-                },
-                {
-                    "title": [
-                        "OBD Fuel",
-                        "Part of the Undergraduate Final Year Project",
-                        "Jun 2021 - Dec 2021"
-                    ],
-                    "body": "'OBD Fuel' is an Android mobile application designed to offer users a comprehensive and user-friendly dashboard for seamlessly connecting and accessing results from their On-Board Diagnostics (OBD) device. With a focus on simplicity and effectiveness, this application empowers users to effortlessly monitor and analyze crucial data from their OBD device, enhancing their driving experience and overall vehicle management.",
-                    "links": [
-                        {
-                            "title": "Download the application",
-                            "link": "https://play.google.com/store/apps/details?id=com.mtdaps.obdfuel"
-                        }
-                    ],
-                    "presentations": [
-                        {
-                            "link": "https://www.youtube.com/embed/vHXmxZdZzCI"
-                        }
-                    ]
-                },
-                {
-                    "title": [
-                        "GPA Cal",
-                        "A Pet Project",
-                        "Oct 2020 - Dec 2020"
-                    ],
-                    "body": "'GPA Cal' marks a significant milestone as it is my first application published on the Google Play Store. This app offers users a convenient means to effortlessly monitor and compute their Grade Point Average (GPA). Developed using Flutter, 'GPA Cal' streamlines GPA tracking, making academic performance assessment a user-friendly and efficient experience.",
-                    "links": [
-                        {
-                            "title": "Download the application",
-                            "link": "https://play.google.com/store/apps/details?id=ait.gpa_cal"
+                            "link": "https://youtu.be/Kdg_HHW5kvE"
                         }
                     ]
                 }
