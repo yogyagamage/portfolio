@@ -5,7 +5,7 @@ export default function Title(prop) {
     const { title } = prop;
 
     return (
-        <div style={ { height: "35vh", borderBottom: "1px solid #1f1f1f"}}>
+        <div style={ { height: "30vh", borderBottom: "1px solid #1f1f1f"}}>
             <Stack
                 direction="column"
                 justifyContent="center"

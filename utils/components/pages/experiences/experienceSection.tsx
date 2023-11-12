@@ -24,7 +24,6 @@ function SingleExperience({ experience }) {
 
     return (
         <>
-            <br />
             <ExperienceOverview
                title={experience.title} />
             <br />
