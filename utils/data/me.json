@@ -82,15 +82,15 @@
                                 ],
                                 "images": [
                                     {
-                                        "image": "/static/images/me/tt-wso2-1.jpeg",
+                                        "image": "/static/images/me/tt_wso2_1.jpeg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-wso2-3.jpg",
+                                        "image": "/static/images/me/tt_wso2_2.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-wso2-4.jpg",
+                                        "image": "/static/images/me/tt_wso2_3.jpg",
                                         "alt": "yogya gamage - 1"
                                     }
                                 ]
@@ -146,15 +146,15 @@
                                 ],
                                 "images": [
                                     {
-                                        "image": "/static/images/me/tt-mora-1.jpg",
+                                        "image": "/static/images/me/tt_mora_1.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-mora-3.jpg",
+                                        "image": "/static/images/me/tt_mora_2.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-mora-4.jpg",
+                                        "image": "/static/images/me/tt_mora_3.jpg",
                                         "alt": "yogya gamage - 1"
                                     }
                                 ]
@@ -226,15 +226,15 @@
                                 ],
                                 "images": [
                                     {
-                                        "image": "/static/images/me/tt-scg-1.jpg",
+                                        "image": "/static/images/me/tt_scg_1.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-scg-2.jpg",
+                                        "image": "/static/images/me/tt_scg_2.jpg",
                                         "alt": "yogya gamage - 1"
                                     },
                                     {
-                                        "image": "/static/images/me/tt-scg-3.jpg",
+                                        "image": "/static/images/me/tt_scg_3.jpg",
                                         "alt": "yogya gamage - 1"
                                     }
                                 ]
