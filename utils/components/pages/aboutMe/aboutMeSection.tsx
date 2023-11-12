@@ -56,7 +56,7 @@ function SingleContent({ content }) {
             <br />
             {
                 content.content.map((contentDesc) => (
-                    <div>
+                    <div key={contentDesc.title}>
                         <ExperienceOverview title={ contentDesc.title } />
                         <br />
                         <DescriptionList list={ contentDesc.content } />
