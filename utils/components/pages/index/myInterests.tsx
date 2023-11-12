@@ -34,7 +34,7 @@ function Interest({ interest }) {
                 } }>
                 { interest.title }
             </Typography>
-            <Stack direction="column" spacing={ 0.5 }>
+            <Stack direction="row" spacing={ 1 }>
                 {
                     interest.interests.map(
                         (interestDetails) => (
@@ -47,6 +47,7 @@ function Interest({ interest }) {
                                 }
                                 label={ interestDetails.title }
                                 color={ interest.color }
+                                variant={ interest.variant }
                             />
                         )
                     )

@@ -4,18 +4,18 @@ import { createTheme, responsiveFontSizes } from "@mui/material/styles";
 export const appTheme = responsiveFontSizes(createTheme({
     palette: {
         primary: {
-            main: "#FAFEFF",
+            main: "#6082B6",
             contrastText: "#242424"
         },
         secondary: pink,
         text: {
-            primary: "#242424",
-            secondary: "#667080"
+            primary: "#dbe2ec",
+            secondary: "#a5adb9"
         },
-        divider: "#FAFEFF",
+        divider: "#1f1f1f",
         background: {
-            default: "#FAFEFF",
-            paper: "#FAFEFF"
+            default: "#121212",
+            paper: "#121212"
 
         }
     },
@@ -27,8 +27,7 @@ export const appTheme = responsiveFontSizes(createTheme({
             fontFamily: "Cabin-Regular"
         },
         button: {
-            fontFamily: "Cabin-Regular",
-            color: "#242424"
+            fontFamily: "Cabin-Regular"
         },
         subtitle2: {
             fontFamily: "BioRhyme-Light"
@@ -44,22 +43,24 @@ export const appTheme = responsiveFontSizes(createTheme({
         },
 
         h5: {
-            fontFamily: "BioRhyme-Medium"
+            fontFamily: "BioRhyme-Light"
         },
 
         h6: {
-            fontFamily: "BioRhyme-Medium"
+            fontFamily: "BioRhyme-Light"
         }
     },
     components: {
         MuiAvatar: {
             defaultProps: {
-                variant: "circular"
+                variant: "circular",
             },
             styleOverrides: {
-                "root": {
+                root: {
                     width: "4vw",
-                    height: "4vw"
+                    height: "4vw",
+                    background: "#1f1f1f",
+                    backgroundColor: "#1f1f1f",
                 }
             }
         },
@@ -72,6 +73,19 @@ export const appTheme = responsiveFontSizes(createTheme({
                 root : {
                     position : "relative",
                     left : "0px"
+                }
+            }
+        },
+        MuiAppBar: {
+            defaultProps: {
+                elevation: 0
+            },
+            styleOverrides: {
+                root: {
+                    background: "#1f1f1f",
+                    borderWidth: "1px",
+                    borderColor: "#dbe2ec",
+                    font: "#dbe2ec"
                 }
             }
         }

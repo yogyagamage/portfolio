@@ -47,21 +47,22 @@ export default function NavBar(props: Props) {
 
     return (
         <Box sx={{ display: "flex" }}>
-            <AppBar component="nav" elevation={0} sx={{
-                '--AppBar-borderWidth': '1px',
-                borderBottom: 'var(--AppBar-borderWidth) solid',
-                borderColor: 'divider'
-            }}>
+            <AppBar component="nav" >
                 <Toolbar>
-                    <Typography
-                        variant="h6"
-                        component="div"
-                        sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
-                    >
-                    </Typography>
+                    <Box sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}>
+                        <Button key="name" href={navItemsConfig.title.link} target="_self" sx={{ textTransform: "lowercase"}} >
+                            <Typography
+                                variant="h6"
+                                component="div"
+                                color="primary"
+                            >
+                                {navItemsConfig.title.title}
+                            </Typography>
+                        </Button>
+                    </Box>
                     <Box sx={{ display: { xs: "none", sm: "block" } }}>
                         {navItemsConfig.content.map((item) => (
-                            <Button key={item.title} sx={{ color: "#242424" }} href={item.link} target={item.target ? item.target : "_self"}>
+                            <Button key={item.title} href={item.link} target={item.target ? item.target : "_self"}>
                                 {item.title}
                             </Button>
                         ))}

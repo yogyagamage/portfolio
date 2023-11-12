@@ -1,7 +1,7 @@
-import { Avatar, Button, Stack, Typography } from "@mui/material";
-import CommonDivider from "../../common/commonDivider";
+import { Avatar, Button, Stack } from "@mui/material";
 import DescriptionList from "../../common/descriptionList";
 import SubSectionTitle from "../../common/subSectionTitle";
+import CommonDivider from "../../common/commonDivider";
 
 export default function Contact({ data }) {
     return (

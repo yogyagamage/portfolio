@@ -4,7 +4,7 @@
             "id": 0,
             "content": [
                 {
-                    "body": "Hey ",
+                    "body": "Hi, ",
                     "morningSalute": "Good Morning",
                     "afternoonSalute": "Good Afternoon",
                     "eveningSalute": "Good Evening"
@@ -22,7 +22,10 @@
                     "body": [
                         "Researcher",
                         2000,
-                        "Full-Stack Developer"
+                        "Full-Stack Developer",
+                        2000,
+                        "Machine Learning Enthusiast",
+                        2000
                     ]
                 }
             ]
@@ -33,7 +36,8 @@
             "interests": [
                 {
                     "title": "Fields",
-                    "color": "success",
+                    "color": "primary",
+                    "variant": "outlined",
                     "interests": [
                         {
                             "title": "Software engineering "
@@ -52,26 +56,27 @@
                 {
                     "title": "Programming Languages",
                     "color": "default",
+                    "variant": "outlined",
                     "interests": [
                         {
                             "title": "Java",
-                            "imageUrl": "https://seeklogo.com/images/N/java-logo-8FCFF51DD2-seeklogo.com.png"
+                            "imageUrl": "https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png"
                         },
                         {
                             "title": "Python",
-                            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVF1dospej2VMDF0sb-TuNCYudETDT6UKVQ&usqp=CAU"
+                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
                         },
                         {
                             "title": "Javascript",
-                            "imageUrl": "https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg"
+                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"
                         },
                         {
                             "title": "SQL",
-                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png"
+                            "imageUrl": "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"
                         },
                         {
                             "title": "NoSQL",
-                            "imageUrl": "https://www.svgrepo.com/show/303388/java-4-logo.svg"
+                            "imageUrl": "https://busi.eu/app/uploads/2020/02/NoSQL.jpg"
                         }
                     ]
                 }

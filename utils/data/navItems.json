@@ -1,9 +1,9 @@
 {
+    "title": {
+        "title": "yogya gamage",
+        "link": "/"
+    },
     "content": [
-        {
-            "title" : "Home",
-            "link" : "/"
-        },
         {
             "title" : "About",
             "link" : "/aboutMe"
