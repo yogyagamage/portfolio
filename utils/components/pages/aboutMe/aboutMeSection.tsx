@@ -56,12 +56,12 @@ function SingleContent({ content }) {
             <br />
             {
                 content.content.map((contentDesc) => (
-                    <>
+                    <div key={contentDesc.title}>
                         <ExperienceOverview title={ contentDesc.title } />
                         <br />
                         <DescriptionList list={ contentDesc.content } />
                         <br />
-                    </>
+                    </div>
                 ))
             }
             <CommonDivider />
