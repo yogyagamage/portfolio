@@ -1,7 +1,7 @@
 import { ArrowCircleRight } from "@mui/icons-material";
 import { IconButton, ImageList, ImageListItem, ImageListItemBar, Typography } from "@mui/material";
 import Link from "next/link";
-import projectConfig from "../../../data/projects.json";
+import projectConfig from "../../../data/research.json";
 import CommonDivider from "../../common/commonDivider";
 import SubSectionTitle from "../../common/subSectionTitle";
 

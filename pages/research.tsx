@@ -3,7 +3,7 @@ import MainGrid from "../utils/components/common/mainGrid";
 import NavBar from "../utils/components/common/navBar";
 import Title from "../utils/components/common/title";
 import ProjectSection from "../utils/components/pages/projects/projectSection";
-import projectsConfig from "../utils/data/projects.json";
+import projectsConfig from "../utils/data/research.json";
 
 export default function Projects() {
     return (

@@ -11,7 +11,7 @@ function MyApp(prop) {
     return (
         <>
             <Head>
-                <title>Achintha Isuru</title>
+                <title>Yogya Gamage</title>
                 <link rel="shortcut icon" href="/favicon.png" />
             </Head>
             <ThemeProvider theme={ appTheme }>

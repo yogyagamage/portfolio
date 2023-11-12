@@ -9,15 +9,15 @@
             "link" : "/aboutMe"
         },
         {
-            "title" : "Projects",
-            "link" : "/projects"
+            "title" : "Research",
+            "link" : "/research"
         },
         {
             "title" : "Experiences",
             "link" : "/experiences"
         },
         {
-            "title" : "Download CV",
+            "title" : "CV",
             "link" : "https://drive.google.com/file/d/1Py1s1BHQcSjDTmm_BdBSC9cl05HhahTl/view?usp=sharing",
             "target" : "_blank"
         }

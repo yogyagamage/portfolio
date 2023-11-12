@@ -1,21 +1,12 @@
 {
-    "pageTitle": "Projects",
+    "pageTitle": "Research Projects",
     "projects": [
         {
-            "name": "A New User Interface Concept for ATM’s to Reduce Receipt Wastage",
-            "role": "UI/UX Designer",
+            "name": "Extending SBOMs with Runtime Resource Access Information",
             "overview": [
                 {
                     "title": "Duration",
-                    "body": "2021 Jan - 2021 Aug"
-                },
-                {
-                    "title": "Sector",
-                    "body": "Urban Development"
-                },
-                {
-                    "title": "My Role",
-                    "body": "UI/UX Designer"
+                    "body": "2023 Oct"
                 }
             ],
             "image": "https://images.unsplash.com/photo-1631528754981-dcbce4d4d652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80",
@@ -32,29 +23,11 @@
                     "images": [
                         {
                             "image": "/images/projects/ATM/atm-org.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         },
                         {
                             "image": "/images/projects/ATM/atm-prop.png",
-                            "alt": "achintha isuru - 1"
-                        }
-                    ]
-                },
-                {
-                    "title": "Accomplishments",
-                    "body": "I competed in two contests: the 'Stanford Design Challenge' organised by Stanford University in the United States and the 'IET 150 & Beyond' hosted by the Sri Lankan IET Young Professionals chapter. Despite failing to reach the finals of the first competition, I was able to win the second by successfully utilizing the feedback I received.",
-                    "images": [
-                        {
-                            "image": "/images/projects/ATM/accom-1.jpg",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "/images/projects/ATM/accom-2.jpg",
-                            "alt": "achintha isuru - 1"
-                        },
-                        {
-                            "image": "/images/projects/ATM/accom-3.jpg",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         }
                     ]
                 },
@@ -63,7 +36,7 @@
                     "body": "The presentation that follows goes into great detail regarding the project. For further information, please see the presentation.",
                     "presentations": [
                         {
-                            "link": "https://www.canva.com/design/DAEl9KetVkQ/view?embed"
+                            "link": "https://youtu.be/embed/Kdg_HHW5kvE"
                         }
                     ]
                 }
@@ -100,11 +73,11 @@
                     "images": [
                         {
                             "image": "/images/projects/fabvis/fabvis-2.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         },
                         {
                             "image": "/images/projects/fabvis/fabvis-3.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         }
                     ]
                 },
@@ -218,15 +191,15 @@
                     "images": [
                         {
                             "image": "/images/projects/organic/organic-1.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         },
                         {
                             "image": "/images/projects/organic/organic-2.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         },
                         {
                             "image": "/images/projects/organic/organic-3.png",
-                            "alt": "achintha isuru - 1"
+                            "alt": "yogya gamage - 1"
                         }
                     ]
                 },
