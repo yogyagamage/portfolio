@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import CommonDivider from "../../common/commonDivider";
 import DescriptionList from "../../common/descriptionList";
 import ExperienceOverview from "./experienceOverview";
+import Typography from "@mui/material/Typography";
 
 function Experiences({ experiences }) {
 
@@ -24,11 +25,21 @@ function SingleExperience({ experience }) {
 
     return (
         <>
-            <ExperienceOverview
-               title={experience.title} />
+             <br />
+            <Typography variant="h4" color="text.primary">
+                { experience.title }
+            </Typography>
             <br />
-            <DescriptionList list={experience.content} />
-
+            {
+                experience.content.map((singleExperience) => (
+                    <>
+                        <ExperienceOverview title={ singleExperience.title } />
+                        <br />
+                        <DescriptionList list={ singleExperience.content } />
+                        <br />
+                    </>
+                ))
+            }
             <CommonDivider />
         </>
     );
