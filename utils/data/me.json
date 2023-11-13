@@ -52,10 +52,16 @@
                         "title": [
                             "A non-exhaustive list of my Table Tennis achievements"
                         ],
-                        "body": [
-                            "I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the sport, but my parents' enthusiasm to see me play kept me going. I learned a lot from all these years of playing, but the best part was making awesome friends with my incredible teammates. As Mary Lou Retton said, 'A trophy carries dust. Memories last forever.'"
-                        ],
                         "content": [
+                            {
+                                "body": [
+                                    {
+                                        "body": [
+                                            "I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the sport, but my parents' enthusiasm to see me play kept me going. I learned a lot from all these years of playing, but the best part was making awesome friends with my incredible teammates. As Mary Lou Retton said, 'A trophy carries dust. Memories last forever.'"
+                                        ]
+                                    }
+                                ]
+                            },
                             {
                                 "title": "Representing the Table Tennis team of WSO2 LLC",
                                 "body": [
@@ -66,7 +72,7 @@
                                     },
                                     {
                                         "body": [
-                                            "2023 - Inter IT Club Knockout Tournament Women's Doubles - Champion"
+                                            "2023 - Inter IT Club Knockout Tournament Mixed Doubles - Champion"
                                         ]
                                     },
                                     {
@@ -163,64 +169,83 @@
                                 "title": "Representing the Table Tennis team of Southland College",
                                 "body": [
                                     {
-                                        "title": "2013",
                                         "body": [
-                                            "All Island School Games - Silver Medal",
-                                            "Southern Province Sports Colors"
+                                            "2013 - All Island School Games - Silver Medal"
                                         ]
                                     },
                                     {
-                                        "title": "2012",
                                         "body": [
-                                            "All Island School Games - Silver Medal",
-                                            "All Island Inter-School Under 19 Girls C-Division - Champion",
-                                            "All Island Inter-School Under 18 Girls B-Division - Runner-Up"
+                                            "2013 - Southern Province Sports Colors"
                                         ]
                                     },
                                     {
-                                        "title": "2011",
                                         "body": [
-                                            "All Island School Games - Bronze Medal",
-                                            "All Island Inter-School Under 16 Girls B-Division - Runner-Up"
+                                            "2012 - All Island School Games - Silver Medal"
                                         ]
                                     },
                                     {
-                                        "title": "2010",
                                         "body": [
-                                            "All Island Inter-School Under 14 Girls B-Division - Champion",
-                                            "All Island Inter-School Under 18 Girls C-Division - Runner-Up"
+                                            "2012 - All Island Inter-School Under 19 Girls C-Division - Champion"
                                         ]
                                     },
                                     {
-                                        "title": "2009",
                                         "body": [
-                                            "All Island Inter-School Under 12 Girls A-Division - Runner-Up",
-                                            "All Island Inter-School Under 16 Girls C-Division - Champion"
+                                            "2012 - All Island Inter-School Under 18 Girls B-Division - Runner-Up"
                                         ]
                                     },
                                     {
-                                        "title": "2008",
                                         "body": [
-                                            "All Island Inter-School Under 12 Girls C-Division - Champion"
+                                            "2011-  All Island School Games - Bronze Medal"
                                         ]
                                     },
                                     {
-                                        "title": "2007",
                                         "body": [
-                                            "Sri Lanka Table Tennis Colors - Merit Award",
-                                            "All Island Inter-School Under 10 Girls A-Division - Champion"
+                                            "2011 - All Island Inter-School Under 16 Girls B-Division - Runner-Up"
                                         ]
                                     },
                                     {
-                                        "title": "2005",
                                         "body": [
-                                            "All Island Inter-School Under 10 Girls A-Division - Runner-Up"
+                                            "2010 - All Island Inter-School Under 14 Girls B-Division - Champion"
                                         ]
                                     },
                                     {
-                                        "title": "2004",
                                         "body": [
-                                            "All Island Inter-School Under 10 Girls B-Division - Runner-Up"
+                                            "2010 - All Island Inter-School Under 18 Girls C-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2009 - All Island Inter-School Under 12 Girls A-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2009 - All Island Inter-School Under 16 Girls C-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2008 - All Island Inter-School Under 12 Girls C-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2007 - Sri Lanka Table Tennis Colors - Merit Award"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2007 - All Island Inter-School Under 10 Girls A-Division - Champion"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2005 - All Island Inter-School Under 10 Girls A-Division - Runner-Up"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "2004 - All Island Inter-School Under 10 Girls B-Division - Runner-Up"
                                         ]
                                     }
                                 ],
@@ -245,7 +270,6 @@
             },
             {
                 "title": "Random",
-                "body": "I love to read books—e-books, paperbacks, and audiobooks alike. Specifically, I like to read fantasy, historical romance, and philosophy.",
                 "content": [
                     {
                         "title": [ "10 favorite quotes" ],
@@ -299,7 +323,7 @@
                                     },
                                     {
                                         "body": [
-                                            "If you gaze for long into an abyss, the abyss gazes also into you. - Friedrich Nietzsche"
+                                            "“I wish it need not have happened in my time,” said Frodo. “So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.” (The Fellowship of the Ring - J. R. R. Tolkien)"
                                         ]
                                     }
                                 ]
@@ -308,10 +332,12 @@
                     },
                     {
                         "title": [ "10 favorite songs" ],
-                        "body": "I have a very specific taste in music. Though it is difficult to describe what my exact preference is, my playlists mostly include grunge, britpop, indie, classic-rock, and nu-metal songs. I am particularly a big fan of '90s alternative music.",
                         "content": [
                             {
                                 "body": [
+                                    {
+                                        "body": "I have a very specific taste in music. Though it is difficult to describe what my exact preference is, my playlists mostly include grunge, britpop, indie, classic-rock, and nu-metal songs. I am particularly a big fan of '90s alternative music."
+                                    },
                                     {
                                         "body": [
                                             "Hunger Strike - Temple of the Dog"
