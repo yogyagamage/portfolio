@@ -108,6 +108,14 @@
   margin-left: 0.5rem;
 }
 
+.me-avatar {
+  width: 50vw;
+  height: 50vw;
+  max-width: 250px;
+  max-height: 250px;
+  filter: grayscale();
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -129,9 +137,8 @@
 }
 
 .nameContainer {
-    height: 60vh;
-}
-
-.stack {
-    height: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
