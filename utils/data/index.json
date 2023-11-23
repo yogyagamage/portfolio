@@ -4,12 +4,6 @@
             "id": 0,
             "content": [
                 {
-                    "meImage": {
-                        "image": "/static/images/me/me.jpg",
-                        "alt": "me"
-                    }
-                },
-                {
                     "body": "Hi, ",
                     "morningSalute": "Good Morning",
                     "afternoonSalute": "Good Afternoon",
