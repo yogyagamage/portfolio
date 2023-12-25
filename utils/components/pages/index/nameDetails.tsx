@@ -1,28 +1,39 @@
-import { Typography } from "@mui/material";
+import { Avatar, Grid, Typography } from "@mui/material";
 import { Stack } from "@mui/system";
 import { useEffect, useState } from "react";
+import { TypeAnimation } from "react-type-animation";
 import styles from "../../../../styles/Home.module.css";
 import { Time, getTime } from "../../../functions/common";
 import CommonDivider from "../../common/commonDivider";
-import { TypeAnimation } from "react-type-animation";
-import ImageListComponent from "../../common/imageListComponent";
 
 export default function NameDetails({ data }) {
 
     return (
         <>
             <div className={ styles["nameContainer"] }>
-                <Stack className={ styles["stack"] } spacing={ 3 } justifyContent="center" alignItems="center">
-                    <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                        <Salutation salutationData={ data.content[0] } />
-                        <MyNameIs myNameIs={ data.content[1] } />
-                    </Stack>
-                    <Name name={ data.content[2] } />
-                    <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                        <MyNameIs myNameIs={ data.content[3] } />
-                        <Occupation occupation={ data.content[4] } />
-                    </Stack>
-                </Stack>
+                <Grid spacing={ 4 } container direction="column" alignItems="center" justifyContent="center">
+                    <Grid item>
+                        <Avatar
+                            className={ styles["me-avatar"] }
+                            alt= { data.content[0].meImage.alt }
+                            src={ data.content[0].meImage.image }
+                        />
+                    </Grid>
+                    <Grid item>
+                        
+                            <Stack className={ styles["stack"] } spacing={ 3 } justifyContent="center" alignItems="center">
+                                <Stack spacing={ 1 } justifyContent="center" alignItems="center">
+                                    <Salutation salutationData={ data.content[1] } />
+                                    <MyNameIs myNameIs={ data.content[2] } />
+                                </Stack>
+                                <Name name={ data.content[3] } />
+                                <Stack spacing={ 1 } justifyContent="center" alignItems="center">
+                                    <MyNameIs myNameIs={ data.content[4] } />
+                                    <Occupation occupation={ data.content[5] } />
+                                </Stack>
+                            </Stack>
+                    </Grid>
+                </Grid>
             </div>
             <CommonDivider />
         </>
