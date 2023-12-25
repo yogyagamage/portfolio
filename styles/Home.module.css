@@ -109,10 +109,10 @@
 }
 
 .me-avatar {
-  width: 50vw;
-  height: 50vw;
-  max-width: 250px;
-  max-height: 250px;
+  width: 15vw !important;
+  height: 15vw !important;
+  min-width: 100px !important;
+  min-height: 100px !important;
   filter: grayscale();
 }
 
