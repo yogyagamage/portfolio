@@ -23,7 +23,6 @@ export default function MainGrid(prop) {
                     sx={ {
                         borderLeft: "var(--Grid-borderWidth) solid",
                         borderRight: "var(--Grid-borderWidth) solid",
-                        minHeight: "66vh",
                         padding: "20px 40px"
                     } }
                 >
