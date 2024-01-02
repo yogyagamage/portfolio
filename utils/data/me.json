@@ -329,68 +329,6 @@
                                 ]
                             }
                         ]
-                    },
-                    {
-                        "title": [ "10 favorite songs" ],
-                        "content": [
-                            {
-                                "body": [
-                                    {
-                                        "body": "I have a very specific taste in music. Though it is difficult to describe what my exact preference is, my playlists mostly include grunge, britpop, indie, classic-rock, and nu-metal songs. I am particularly a big fan of '90s alternative music."
-                                    },
-                                    {
-                                        "body": [
-                                            "Hunger Strike - Temple of the Dog"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "High and Dry - Radiohead"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Patience - Chris Cornell (Cover)"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Sithija Reka - Kasun Kalhara, Indrachapa Liyanage"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Ordinary World - Duran Duran"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Would - Alice in Chains"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Green Eyes - Coldplay"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Dumb - Nirvana"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Driftwood - Travis"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Sandawathiye - Ridma Weerawardena, Charitha Attalage"
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
                     }
                 ]
             }
