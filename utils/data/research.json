@@ -4,22 +4,22 @@
         "publications": [
             {
                 "title": "D. Tiwari, Y. Gamage, M. Monperrus, B. Baudry 'PROZE: Generating Parameterized Unit Tests Informed by Runtime Data'",
-                "status": "https://arxiv.org/pdf/2407.00768"
+                "link": "https://arxiv.org/pdf/2407.00768"
             },
             {
-                "title": "B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, D. Tiwari 'Generative AI to Generate Test Data Generators'",
-                "status": "https://ieeexplore.ieee.org/document/10577477"
+                "title": "B. Baudry, K. Etemadi, S. Fang, Y. Gamage, Y. Liu, Y. Liu, M. Monperrus, J. Ron, A. Silva, D. Tiwari 'Generative AI to Generate Test Data Generators', IEEE Software Special Issue on Generative AI for Software Engineering, doi: 10.1109/MS.2024.3418570.",
+                "link": "https://ieeexplore.ieee.org/document/10577477"
             },
             {
-                "title": "F. R. Garcia, Y. T. Gamage, G. Skoglund, B. Baudry, M. Monperrus 'A Benchmark of Reproducible Breaking Dependency Updates'",
-                "status": "https://arxiv.org/pdf/2401.09906"
+                "title": "F. R. Garcia, Y. T. Gamage, G. Skoglund, B. Baudry, M. Monperrus 'A Benchmark of Reproducible Breaking Dependency Updates', 2024 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+                "link": "https://arxiv.org/pdf/2401.09906"
             },
             {
                 "title": "Y. T. Gamage, T. A. I. Thotawaththa, and A. Wijayasiri, 'Measuring road roughness through crowdsourcing while minimizing the conditional effects,' International journal of intelligent transportation systems research, vol. 20, no. 2, p. 581–601, 2022. doi: 10.1007/s13177-022-00312-6.",
                 "link": "https://link.springer.com/article/10.1007/s13177-022-00312-6"
             },
             {
-                "title": "Y. T. Gamage, T. A. I. Thotawaththa and A. Wijayasiri, 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' 2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer, 2022, pp. 118-123, doi: 10.1109/ICTer58063.2022.10024097.",
+                "title": "Y. T. Gamage, T. A. I. Thotawaththa and A. Wijayasiri, 'Identification of Road Surface Anomalies Using Crowdsourced Smartphone Sensor Data' 2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer), 2022, pp. 118-123, doi: 10.1109/ICTer58063.2022.10024097.",
                 "link": "https://ieeexplore.ieee.org/document/10024097"
             },
             {
