@@ -122,15 +122,6 @@
   transition: all 1s;
 }
 
-.name {
-  transition: all 0.5s;
-}
-
-.name:hover {
-  font-size: 3.5rem;
-  transition: all 0.5s;
-}
-
 @media (max-width: 600px) {
   .grid {
     width: 100%;
