@@ -16,21 +16,13 @@
                     "eveningSalute": "Good Evening"
                 },
                 {
-                    "body": "My name is"
+                    "body": "I'm"
                 },
                 {
                     "body": "Yogya Gamage"
                 },
                 {
-                    "body": "I am a "
-                },
-                {
-                    "body": [
-                        "Researcher",
-                        3000,
-                        "Full-Stack Developer",
-                        2000
-                    ]
+                    "body": "I'm a research engineer at KTH Royal Institute of Technology."
                 }
             ]
         },
@@ -51,36 +43,6 @@
                         },
                         {
                             "title": "Programming languages "
-                        },
-                        {
-                            "title": "Machine learning "
-                        }
-                    ]
-                },
-                {
-                    "title": "Programming Languages",
-                    "color": "default",
-                    "variant": "outlined",
-                    "interests": [
-                        {
-                            "title": "Java",
-                            "imageUrl": "https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png"
-                        },
-                        {
-                            "title": "Python",
-                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-                        },
-                        {
-                            "title": "Javascript",
-                            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"
-                        },
-                        {
-                            "title": "SQL",
-                            "imageUrl": "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"
-                        },
-                        {
-                            "title": "NoSQL",
-                            "imageUrl": "https://busi.eu/app/uploads/2020/02/NoSQL.jpg"
                         }
                     ]
                 }
@@ -89,7 +51,7 @@
                 {
                     "content": [
                         {
-                            "body": "I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project."
+                            "body": "I'm a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project."
                         }
                     ]
                 }
@@ -120,7 +82,7 @@
                 {
                     "image": "/static/images/contact-icons-svg/top-email.svg",
                     "alt": "yogya gamage - 1",
-                    "link": "mailto:yogya@kth.se"
+                    "link": "mailto:yogyagamage<at>umontreal<dot>ca"
                 },
                 {
                     "image": "/static/images/contact-icons-svg/top-in.svg",

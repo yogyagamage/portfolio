@@ -4,7 +4,7 @@
         "firstPara": [
             {
                 "key": "me-1",
-                "body": "Hello everyone! I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project. I am interested in research in the broad areas of software engineering, software security, and machine learning for software engineering."
+                "body": "Hello everyone! I am a research engineer at KTH Royal Institute of Technology working on enhancing software supply chain security as part of the CHAINS project. I am interested in research in the areas of software security, software testing and software reliability."
             }
         ],
         "contentDetails": [
@@ -19,11 +19,7 @@
                         ],
                         "content": [
                             {
-                                "body": [
-                                    {
-                                        "body": "I maintained a CGPA of 3.87 out of 4.2 during my Bachelor's degree, and in the final 2 years, I achieved a GPA of 4.04 out of 4.2. I was also selected for the Dean’s list in semesters 1, 4, 5, 6, 7, and 8 for achieving an SGPA of 3.8 or higher in each semester."
-                                    }
-                                ]
+                                "body": []
                             }
                         ]
                     },
@@ -35,29 +31,25 @@
                         ],
                         "content": [
                             {
-                                "body": [
-                                    {
-                                        "body": "I received my primary and secondary education from Southlands college, Galle. In the GCE Advanced Level Examination (2016) I achieved 4A passes (For Combined Mathematics, Physics, Chemistry, and General English) with an Z-score of 2.416 in the Physical science stream while being ranked among the first 1% of the country."
-                                    }
-                                ]
+                                "body": []
                             }
                         ]
                     }
                 ]
             },
             {
-                "title": "Hobbies",
+                "title": "Misc",
                 "content": [
                     {
                         "title": [
-                            "A non-exhaustive list of my Table Tennis achievements"
+                            "Table Tennis"
                         ],
                         "content": [
                             {
                                 "body": [
                                     {
                                         "body": [
-                                            "I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the sport, but my parents' enthusiasm to see me play kept me going. I learned a lot from all these years of playing, but the best part was making awesome friends with my incredible teammates. As Mary Lou Retton said, 'A trophy carries dust. Memories last forever.'"
+                                            "I love sports in general. Through the years, from time to time, I have been following Cricket, Tennis, and Football games. However, the only sport I actually played was Table Tennis. I started playing Table Tennis when I was 6 years old. There were many times that I fell out of love for the game, but my parents' enthusiasm to see me play kept me going. In case you are interested, here is a boring but still non-exhaustive list of my Table Tennis achievements."
                                         ]
                                     }
                                 ]
@@ -265,22 +257,21 @@
                                 ]
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "title": "Random",
-                "content": [
+                    },
                     {
-                        "title": [ "10 favorite quotes" ],
+                        "title": [ "Other hobbies" ],
                         "content": [
                             {
                                 "body": [
                                     {
                                         "body": [
-                                            "I myself am best when least in company. - Duke Orsino (Twelfth Night - William Shakespeare)"
+                                            "Books, music, and movies have always been a big influence on me, shaping who I am in so many ways. My taste for books and movies swings wildly from cheerful, rainbow-filled stories to dark, unsettling stuff. But, though I have tried, I just can't get into sitcoms or action/adventure/sci-fi superhero movies. \n In the case of music, I'm no expert, and yet I have a specific taste. I like melodies with unpredictable variations, lyrics with emotional honesty, and vocals with minimum autotune. \n It is always hard to list out favorites, but just to give a glimpse of my current tastes, here’s a list of some quotes that resonate with me—mostly taken from books."
                                         ]
-                                    },
+                                    }
+                                ]
+                            },
+                            {
+                                "body": [
                                     {
                                         "body": [
                                             "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not lead. Walk beside me… just be my friend. - Albert Camus"
@@ -288,17 +279,7 @@
                                     },
                                     {
                                         "body": [
-                                            "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "The only normal people are the ones you don't know very well. - Alfred Adler"
-                                        ]
-                                    },
-                                    {
-                                        "body": [
-                                            "Follow your heart but take your brain with you. - Alfred Adler"
+                                            "If I justify myself, mine own mouth shall condemn me. - Job:9:20 (Found in the book The Silent Patient - Alex Michaelides)"
                                         ]
                                     },
                                     {
@@ -308,7 +289,12 @@
                                     },
                                     {
                                         "body": [
-                                            "The life that ends at the age of twenty and the life that ends at ninety are both complete lives, and lives of happiness. - Philosopher (The courage to be disliked - Fumitake Koga and Ichiro Kishimi)"
+                                            "We can know only that we know nothing. And that is the highest degree of human wisdom. - Pierre Bezukhov (War and Peace - Leo Tolstoy)"
+                                        ]
+                                    },
+                                    {
+                                        "body": [
+                                            "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
                                         ]
                                     },
                                     {
@@ -318,7 +304,7 @@
                                     },
                                     {
                                         "body": [
-                                            "Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. - Sinbad the sailor (The Count of Monte Cristo - Alexandre Dumas)"
+                                            "Follow your heart but take your brain with you. - Alfred Adler"
                                         ]
                                     },
                                     {

@@ -1,4 +1,5 @@
 import CommonDivider from "../utils/components/common/commonDivider";
+import DescriptionList from "../utils/components/common/descriptionList";
 import MainGrid from "../utils/components/common/mainGrid";
 import NavBar from "../utils/components/common/navBar";
 import Title from "../utils/components/common/title";
@@ -13,6 +14,13 @@ export default function Projects() {
             <Title title={ projectsConfig.publication.pageTitle } />
             <MainGrid>
                 <PublicationsSection publications={ projectsConfig.publication.publications }/>
+            </MainGrid>
+
+            <CommonDivider />
+            
+            <Title title={ projectsConfig.talks.pageTitle } />
+            <MainGrid>
+                <DescriptionList list={ projectsConfig.talks.talks }/>
             </MainGrid>
 
             <CommonDivider />

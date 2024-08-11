@@ -29,7 +29,6 @@ export default function NameDetails({ data }) {
                                 <Name name={ data.content[3] } />
                                 <Stack spacing={ 1 } justifyContent="center" alignItems="center">
                                     <MyNameIs myNameIs={ data.content[4] } />
-                                    <Occupation occupation={ data.content[5] } />
                                 </Stack>
                             </Stack>
                     </Grid>
@@ -86,7 +85,7 @@ function MyNameIs({ myNameIs }) {
 function Name({ name }) {
 
     return (
-        <Typography variant="h2" color="text.primary" align="center">
+        <Typography variant="h2" color="text.primary" align="center" className={ styles["name"] }>
             <b>{ name.body }</b>
         </Typography>
     );

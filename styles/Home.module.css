@@ -114,6 +114,21 @@
   min-width: 100px !important;
   min-height: 100px !important;
   filter: grayscale();
+  transition: all 1s;
+}
+
+.me-avatar:hover {
+  filter: none;
+  transition: all 1s;
+}
+
+.name {
+  transition: all 0.5s;
+}
+
+.name:hover {
+  font-size: 3.5rem;
+  transition: all 0.5s;
 }
 
 @media (max-width: 600px) {
