@@ -4,7 +4,7 @@
         "firstPara": [
             {
                 "key": "me-1",
-                "body": "Hello everyone! I'm a PhD student at the Université de Montréal working on enhancing software supply chain security, supervised by Prof. Benoit Baudry. In a broader sense, I am interested in research in the areas of software security, software testing, and software reliability."
+                "body": "Hi there! I’m a PhD student at the Université de Montréal, where I’m working on enhancing software supply chain security under the supervision of Prof. Benoit Baudry. More broadly, my research interests lie in software security, software testing, and software reliability."
             }
         ],
         "contentDetails": [
@@ -52,6 +52,57 @@
             {
                 "title": "Misc",
                 "content": [
+                    {
+                        "title": [
+                            "Algorithmic Art"
+                        ],
+                        "content": [
+                            {
+                                "body": [
+                                    {
+                                        "body": [
+                                            "Inspired by my PhD supervisor, Benoit Baudry, I have recently started experimenting with algorithmic art. I'm not an artist, but I find it fascinating how slight variations in a few lines of code (or even just reloading the piece) can produce drastically different artworks. Here are two of my randomly selected pieces."
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Random Artworks",
+                                "body": [
+                                  {
+                                    "file": "/artworks/gibberish/index.html",
+                                    "width": 500,
+                                    "height": 400
+                                  },
+                                  {
+                                    "file": "/artworks/glass/index.html",
+                                    "width": 500,
+                                    "height": 500
+                                  },
+                                  {
+                                    "file": "/artworks/glassbw/index.html",
+                                    "width": 500,
+                                    "height": 500
+                                  },
+                                  {
+                                    "file": "/artworks/rug/index.html",
+                                    "width": 500,
+                                    "height": 250
+                                  },
+                                  {
+                                    "file": "/artworks/scratches/index.html",
+                                    "width": 500,
+                                    "height": 400
+                                  },
+                                  {
+                                    "file": "/artworks/theo/index.html",
+                                    "width": 500,
+                                    "height": 400
+                                  }
+                                ]
+                              }
+                        ]
+                    },
                     {
                         "title": [
                             "Table Tennis"
