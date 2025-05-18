@@ -15,20 +15,6 @@ export default function Projects() {
             <MainGrid>
                 <PublicationsSection publications={ projectsConfig.publication.publications }/>
             </MainGrid>
-
-            <CommonDivider />
-            
-            <Title title={ projectsConfig.talks.pageTitle } />
-            <MainGrid>
-                <DescriptionList list={ projectsConfig.talks.talks }/>
-            </MainGrid>
-
-            <CommonDivider />
-            
-            <Title title={ projectsConfig.research.pageTitle } />
-            <MainGrid>
-                <ProjectSection researches={ projectsConfig.research.projects }/>
-            </MainGrid>
         </>
     );
 }
