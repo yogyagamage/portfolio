@@ -5,6 +5,7 @@ let maxDist, segSize, tCount;
 function setup() {
     createCanvas(500, 400);
     colorMode(HSB, 360, 100, 100, 100);
+    frameRate(10);
     seed = random(100);
     lines = [];
     amt = 0;
@@ -51,7 +52,7 @@ function setup() {
 
     setTimeout(() => {
         noLoop();
-      }, 20000);
+      }, 90000);
 }
 
 function processLine(points, x1, y1, x2, y2) {

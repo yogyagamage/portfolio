@@ -41,6 +41,7 @@ function setup() {
   angle = random(0.3, 0.8)
   createCanvas(width, height);
   background('#1A1A1A');
+  frameRate(10);
 
   for (let key in jsonData1) {
     records1 = records1.concat(jsonData1[key]);

@@ -5,6 +5,7 @@ let pointsLists = [];
 function setup() {
     createCanvas(500, 400);
     colorMode(HSB, 360, 100, 100, 100);
+    frameRate(5);
     seed = random(100);
     pointsLists = [];
     amt = 0;
@@ -93,7 +94,4 @@ function draw() {
     }
     pop();
     pop();
-    setTimeout(() => {
-        noLoop();
-      }, 5000);
 }
