@@ -1,6 +1,6 @@
 [
     {
-        "quote": "I'm gonna make him an offer he can't refuse",
+        "quote": "I'm gonna make him an offer he can't refuse.",
         "movie": "The Godfather"
     },
     {
@@ -8,20 +8,24 @@
         "movie": "The Dark Knight"
     },
     {
-        "quote": "Two nasty looking switches over here, but I'm not going to be the first",
+        "quote": "Two nasty looking switches over here, but I'm not going to be the first.",
         "movie": "Young Frankenstein"
     },
     {
-        "quote": "Houston, we have a problem",
+        "quote": "Houston, we have a problem.",
         "movie": "Apollo 13"
     },
     {
-        "quote": "Bravo Six, Going Dark",
+        "quote": "Bravo Six, Going Dark.",
         "movie": "Call of Duty: Modern Warfare"
     },
     {
         "quote": "Lord. You can imagine where it goes from here.",
         "movie": "The Big Lebowski"
+    },
+    {
+        "quote": "I'll stop wearing black when they make a darker color.",
+        "movie": "The Addams Family"
     }
   ]
   
