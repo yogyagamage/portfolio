@@ -23,12 +23,11 @@ export default function NameDetails({ data }) {
                         
                             <Stack className={ styles["stack"] } spacing={ 3 } justifyContent="center" alignItems="center">
                                 <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                                    <Salutation salutationData={ data.content[1] } />
-                                    <MyNameIs myNameIs={ data.content[2] } />
+                                    <MyNameIs myNameIs={ data.content[1] } />
                                 </Stack>
-                                <Name name={ data.content[3] } />
+                                <Name name={ data.content[2] } />
                                 <Stack spacing={ 1 } justifyContent="center" alignItems="center">
-                                    <MyNameIs myNameIs={ data.content[4] } />
+                                    <MyNameIs myNameIs={ data.content[3] } />
                                 </Stack>
                             </Stack>
                     </Grid>

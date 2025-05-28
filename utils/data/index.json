@@ -10,13 +10,7 @@
                     }
                 },
                 {
-                    "body": "Hi, ",
-                    "morningSalute": "Good Morning",
-                    "afternoonSalute": "Good Afternoon",
-                    "eveningSalute": "Good Evening"
-                },
-                {
-                    "body": "I'm"
+                    "body": "Hi, I'm"
                 },
                 {
                     "body": "Yogya Gamage"
@@ -73,7 +67,7 @@
                 {
                     "content": [
                         {
-                            "body": "Please feel free to contact me via any of the platforms listed below."
+                            "body": "Feel free to contact me via any of the platforms listed below."
                         }
                     ]
                 }
